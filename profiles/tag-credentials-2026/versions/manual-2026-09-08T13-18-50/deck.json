@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "profileId": "tag-credentials-2026",
+  "versionId": "manual-2026-09-08T13-18-50",
+  "createdAt": "2026-09-08T13:18:54.942Z",
+  "mode": "manual",
+  "brief": "Короткие credentials для маркетинг-директора крупного банка. Показать международный уровень, сильный events и PR. Больше визуала, меньше текста.",
+  "deck": {
+    "title": "TAG · ручная версия",
+    "audience": "Версия, собранная вручную",
+    "rationale": "Обязательная вводная, выбранные кейсы в заданном порядке и финальный контактный слайд",
+    "slides": [
+      {
+        "type": "signature",
+        "title": "TAG Media Agency",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/tag/intro/slide-01.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Make your brand a tag in culture",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/tag/intro/slide-02.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Культура и среда",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/tag/intro/slide-03.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "География проектов",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/tag/intro/slide-04.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Собственные медиа",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/tag/intro/slide-05.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Система присутствия бренда",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/tag/intro/slide-06.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "TAG Toolkit",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/tag/intro/slide-07.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "TAG Heads",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/tag/intro/slide-08.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Подход TAG",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/tag/intro/slide-09.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Кейс-фильм",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/tag/intro/slide-10.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Избранные проекты",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/tag/intro/slide-11.png",
+        "locked": true
+      },
+      {
+        "type": "case",
+        "title": "INNOTECH LAUNCH",
+        "body": "Открытие международного университета в Алматы для 250+ гостей. 3,2+ млн органических охватов и 39+ публикаций",
+        "caseId": "tag-12",
+        "visualDirection": "text-photo-grid"
+      },
+      {
+        "type": "case",
+        "title": "TIGER SUMMER SHOW",
+        "body": "Двухдневное иммерсивное шоу для 800+ гостей. Экспозиция, AR/VR, гастрономия и музыкальная программа",
+        "caseId": "tag-22",
+        "visualDirection": "dark-panorama"
+      },
+      {
+        "type": "case",
+        "title": "ADSUMMER PICNIC",
+        "body": "Индустриальный пикник-конференция для 400 специалистов. Айдентика, застройка, лекторий и геймификация",
+        "caseId": "tag-18",
+        "visualDirection": "text-photo-grid"
+      },
+      {
+        "type": "case",
+        "title": "DOPPELGANGER",
+        "body": "PR-кампания слогана «две лучше, чем одна» в Казахстане. 2 млн целевых охватов и работа с национальными медиа",
+        "caseId": "tag-19",
+        "visualDirection": "text-collage"
+      },
+      {
+        "type": "contact",
+        "title": "LET’S TAG YOUR BRAND TOGETHER",
+        "body": "tagmedia.kz",
+        "caseId": "",
+        "visualDirection": "Минимальный финальный слайд"
+      }
+    ]
+  }
+}
