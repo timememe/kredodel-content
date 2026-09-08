@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "profileId": "tag-credentials-2026",
+  "versionId": "manual-save-smoke",
+  "createdAt": "2026-09-08T11:30:51.607Z",
+  "mode": "manual",
+  "brief": "smoke test",
+  "deck": {
+    "title": "Smoke",
+    "rationale": "Endpoint check",
+    "slides": [
+      {
+        "type": "signature",
+        "visualDirection": "source",
+        "caseId": "",
+        "locked": true,
+        "body": "",
+        "title": "TAG"
+      }
+    ],
+    "audience": "QA"
+  }
+}
