@@ -1,0 +1,264 @@
+{
+  "schemaVersion": 1,
+  "profileId": "tag-credentials-2026",
+  "versionId": "pipeline-smoke-test",
+  "createdAt": "2026-09-08T11:19:16.832391+00:00",
+  "sourcePdf": "profiles/tag-credentials-2026/source/original.pdf",
+  "outputPdf": "profiles/tag-credentials-2026/versions/pipeline-smoke-test/output.pdf",
+  "operations": [
+    {
+      "align": 0,
+      "color": "#000000",
+      "page": 1,
+      "type": "replace_text",
+      "text": "KREDODEL PDF PIPELINE TEST",
+      "background": "#FFFFFF",
+      "fontSize": 24,
+      "bbox": [
+        40,
+        124,
+        397,
+        258
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "number": 1,
+      "width": 1920.0,
+      "height": 1080.0,
+      "preview": "profiles/tag-credentials-2026/versions/pipeline-smoke-test/previews/page-001.png",
+      "textBlocks": [
+        {
+          "bbox": [
+            40.0,
+            286.0,
+            369.32,
+            317.0
+          ],
+          "text": "Открытие бутика IQOS MINOR MALL",
+          "font": "Type3 (176 0 R)",
+          "size": 25.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            389.0,
+            606.91,
+            413.8
+          ],
+          "text": "#AB@>8;8 >D8F80;L=>5 >B:@KB85 1CB8:0 IQOS (",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            416.0,
+            652.17,
+            440.8
+          ],
+          "text": "2 Minor Tashkent 2 :>;;01>@0F88 A Monolic Jewerly (",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            443.0,
+            633.81,
+            467.8
+          ],
+          "text": "4;O B>?-<5=546<5=B0 8 72574=KE 3>AB59 1@5=40.",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            490.0,
+            635.54,
+            514.8
+          ],
+          "text": "™ \u00170 425 =545;8 >@30=87>20;8 ?>;=K9 :@50B82=K9 (",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            510.0,
+            589.03,
+            534.8
+          ],
+          "text": "8 B5E=8G5A:89 ?@>40:H= 42CE <5@>?@8OB89 \u0014",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            530.0,
+            683.55,
+            554.8
+          ],
+          "text": ">D8F80;L=>3> >B:@KB8O 1CB8:0 8 25G5@8=:8 2 53> G5ABL.",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            570.0,
+            681.9,
+            594.8
+          ],
+          "text": "™ #=8:0;L=K9 48709= 2 :>;;01>@0F88 A Monolic Jewerly",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            590.0,
+            578.46,
+            614.8
+          ],
+          "text": "=0 >158E ;>:0F8OE \u0014 A>G5B0=85 18@N7K IQOS (",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            610.0,
+            430.48,
+            634.8
+          ],
+          "text": "A A5@51@>< 8 >1@070<8 Monolic.",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            650.0,
+            652.88,
+            674.8
+          ],
+          "text": "™ \u00102B>@A:85 8=B5@0:B82=K5 7>=K A VR-AB5=40<8, 0@B-",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            670.0,
+            634.57,
+            694.8
+          ],
+          "text": "8=AB0;;OF859 8 C3>;:>< 4;O :@0DB0 ?5@A>=0;L=KE",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            690.0,
+            218.38,
+            714.8
+          ],
+          "text": "C:@0H5=89.",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            730.0,
+            623.86,
+            754.8
+          ],
+          "text": "™ %54;09=5@ A>1KB8O \u0013€?>?C;O@=0O 2 #715:8AB0=5 (",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            95.0,
+            750.0,
+            221.95,
+            774.8
+          ],
+          "text": "Doppi Twins.",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            73.0,
+            906.0,
+            436.69,
+            943.2
+          ],
+          "text": "#PR #Events #Creative",
+          "font": "Type3 (176 0 R)",
+          "size": 30.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            48.0,
+            1034.0,
+            164.38,
+            1058.8
+          ],
+          "text": "TAG CREDENTIALSˇ2 26",
+          "font": "Type3 (176 0 R)",
+          "size": 20.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            40.0,
+            124.0,
+            341.42,
+            156.98
+          ],
+          "text": "KREDODEL PDF PIPELINE",
+          "font": "Helvetica",
+          "size": 24.0,
+          "color": 0
+        },
+        {
+          "bbox": [
+            40.0,
+            159.45,
+            101.34,
+            192.43
+          ],
+          "text": "TEST",
+          "font": "Helvetica",
+          "size": 24.0,
+          "color": 0
+        }
+      ],
+      "imageCount": 7
+    }
+  ]
+}
