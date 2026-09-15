@@ -1,0 +1,185 @@
+{
+  "mode": "manual",
+  "brief": "Короткие credentials для маркетинг-директора крупного банка. Показать международный уровень, сильный events и PR. Больше визуала, меньше текста.",
+  "deck": {
+    "title": "TAG · ручная версия",
+    "audience": "Версия, собранная вручную",
+    "rationale": "Обязательная вводная, выбранные кейсы в заданном порядке и финальный слайд",
+    "slides": [
+      {
+        "type": "signature",
+        "title": "TAG Media Agency",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-001.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Make your brand a tag in culture",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-002.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "TAG · 10 лет",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-003.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "География проектов",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-004.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Собственные медиа",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-005.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Система присутствия бренда",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-006.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "TAG Toolkit",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-007.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "TAG Heads",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-008.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Подход TAG",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-009.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Brands we tagged",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-010.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Избранные проекты",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-011.png",
+        "locked": true
+      },
+      {
+        "type": "case",
+        "title": "INNOTECH LAUNCH",
+        "body": "Апрель: открытие университета в Алматы для 250+ гостей. Официальная программа с участием Министерства науки РК и Посольства США, интерактивное шоу для инфлюенсеров и абитуриентов, техническое производство и работа со СМИ. 3,2+ млн органических охватов в соцсетях и 39+ публикаций; заявлен нулевой бюджет на покупку рекламы.",
+        "caseId": "tag-12",
+        "visualDirection": "Название, месяц, подзаголовок, описание реализации, отдельный абзац с метриками, теги."
+      },
+      {
+        "type": "case",
+        "title": "BI GROUP: НАУРЫЗ 2026",
+        "body": "Март: мероприятие в Swissôtel Almaty с официальной частью, шоу, этнодеревней, национальными играми и детской зоной. Совместно с фондом «Жулдызай» создана инклюзивная арт-зона. Текст одновременно называет событие летним фестивалем, что расходится с датой. 700+ гостей. Заявлен эффект сплочения команды; формулировка «на 100%» не сопровождается методикой измерения.",
+        "caseId": "tag-18",
+        "visualDirection": "Клиент, дата, формат, название события, описание и качественный результат."
+      },
+      {
+        "type": "case",
+        "title": "IQOS LUMA: ПРЕЗЕНТАЦИЯ В ТАШКЕНТЕ",
+        "body": "Апрель: запуск в InterContinental Tashkent, футуристическая концепция, интерактивные стенды, шоу, логистика и размещение зарубежных спикеров. 350 VIP-гостей и иностранных делегатов; реализован иммерсивный технологический показ с сервисом 360°.",
+        "caseId": "tag-19",
+        "visualDirection": "Клиент, дата, подзаголовок, описание производства и опыта гостей, теги."
+      },
+      {
+        "type": "case",
+        "title": "FREKEN BOK",
+        "body": "Развлекательные digital-сюжеты, юмор и узнаваемые бытовые ситуации; интеграция товаров для дома в авторский контент. Совокупный охват более 6,4 млн; заявлено усиление узнаваемости в Казахстане.",
+        "caseId": "tag-22",
+        "visualDirection": "Название, период, описание подхода, пункты реализации, результат, теги."
+      },
+      {
+        "type": "case",
+        "title": "FREEDOM TICKETON EVENTS",
+        "body": "Август: концепция, производство и монтаж фотозоны Freedom Bank для концерта YE. После переноса концерта оформление адаптировали к новой дате. Производство выполнено за несколько дней; адаптация произведена за несколько часов до нового концерта с сохранением концепции и внешнего вида.",
+        "caseId": "tag-14",
+        "visualDirection": "Название, дата, задача, рассказ о сложностях и решении, теги."
+      },
+      {
+        "type": "case",
+        "title": "YANDEX ADSUMMER PICNIC 2025",
+        "body": "Июнь: open air на площадке Red Rhino для рекламной индустрии. Айдентика, техническое производство, логистика, лекторий, VR, воркшопы и интерактивный квест. 400 профильных специалистов. Высокая вовлечённость и концентрация B2B-контактов заявлены без численных показателей.",
+        "caseId": "tag-20",
+        "visualDirection": "Название, дата, формат, описание зон и реализации, качественный результат, теги."
+      },
+      {
+        "type": "case",
+        "title": "IQOS MINOR",
+        "body": "Август: открытие IQOS Minor в Ташкенте и вечеринка. Коллаборация с Monolic Jewelry, VR, арт-инсталляция, создание персональных украшений и выступление Doppi Twins. За две недели подготовлены креатив и техническое производство двух мероприятий. Метрики охвата не указаны.",
+        "caseId": "tag-13",
+        "visualDirection": "Название, дата, описание события, перечень особенностей, теги."
+      },
+      {
+        "type": "case",
+        "title": "SAMSUNG LIFE STYLE: СЕРИЯ РЕКЛАМНЫХ РОЛИКОВ",
+        "body": "Май: серия рекламных роликов Samsung Life Style. Сценарии и содержание роликов в извлечении отсутствуют. Количественные результаты не указаны.",
+        "caseId": "tag-17",
+        "visualDirection": "Краткий заголовок видеосерии, клиент, дата, теги, счётчик 01/03."
+      },
+      {
+        "type": "signature",
+        "title": "!˜\u0015& ˜ ˚\u0015ˆ\"+",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный финальный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2F595514a7-7195-41f0-8c98-46307daf8435%2Fpreviews%2Fpage-045.png",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "LETˇS S TAG YOUR BRAND",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный финальный слайд",
+        "sourceImage": "/api/pdf/asset?path=profiles%2F595514a7-7195-41f0-8c98-46307daf8435%2Fpreviews%2Fpage-046.png",
+        "locked": true
+      }
+    ]
+  },
+  "savedAt": "2026-09-15T11:15:33.667Z"
+}
