@@ -1,0 +1,19 @@
+{
+  "mode": "manual",
+  "brief": "test",
+  "deck": {
+    "title": "timing-test-2",
+    "audience": "x",
+    "rationale": "x",
+    "slides": [
+      {
+        "type": "case",
+        "title": "x",
+        "body": "x",
+        "caseId": "tag-12",
+        "visualDirection": "x"
+      }
+    ]
+  },
+  "savedAt": "2026-09-15T10:24:07.223Z"
+}
