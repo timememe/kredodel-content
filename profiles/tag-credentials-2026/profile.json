@@ -648,5 +648,17 @@
       "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-044.png"
     }
   ],
-  "updatedAt": "2026-09-08T13:29:04.3654521Z"
+  "updatedAt": "2026-09-15T10:46:43.101Z",
+  "finalSlides": [
+    {
+      "sourceSlide": 45,
+      "title": "!˜\u0015& ˜ ˚\u0015ˆ\"+",
+      "slideImage": "/api/pdf/asset?path=profiles%2F595514a7-7195-41f0-8c98-46307daf8435%2Fpreviews%2Fpage-045.png"
+    },
+    {
+      "sourceSlide": 46,
+      "title": "LETˇS S TAG YOUR BRAND",
+      "slideImage": "/api/pdf/asset?path=profiles%2F595514a7-7195-41f0-8c98-46307daf8435%2Fpreviews%2Fpage-046.png"
+    }
+  ]
 }
