@@ -1,0 +1,670 @@
+{
+  "title": "timing test",
+  "deck": {
+    "title": "timing-test",
+    "audience": "x",
+    "rationale": "x",
+    "slides": [
+      {
+        "type": "case",
+        "title": "x",
+        "body": "x",
+        "caseId": "tag-12",
+        "visualDirection": "x"
+      }
+    ]
+  },
+  "profileSnapshot": {
+    "id": "tag-credentials-2026",
+    "agencyName": "TAG",
+    "deckName": "TAG CREDENTIALS 2026",
+    "tagline": "Помогаем брендам оставлять свою метку в культуре и сердцах.",
+    "summary": "Credentials коммуникационного агентства TAG: 46 слайдов, позиционирование, география, собственные медиа, услуги, команда и портфолио. Кириллица в извлечении повреждена; значительная часть восстановима по устойчивому смещению символов и контексту. Визуальные данные отсутствуют, поэтому палитру, гарнитуры и точное расположение элементов определить нельзя. Кейсы охватывают 2020–2026 годы; результаты приведены как заявления презентации, без внешней проверки. Слайд 16 продолжает кейс KFC, слайд 44 содержит три отдельных SMM-кейса. Слайды 3 и 6 практически не содержат извлечённого текста; содержимое возможных изображений неизвестно.",
+    "sourceFilename": "TAG CREDENTIALS 26_08.09.pdf",
+    "slideCount": 46,
+    "palette": [
+      "#8A35FF",
+      "#000000",
+      "#FFFFFF",
+      "#E7E5E4"
+    ],
+    "fonts": {
+      "heading": "Bebas Neue",
+      "body": "Montserrat",
+      "accent": "Montaga"
+    },
+    "voice": [
+      "Уверенный агентский тон: «разработали», «реализовали», «обеспечили».",
+      "Культурное позиционирование: бренд как часть жизни людей, культурного контекста и отношений с аудиторией.",
+      "Эмоциональная подача через заметность, впечатления, сопричастность и запоминающийся опыт.",
+      "Акцент на реализации под ключ, сложности производства, сроках и сервисе.",
+      "Доказательность через охваты, число гостей, публикации, PR Value и показатели социальных сетей.",
+      "Русский текст с английскими названиями, профессиональной лексикой и хештегами.",
+      "Игра со словом TAG: TAG TOOLKIT, TAG HEADS, BRANDS WE TAGGED, LET’S TAG YOUR BRAND."
+    ],
+    "layoutPatterns": [
+      "Повторяющаяся подпись TAG CREDENTIALS 2026; положение на странице не определяется.",
+      "Обложка: обозначение коммуникационного агентства и Credentials 2026.",
+      "Манифест: тезис о роли брендов в культуре, обещание агентства и короткие эмоциональные формулировки.",
+      "Разделители портфолио: «Избранные проекты» и «Спецпроекты».",
+      "TAG TOOLKIT: шесть направлений с короткими описаниями.",
+      "TAG HEADS: имена руководителей и обозначения функций.",
+      "BRANDS WE TAGGED: вводный текст клиентского блока; логотипы из извлечения не восстанавливаются.",
+      "Основной кейс: название клиента или проекта, дата, краткое описание задачи, реализация, результат, теги услуг.",
+      "Развёрнутый кейс: вводный абзац, перечень работ и заключительный результат.",
+      "Видеопортфолио: название серии роликов, клиент, дата, теги и счётчик вида 01/03 или 02/03.",
+      "Сводный SMM-слайд: три клиентских блока с описанием работ и метриками.",
+      "Контактный финал: брендовый призыв, together, email, сайт и телефон.",
+      "Перечисленные шаблоны описывают структуру текста; сетка, композиция фотографий, фон и размеры элементов не подтверждены."
+    ],
+    "directions": [
+      "Creative: коммуникационные стратегии, big idea, кампании 360°, креативные концепции и упаковка бренда.",
+      "Digital: стратегии, спецпроекты и продвижение.",
+      "Events: события и бренд-активации от камерных запусков до городских и национальных проектов.",
+      "SMM: стратегия, контент, community management и продвижение.",
+      "PR: продуктовые, корпоративные и антикризисные коммуникации, influencer marketing.",
+      "Production: видео, аудио, фотопроизводство, нейропродакшн, игры, механики и AI-решения.",
+      "Собственные медиа: Comode.kz, Gagarin, Instagloria, Shushа и Posmotri.kz; написание Shushа требует проверки по оригиналу.",
+      "География, указанная на слайде 4: Казахстан, Узбекистан, Таджикистан, Грузия, Кыргызстан и Азербайджан."
+    ],
+    "mandatorySlides": [
+      {
+        "sourceSlide": 1,
+        "title": "TAG Media Agency",
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-001.png"
+      },
+      {
+        "sourceSlide": 2,
+        "title": "Make your brand a tag in culture",
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-002.png"
+      },
+      {
+        "sourceSlide": 3,
+        "title": "TAG · 10 лет",
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-003.png"
+      },
+      {
+        "sourceSlide": 4,
+        "title": "География проектов",
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-004.png"
+      },
+      {
+        "sourceSlide": 5,
+        "title": "Собственные медиа",
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-005.png"
+      },
+      {
+        "sourceSlide": 6,
+        "title": "Система присутствия бренда",
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-006.png"
+      },
+      {
+        "sourceSlide": 7,
+        "title": "TAG Toolkit",
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-007.png"
+      },
+      {
+        "sourceSlide": 8,
+        "title": "TAG Heads",
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-008.png"
+      },
+      {
+        "sourceSlide": 9,
+        "title": "Подход TAG",
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-009.png"
+      },
+      {
+        "sourceSlide": 10,
+        "title": "Brands we tagged",
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-010.png"
+      },
+      {
+        "sourceSlide": 11,
+        "title": "Избранные проекты",
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-011.png"
+      }
+    ],
+    "cases": [
+      {
+        "id": "tag-12",
+        "title": "INNOTECH LAUNCH",
+        "client": "INNOTECH",
+        "category": "Запуск университета",
+        "year": "2026",
+        "summary": "Апрель: открытие университета в Алматы для 250+ гостей. Официальная программа с участием Министерства науки РК и Посольства США, интерактивное шоу для инфлюенсеров и абитуриентов, техническое производство и работа со СМИ.",
+        "result": "3,2+ млн органических охватов в соцсетях и 39+ публикаций; заявлен нулевой бюджет на покупку рекламы.",
+        "tags": [
+          "PR",
+          "Events",
+          "Creative"
+        ],
+        "layout": "Название, месяц, подзаголовок, описание реализации, отдельный абзац с метриками, теги.",
+        "sourceSlide": 12,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-012.png"
+      },
+      {
+        "id": "tag-13",
+        "title": "IQOS MINOR",
+        "client": "IQOS",
+        "category": "Открытие бутика",
+        "year": "2026",
+        "summary": "Август: открытие IQOS Minor в Ташкенте и вечеринка. Коллаборация с Monolic Jewelry, VR, арт-инсталляция, создание персональных украшений и выступление Doppi Twins.",
+        "result": "За две недели подготовлены креатив и техническое производство двух мероприятий. Метрики охвата не указаны.",
+        "tags": [
+          "PR",
+          "Events",
+          "Creative"
+        ],
+        "layout": "Название, дата, описание события, перечень особенностей, теги.",
+        "sourceSlide": 13,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-013.png"
+      },
+      {
+        "id": "tag-14",
+        "title": "FREEDOM TICKETON EVENTS",
+        "client": "Freedom Bank / Ticketon",
+        "category": "Фотозона на концерте",
+        "year": "2026",
+        "summary": "Август: концепция, производство и монтаж фотозоны Freedom Bank для концерта YE. После переноса концерта оформление адаптировали к новой дате.",
+        "result": "Производство выполнено за несколько дней; адаптация произведена за несколько часов до нового концерта с сохранением концепции и внешнего вида.",
+        "tags": [
+          "PR",
+          "Events",
+          "Creative"
+        ],
+        "layout": "Название, дата, задача, рассказ о сложностях и решении, теги.",
+        "sourceSlide": 14,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-014.png"
+      },
+      {
+        "id": "tag-15",
+        "title": "KFC: запуск «Азиатских крылышек»",
+        "client": "KFC",
+        "category": "Интегрированная рекламная кампания",
+        "year": "2026",
+        "summary": "Апрель: креативная стратегия сезонного продукта, концепция и сценарии, производство роликов для ТВ и OLV, Key Visual для наружной рекламы и точек продаж, контентная и интерактивная SMM-поддержка. Слайд 16 продолжает кейс серией роликов.",
+        "result": "Реализован комплекс материалов запуска; заявлены согласования с глобальным офисом и соответствие стандартам KFC. Количественные результаты не приведены.",
+        "tags": [
+          "Creative",
+          "Production",
+          "Digital",
+          "SMM"
+        ],
+        "layout": "Развёрнутое описание на слайде 15; видеовитрина с датой, тегами и счётчиком 02/03 на слайде 16.",
+        "sourceSlide": 15,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-015.png"
+      },
+      {
+        "id": "tag-17",
+        "title": "Samsung Life Style: серия рекламных роликов",
+        "client": "Samsung",
+        "category": "Видеопроизводство",
+        "year": "2021",
+        "summary": "Май: серия рекламных роликов Samsung Life Style. Сценарии и содержание роликов в извлечении отсутствуют.",
+        "result": "Количественные результаты не указаны.",
+        "tags": [
+          "Production",
+          "Creative"
+        ],
+        "layout": "Краткий заголовок видеосерии, клиент, дата, теги, счётчик 01/03.",
+        "sourceSlide": 17,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-017.png"
+      },
+      {
+        "id": "tag-18",
+        "title": "BI Group: Наурыз 2026",
+        "client": "BI Group",
+        "category": "Корпоративный open air",
+        "year": "2026",
+        "summary": "Март: мероприятие в Swissôtel Almaty с официальной частью, шоу, этнодеревней, национальными играми и детской зоной. Совместно с фондом «Жулдызай» создана инклюзивная арт-зона. Текст одновременно называет событие летним фестивалем, что расходится с датой.",
+        "result": "700+ гостей. Заявлен эффект сплочения команды; формулировка «на 100%» не сопровождается методикой измерения.",
+        "tags": [
+          "Events",
+          "Creative"
+        ],
+        "layout": "Клиент, дата, формат, название события, описание и качественный результат.",
+        "sourceSlide": 18,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-018.png"
+      },
+      {
+        "id": "tag-19",
+        "title": "IQOS LUMA: презентация в Ташкенте",
+        "client": "Philip Morris / IQOS",
+        "category": "Запуск устройства",
+        "year": "2025",
+        "summary": "Апрель: запуск в InterContinental Tashkent, футуристическая концепция, интерактивные стенды, шоу, логистика и размещение зарубежных спикеров.",
+        "result": "350 VIP-гостей и иностранных делегатов; реализован иммерсивный технологический показ с сервисом 360°.",
+        "tags": [
+          "Events",
+          "Creative",
+          "Production"
+        ],
+        "layout": "Клиент, дата, подзаголовок, описание производства и опыта гостей, теги.",
+        "sourceSlide": 19,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-019.png"
+      },
+      {
+        "id": "tag-20",
+        "title": "YANDEX ADSUMMER PICNIC 2025",
+        "client": "Яндекс",
+        "category": "Индустриальный пикник-конференция",
+        "year": "2025",
+        "summary": "Июнь: open air на площадке Red Rhino для рекламной индустрии. Айдентика, техническое производство, логистика, лекторий, VR, воркшопы и интерактивный квест.",
+        "result": "400 профильных специалистов. Высокая вовлечённость и концентрация B2B-контактов заявлены без численных показателей.",
+        "tags": [
+          "Events",
+          "Creative"
+        ],
+        "layout": "Название, дата, формат, описание зон и реализации, качественный результат, теги.",
+        "sourceSlide": 20,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-020.png"
+      },
+      {
+        "id": "tag-21",
+        "title": "TWIX Doppelganger",
+        "client": "TWIX",
+        "category": "PR рекламной кампании",
+        "year": "2025",
+        "summary": "Июль: локальная PR-стратегия для слогана «Две лучше, чем одна», национальные и региональные СМИ, спецпроекты с lifestyle- и бизнес-медиа, брендированный контент и аналитика.",
+        "result": "Заявлено кратное перевыполнение планки 2 000 000 целевых охватов; точное итоговое значение не указано.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название, дата, задача, перечень работ, итоговый абзац, теги.",
+        "sourceSlide": 21,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-021.png"
+      },
+      {
+        "id": "tag-22",
+        "title": "Freken Bok",
+        "client": "Фрекен БОК",
+        "category": "PR и influencer marketing",
+        "year": "2025–2026",
+        "summary": "Развлекательные digital-сюжеты, юмор и узнаваемые бытовые ситуации; интеграция товаров для дома в авторский контент.",
+        "result": "Совокупный охват более 6,4 млн; заявлено усиление узнаваемости в Казахстане.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название, период, описание подхода, пункты реализации, результат, теги.",
+        "sourceSlide": 22,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-022.png"
+      },
+      {
+        "id": "tag-23",
+        "title": "VILED: Kaspi Жұма",
+        "client": "VILED",
+        "category": "Розничная digital-активация",
+        "year": "2024–2025",
+        "summary": "Fashion- и lifestyle-инфлюенсеры показывали ассортимент из бутиков во время Kaspi Жұма; охвачены категории fashion, beauty, jewelry, watches и premium lifestyle.",
+        "result": "1 592 944 охвата.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название, период, задача, механика присутствия, результат, теги.",
+        "sourceSlide": 23,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-023.png"
+      },
+      {
+        "id": "tag-24",
+        "title": "VILED × ALTYN BANK",
+        "client": "VILED / Altyn Bank",
+        "category": "Совместная коммуникационная кампания",
+        "year": "2024–2025",
+        "summary": "Банковское предложение интегрировали в контент о стиле, покупках и beauty через личный опыт fashion- и lifestyle-инфлюенсеров.",
+        "result": "245 260 охватов.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название партнёрства, период, подход, перечень механик, результат, теги.",
+        "sourceSlide": 24,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-024.png"
+      },
+      {
+        "id": "tag-25",
+        "title": "MIRATORG: «Под ключ»",
+        "client": "Мираторг",
+        "category": "Сезонная influencer-кампания",
+        "year": "2024–2025",
+        "summary": "Предпраздничная кампания на локальных культурных инсайтах: продукты включали в привычные рецепты и праздничные сценарии food- и lifestyle-авторов.",
+        "result": "1 014 007 охватов.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название, период, концепция, механики, зона ответственности и результат.",
+        "sourceSlide": 25,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-025.png"
+      },
+      {
+        "id": "tag-26",
+        "title": "RAHAT: PEPERO DAY",
+        "client": "Рахат / Pepero",
+        "category": "PR и influencer-сопровождение события",
+        "year": "2023–2024",
+        "summary": "Подбор блогеров и медиа, организация их участия, коммуникации с гостями и освещение до, во время и после Pepero Day.",
+        "result": "2 500 000 охватов.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название, период, описание события, задачи сопровождения, итоговая метрика.",
+        "sourceSlide": 26,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-026.png"
+      },
+      {
+        "id": "tag-27",
+        "title": "SEB GROUP",
+        "client": "SEB Group: Tefal, Moulinex, Rowenta",
+        "category": "Долгосрочное коммуникационное сопровождение",
+        "year": "2020–2026",
+        "summary": "Работа в Казахстане и Узбекистане: нативные демонстрации техники с макро- и микроинфлюенсерами, food- и lifestyle-авторами, семейными блогерами и поварами.",
+        "result": "861 355 охватов представленной кампании; это не обозначено как итог всего периода.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Группа брендов, период партнёрства, подход и состав авторов, метрика кампании.",
+        "sourceSlide": 27,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-027.png"
+      },
+      {
+        "id": "tag-28",
+        "title": "DREAME",
+        "client": "Dreame",
+        "category": "Комплексное PR-сопровождение",
+        "year": "2024–2026",
+        "summary": "Стратегия, influencer marketing, интеграции, СМИ, контроль публикаций и аналитика в Казахстане. Привлечение семейных, lifestyle-, food-, tech- и TikTok-авторов.",
+        "result": "Указан охват 3 148 757; период агрегации метрики не уточнён.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название, период, модель сопровождения, перечень работ, результат.",
+        "sourceSlide": 28,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-028.png"
+      },
+      {
+        "id": "tag-29",
+        "title": "COMODE 10 лет",
+        "client": "Comode",
+        "category": "Юбилейный ночной open air",
+        "year": "2025",
+        "summary": "Февраль: закрытое ночное катание на Shymbulak, работа со спонсорами, блогерами, партнёрами и медиа.",
+        "result": "500 гостей на высоте более 2200 метров; заявлены спонсорская монетизация и вирусный Instagram-охват без численных значений.",
+        "tags": [
+          "PR",
+          "Events"
+        ],
+        "layout": "Клиент, дата, формат, масштаб, описание логистики и спонсорской модели.",
+        "sourceSlide": 29,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-029.png"
+      },
+      {
+        "id": "tag-30",
+        "title": "SAP NOW AI Tour",
+        "client": "SAP",
+        "category": "Технологический форум",
+        "year": "2025",
+        "summary": "Июнь: форум в Ritz-Carlton Almaty, два параллельных зала, динамическое освещение, облачная регистрация и интерактивные партнёрские зоны. В тексте указан Оскар Конюхов.",
+        "result": "500 лидеров IT и бизнеса; заявлена бесперебойная работа регистрации, залов и тайминга.",
+        "tags": [
+          "PR",
+          "Events",
+          "Creative"
+        ],
+        "layout": "Название, дата, формат, перечень производственных решений, итоговый абзац.",
+        "sourceSlide": 30,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-030.png"
+      },
+      {
+        "id": "tag-31",
+        "title": "TIGER SUMMER SHOW",
+        "client": "Tiger",
+        "category": "Иммерсивный бренд-ивент",
+        "year": "2024",
+        "summary": "Август: двухдневное шоу в Алматы с экспозицией, AR/VR, гастрономией и музыкой. Приглашения, продажа билетов, застройка, контент и программа.",
+        "result": "800+ гостей; подготовка под ключ за четыре недели.",
+        "tags": [
+          "PR",
+          "Events",
+          "Creative"
+        ],
+        "layout": "Дата, категория, название, краткое описание масштаба и зоны ответственности.",
+        "sourceSlide": 31,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-031.png"
+      },
+      {
+        "id": "tag-32",
+        "title": "Everlasting Elegance",
+        "client": "VILED / Посольство Италии",
+        "category": "Дипломатическое и культурное событие",
+        "year": "2024",
+        "summary": "Июль: закрытый вечер в резиденции Посла Италии в Астане, посвящённый привозу «Прекрасной принцессы» Леонардо да Винчи и запуску прямых рейсов Астана — Милан. Объединены протокол, искусство, дефиле и коктейль.",
+        "result": "85 VIP-гостей; реализовано событие с дипломатическим протоколом.",
+        "tags": [
+          "Events",
+          "PR"
+        ],
+        "layout": "Клиенты, дата, тема выставки, описание поводов и сложности организации.",
+        "sourceSlide": 32,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-032.png"
+      },
+      {
+        "id": "tag-33",
+        "title": "VILED и 60-я Венецианская биеннале",
+        "client": "VILED Group",
+        "category": "Культурная PR-кампания",
+        "year": "2024",
+        "summary": "Июль: PR и закрытая пресс-конференция об участии Казахстана в Венецианской биеннале. В подзаголовке указан Алматы, в основном тексте — Talan Gallery Astana; место требует сверки.",
+        "result": "Более 2 000 000 охватов в СМИ и соцсетях; упомянуты публикации в Esquire и Forbes.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название, дата, формат, описание инфоповода, результат и упоминания СМИ.",
+        "sourceSlide": 33,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-033.png"
+      },
+      {
+        "id": "tag-34",
+        "title": "IQOS × STEVE AOKI",
+        "client": "IQOS",
+        "category": "Международная influencer-кампания",
+        "year": "2024",
+        "summary": "Адаптация глобального партнёрства со Стивом Аоки для Казахстана и Кыргызстана: соцсети артиста, музыкальные платформы, локальные блогеры и СМИ.",
+        "result": "1 000 000+ целевых охватов. 34,5 млн подписчиков, 15 млн слушателей Spotify и 538 тыс.+ слушателей Яндекс Музыки описывают аудитории артиста, а не достигнутый охват кампании.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название, год, задача, описание каналов, итоговая метрика.",
+        "sourceSlide": 34,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-034.png"
+      },
+      {
+        "id": "tag-35",
+        "title": "IQOS Together X Sensorium: пресс-тур в Японию",
+        "client": "IQOS",
+        "category": "Международный пресс-тур",
+        "year": "2024",
+        "summary": "Июль: сопровождение победителей проекта, международная логистика и документация, контент-стратегия, контроль фото и видео в реальном времени, постмедийное сопровождение.",
+        "result": "13 участников. Заявлен значительный органический охват без численной оценки.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название тура, дата, место, описание сопровождения и качественный результат.",
+        "sourceSlide": 35,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-035.png"
+      },
+      {
+        "id": "tag-36",
+        "title": "idocs DIGITAL SUPPORT",
+        "client": "idocs",
+        "category": "Digital-маркетинг и лидогенерация",
+        "year": "2024–2026",
+        "summary": "Digital-стратегия, performance-кампании, сегментация аудиторий, ремаркетинг, look-alike и прямая интеграция рекламных кабинетов с CRM.",
+        "result": "Заявлены снижение CPL, отсечение нерелевантных каналов и предсказуемая окупаемая B2B-воронка; численные значения отсутствуют.",
+        "tags": [
+          "Digital",
+          "Creative"
+        ],
+        "layout": "Клиент и направление, период, описание инструментов, абзацы об оптимизации и результате.",
+        "sourceSlide": 36,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-036.png"
+      },
+      {
+        "id": "tag-37",
+        "title": "UNESCO: коридоры наследия Шёлкового пути",
+        "client": "UNESCO",
+        "category": "Региональная итоговая конференция",
+        "year": "2024",
+        "summary": "Июль: подведение итогов проекта, финансируемого ЕС. Гости из Казахстана, Узбекистана, Кыргызстана и Таджикистана; официальная программа, выступления, виртуальная выставка и пресс-конференция.",
+        "result": "Под ключ реализованы концепция, дизайн, выставка, материалы, координация и техническое сопровождение; количественные результаты не указаны.",
+        "tags": [
+          "Events"
+        ],
+        "layout": "Клиент, дата, задача, контекст регионального проекта и перечень работ.",
+        "sourceSlide": 37,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-037.png"
+      },
+      {
+        "id": "tag-38",
+        "title": "BEELINE: медиаклуб The Pen",
+        "client": "Beeline",
+        "category": "Индустриальная медиаплатформа",
+        "year": "2023",
+        "summary": "Октябрь: серия гибридных экспертных встреч на казахском и русском языках для представителей медиарынка Казахстана и Центральной Азии.",
+        "result": "8 встреч, 350+ участников, более 200 000 целевых охватов, PR Value 6,4+ млн тенге. Упоминание 5000 профессионалов относится к охвату партнёрского фонда.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название, дата, формат, описание участников, итоговый абзац с метриками.",
+        "sourceSlide": 38,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-038.png"
+      },
+      {
+        "id": "tag-39",
+        "title": "Первый магазин LG в Монголии",
+        "client": "LG Electronics",
+        "category": "PR открытия и CSR",
+        "year": "2023",
+        "summary": "Октябрь: мероприятие в Улан-Баторе, PR открытия магазина, фото- и видеосъёмка, пресс-релиз на монгольском языке и отчёт. CSR включал восстановление школы и строительство спортивной площадки; создан ролик у статуи Чингисхана.",
+        "result": "Перечислены выполненные работы; показатели охвата не приведены.",
+        "tags": [
+          "PR"
+        ],
+        "layout": "Название, дата, формат, вводный абзац и список задач.",
+        "sourceSlide": 39,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-039.png"
+      },
+      {
+        "id": "tag-40",
+        "title": "OPENING KAZAKHSTAN",
+        "client": "KIA",
+        "category": "Экспедиционный тест-драйв",
+        "year": "2021",
+        "summary": "Сентябрь: тест-драйв в Алтын-Эмеле в формате иммерсивной экспедиции с luxury-глэмпингом для инфлюенсеров.",
+        "result": "Заявлены сильные впечатления участников и поток органического контента; количественных показателей нет.",
+        "tags": [
+          "Events",
+          "Creative"
+        ],
+        "layout": "Название, дата, подзаголовок и эмоциональное описание опыта.",
+        "sourceSlide": 40,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-040.png"
+      },
+      {
+        "id": "tag-41",
+        "title": "Olimpbet zone",
+        "client": "Olimpbet",
+        "category": "Фестивальная бренд-интеграция",
+        "year": "2023",
+        "summary": "Май: сопровождение генерального партнёра фестиваля — концепция и застройка лаунж-зоны, интерактивы, промоперсонал, мерч, фотосъёмка и отчётность.",
+        "result": "Зона работала на двухдневном фестивале для более чем 5000 гостей; отдельная посещаемость бренд-зоны не указана.",
+        "tags": [
+          "Events",
+          "Creative"
+        ],
+        "layout": "Название, дата, задача, список направлений работы, итоговый абзац.",
+        "sourceSlide": 41,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-041.png"
+      },
+      {
+        "id": "tag-42",
+        "title": "PM «Плагин»: IQOS Special Room",
+        "client": "Philip Morris / IQOS",
+        "category": "Интеграция на VISA Fashion Week",
+        "year": "2022",
+        "summary": "Ноябрь: цифровая зона в Almaty Theatre, конструкция для 3D-проекций на стены и потолок, дизайн, сценарий и адаптированный видеоконтент.",
+        "result": "Создано иммерсивное пространство IQOS; количественные метрики отсутствуют.",
+        "tags": [
+          "Events",
+          "Creative"
+        ],
+        "layout": "Название, дата, формат интеграции, описание среды и три блока реализации.",
+        "sourceSlide": 42,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-042.png"
+      },
+      {
+        "id": "tag-43",
+        "title": "GLOVO: доставка на коне",
+        "client": "Glovo",
+        "category": "Вирусная юбилейная кампания",
+        "year": "2020",
+        "summary": "Октябрь: пяти активным пользователям в Алматы доставили мини-холодильники необычными способами — на коне, с байкером, альпинистом, подъёмным краном и курьером-фокусником.",
+        "result": "Total Reach 4 873 006; PR Value более 10 млн тенге.",
+        "tags": [
+          "PR",
+          "Creative"
+        ],
+        "layout": "Название, дата, задача, описание механики, строка крупных итоговых метрик.",
+        "sourceSlide": 43,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-043.png"
+      },
+      {
+        "id": "tag-44-1",
+        "title": "Glovo: SMM-сопровождение",
+        "client": "Glovo",
+        "category": "SMM",
+        "year": "Не указан",
+        "summary": "SMM-стратегия, авторский контент, обработка обратной связи, таргетированная реклама и активации.",
+        "result": "Более 10 000 взаимодействий в неделю.",
+        "tags": [
+          "SMM",
+          "Digital"
+        ],
+        "layout": "Отдельный клиентский блок на сводном слайде SMM-клиентов.",
+        "sourceSlide": 44,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-044.png"
+      },
+      {
+        "id": "tag-44-2",
+        "title": "Pari Match: SMM-сопровождение",
+        "client": "Pari Match",
+        "category": "SMM",
+        "year": "Не указан",
+        "summary": "Стратегия бренд-платформы в соцсетях, активности и рекламные кампании.",
+        "result": "Более 1500 участников одной активации; 392 136 аккаунтов за месяц; +1839 подписчиков за месяц. Заявлено перевыполнение охвата на 118% и вовлечённости почти на 276%; базы сравнения не указаны.",
+        "tags": [
+          "SMM",
+          "Digital"
+        ],
+        "layout": "Клиентский блок с описанием и перечнем метрик на сводном слайде.",
+        "sourceSlide": 44,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-044.png"
+      },
+      {
+        "id": "tag-44-3",
+        "title": "LG Electronics: региональное SMM-сопровождение",
+        "client": "LG Electronics",
+        "category": "SMM",
+        "year": "Не указан",
+        "summary": "Копирайтинг, дизайн, публикации, community management и стратегии для Казахстана, Узбекистана, Монголии, Таджикистана, Туркменистана и Кыргызстана.",
+        "result": "За год: Казахстан Instagram — +14 660 целевых подписчиков, рост ER на 0,88%, ERReach на 67,57%, комментариев на 786%; Узбекистан — +46 640 подписчиков; Кыргызстан — +2716. Для ER не уточнено, идёт ли речь о процентах или процентных пунктах.",
+        "tags": [
+          "SMM",
+          "Digital"
+        ],
+        "layout": "Клиентский блок с географией и годовыми метриками по рынкам.",
+        "sourceSlide": 44,
+        "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-044.png"
+      }
+    ],
+    "updatedAt": "2026-09-08T13:29:04.3654521Z"
+  },
+  "createdAt": 1789467927435
+}
