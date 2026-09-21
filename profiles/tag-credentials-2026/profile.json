@@ -55,597 +55,710 @@
     {
       "sourceSlide": 1,
       "title": "TAG Media Agency",
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-001.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-01.webp"
     },
     {
       "sourceSlide": 2,
       "title": "Make your brand a tag in culture",
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-002.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-02.webp"
     },
     {
       "sourceSlide": 3,
       "title": "TAG · 10 лет",
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-003.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-03.webp"
     },
     {
       "sourceSlide": 4,
       "title": "География проектов",
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-004.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-04.webp"
     },
     {
       "sourceSlide": 5,
       "title": "Собственные медиа",
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-005.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-05.webp"
     },
     {
       "sourceSlide": 6,
       "title": "Система присутствия бренда",
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-006.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-06.webp"
     },
     {
       "sourceSlide": 7,
       "title": "TAG Toolkit",
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-007.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-07.webp"
     },
     {
       "sourceSlide": 8,
       "title": "TAG Heads",
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-008.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-08.webp"
     },
     {
       "sourceSlide": 9,
       "title": "Подход TAG",
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-009.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-09.webp"
     },
     {
       "sourceSlide": 10,
       "title": "Brands we tagged",
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-010.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-10.webp"
     },
     {
       "sourceSlide": 11,
       "title": "Избранные проекты",
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-011.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-11.webp"
     }
   ],
   "cases": [
     {
-      "id": "tag-12",
-      "title": "INNOTECH LAUNCH",
-      "client": "INNOTECH",
-      "category": "Запуск университета",
-      "year": "2026",
-      "summary": "Апрель: открытие университета в Алматы для 250+ гостей. Официальная программа с участием Министерства науки РК и Посольства США, интерактивное шоу для инфлюенсеров и абитуриентов, техническое производство и работа со СМИ.",
-      "result": "3,2+ млн органических охватов в соцсетях и 39+ публикаций; заявлен нулевой бюджет на покупку рекламы.",
+      "id": "lib-001",
+      "title": "SAP FORUM ASTANA",
+      "client": "SAP",
+      "category": "Events",
+      "year": "2019",
+      "summary": "Дата: 30 мая 2019 Клиент: SAP Локация: Астана, Hilton Astana Количество гостей: 2000 участников ЗАДАЧИ: Организация мероприятия под ключ: Работа со спонсорами Организация электронной регистрации участников Организация работы выставки, логистика стендов, 28 стендов Проведение шоу-открытия (лазерное\\световое шоу, LED-экран 29*5 метров) Поддержка в организационных вопросах, включая поддержку контроля качества текстовых материалов, презентаций, организационных коммуникаций. Организация проведения 8-ми параллельных сессий. Работа с медиа-партнерами: совместная разработка списка СМИ, приглашение, общение, отчет. Фото-видео освещение мероприятия, создание креативных материалов Помощь в оптимизации бюджетов форума SAP FORUM ASTANA",
+      "result": "",
       "tags": [
-        "PR",
-        "Events",
-        "Creative"
-      ],
-      "layout": "Название, месяц, подзаголовок, описание реализации, отдельный абзац с метриками, теги.",
-      "sourceSlide": 12,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-012.png"
-    },
-    {
-      "id": "tag-13",
-      "title": "IQOS MINOR",
-      "client": "IQOS",
-      "category": "Открытие бутика",
-      "year": "2026",
-      "summary": "Август: открытие IQOS Minor в Ташкенте и вечеринка. Коллаборация с Monolic Jewelry, VR, арт-инсталляция, создание персональных украшений и выступление Doppi Twins.",
-      "result": "За две недели подготовлены креатив и техническое производство двух мероприятий. Метрики охвата не указаны.",
-      "tags": [
-        "PR",
-        "Events",
-        "Creative"
-      ],
-      "layout": "Название, дата, описание события, перечень особенностей, теги.",
-      "sourceSlide": 13,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-013.png"
-    },
-    {
-      "id": "tag-14",
-      "title": "FREEDOM TICKETON EVENTS",
-      "client": "Freedom Bank / Ticketon",
-      "category": "Фотозона на концерте",
-      "year": "2026",
-      "summary": "Август: концепция, производство и монтаж фотозоны Freedom Bank для концерта YE. После переноса концерта оформление адаптировали к новой дате.",
-      "result": "Производство выполнено за несколько дней; адаптация произведена за несколько часов до нового концерта с сохранением концепции и внешнего вида.",
-      "tags": [
-        "PR",
-        "Events",
-        "Creative"
-      ],
-      "layout": "Название, дата, задача, рассказ о сложностях и решении, теги.",
-      "sourceSlide": 14,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-014.png"
-    },
-    {
-      "id": "tag-15",
-      "title": "KFC: запуск «Азиатских крылышек»",
-      "client": "KFC",
-      "category": "Интегрированная рекламная кампания",
-      "year": "2026",
-      "summary": "Апрель: креативная стратегия сезонного продукта, концепция и сценарии, производство роликов для ТВ и OLV, Key Visual для наружной рекламы и точек продаж, контентная и интерактивная SMM-поддержка. Слайд 16 продолжает кейс серией роликов.",
-      "result": "Реализован комплекс материалов запуска; заявлены согласования с глобальным офисом и соответствие стандартам KFC. Количественные результаты не приведены.",
-      "tags": [
-        "Creative",
-        "Production",
-        "Digital",
-        "SMM"
-      ],
-      "layout": "Развёрнутое описание на слайде 15; видеовитрина с датой, тегами и счётчиком 02/03 на слайде 16.",
-      "sourceSlide": 15,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-015.png"
-    },
-    {
-      "id": "tag-17",
-      "title": "Samsung Life Style: серия рекламных роликов",
-      "client": "Samsung",
-      "category": "Видеопроизводство",
-      "year": "2021",
-      "summary": "Май: серия рекламных роликов Samsung Life Style. Сценарии и содержание роликов в извлечении отсутствуют.",
-      "result": "Количественные результаты не указаны.",
-      "tags": [
-        "Production",
-        "Creative"
-      ],
-      "layout": "Краткий заголовок видеосерии, клиент, дата, теги, счётчик 01/03.",
-      "sourceSlide": 17,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-017.png"
-    },
-    {
-      "id": "tag-18",
-      "title": "BI Group: Наурыз 2026",
-      "client": "BI Group",
-      "category": "Корпоративный open air",
-      "year": "2026",
-      "summary": "Март: мероприятие в Swissôtel Almaty с официальной частью, шоу, этнодеревней, национальными играми и детской зоной. Совместно с фондом «Жулдызай» создана инклюзивная арт-зона. Текст одновременно называет событие летним фестивалем, что расходится с датой.",
-      "result": "700+ гостей. Заявлен эффект сплочения команды; формулировка «на 100%» не сопровождается методикой измерения.",
-      "tags": [
-        "Events",
-        "Creative"
-      ],
-      "layout": "Клиент, дата, формат, название события, описание и качественный результат.",
-      "sourceSlide": 18,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-018.png"
-    },
-    {
-      "id": "tag-19",
-      "title": "IQOS LUMA: презентация в Ташкенте",
-      "client": "Philip Morris / IQOS",
-      "category": "Запуск устройства",
-      "year": "2025",
-      "summary": "Апрель: запуск в InterContinental Tashkent, футуристическая концепция, интерактивные стенды, шоу, логистика и размещение зарубежных спикеров.",
-      "result": "350 VIP-гостей и иностранных делегатов; реализован иммерсивный технологический показ с сервисом 360°.",
-      "tags": [
-        "Events",
-        "Creative",
-        "Production"
-      ],
-      "layout": "Клиент, дата, подзаголовок, описание производства и опыта гостей, теги.",
-      "sourceSlide": 19,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-019.png"
-    },
-    {
-      "id": "tag-20",
-      "title": "YANDEX ADSUMMER PICNIC 2025",
-      "client": "Яндекс",
-      "category": "Индустриальный пикник-конференция",
-      "year": "2025",
-      "summary": "Июнь: open air на площадке Red Rhino для рекламной индустрии. Айдентика, техническое производство, логистика, лекторий, VR, воркшопы и интерактивный квест.",
-      "result": "400 профильных специалистов. Высокая вовлечённость и концентрация B2B-контактов заявлены без численных показателей.",
-      "tags": [
-        "Events",
-        "Creative"
-      ],
-      "layout": "Название, дата, формат, описание зон и реализации, качественный результат, теги.",
-      "sourceSlide": 20,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-020.png"
-    },
-    {
-      "id": "tag-21",
-      "title": "TWIX Doppelganger",
-      "client": "TWIX",
-      "category": "PR рекламной кампании",
-      "year": "2025",
-      "summary": "Июль: локальная PR-стратегия для слогана «Две лучше, чем одна», национальные и региональные СМИ, спецпроекты с lifestyle- и бизнес-медиа, брендированный контент и аналитика.",
-      "result": "Заявлено кратное перевыполнение планки 2 000 000 целевых охватов; точное итоговое значение не указано.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Название, дата, задача, перечень работ, итоговый абзац, теги.",
-      "sourceSlide": 21,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-021.png"
-    },
-    {
-      "id": "tag-22",
-      "title": "Freken Bok",
-      "client": "Фрекен БОК",
-      "category": "PR и influencer marketing",
-      "year": "2025–2026",
-      "summary": "Развлекательные digital-сюжеты, юмор и узнаваемые бытовые ситуации; интеграция товаров для дома в авторский контент.",
-      "result": "Совокупный охват более 6,4 млн; заявлено усиление узнаваемости в Казахстане.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Название, период, описание подхода, пункты реализации, результат, теги.",
-      "sourceSlide": 22,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-022.png"
-    },
-    {
-      "id": "tag-23",
-      "title": "VILED: Kaspi Жұма",
-      "client": "VILED",
-      "category": "Розничная digital-активация",
-      "year": "2024–2025",
-      "summary": "Fashion- и lifestyle-инфлюенсеры показывали ассортимент из бутиков во время Kaspi Жұма; охвачены категории fashion, beauty, jewelry, watches и premium lifestyle.",
-      "result": "1 592 944 охвата.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Название, период, задача, механика присутствия, результат, теги.",
-      "sourceSlide": 23,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-023.png"
-    },
-    {
-      "id": "tag-24",
-      "title": "VILED × ALTYN BANK",
-      "client": "VILED / Altyn Bank",
-      "category": "Совместная коммуникационная кампания",
-      "year": "2024–2025",
-      "summary": "Банковское предложение интегрировали в контент о стиле, покупках и beauty через личный опыт fashion- и lifestyle-инфлюенсеров.",
-      "result": "245 260 охватов.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Название партнёрства, период, подход, перечень механик, результат, теги.",
-      "sourceSlide": 24,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-024.png"
-    },
-    {
-      "id": "tag-25",
-      "title": "MIRATORG: «Под ключ»",
-      "client": "Мираторг",
-      "category": "Сезонная influencer-кампания",
-      "year": "2024–2025",
-      "summary": "Предпраздничная кампания на локальных культурных инсайтах: продукты включали в привычные рецепты и праздничные сценарии food- и lifestyle-авторов.",
-      "result": "1 014 007 охватов.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Название, период, концепция, механики, зона ответственности и результат.",
-      "sourceSlide": 25,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-025.png"
-    },
-    {
-      "id": "tag-26",
-      "title": "RAHAT: PEPERO DAY",
-      "client": "Рахат / Pepero",
-      "category": "PR и influencer-сопровождение события",
-      "year": "2023–2024",
-      "summary": "Подбор блогеров и медиа, организация их участия, коммуникации с гостями и освещение до, во время и после Pepero Day.",
-      "result": "2 500 000 охватов.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Название, период, описание события, задачи сопровождения, итоговая метрика.",
-      "sourceSlide": 26,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-026.png"
-    },
-    {
-      "id": "tag-27",
-      "title": "SEB GROUP",
-      "client": "SEB Group: Tefal, Moulinex, Rowenta",
-      "category": "Долгосрочное коммуникационное сопровождение",
-      "year": "2020–2026",
-      "summary": "Работа в Казахстане и Узбекистане: нативные демонстрации техники с макро- и микроинфлюенсерами, food- и lifestyle-авторами, семейными блогерами и поварами.",
-      "result": "861 355 охватов представленной кампании; это не обозначено как итог всего периода.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Группа брендов, период партнёрства, подход и состав авторов, метрика кампании.",
-      "sourceSlide": 27,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-027.png"
-    },
-    {
-      "id": "tag-28",
-      "title": "DREAME",
-      "client": "Dreame",
-      "category": "Комплексное PR-сопровождение",
-      "year": "2024–2026",
-      "summary": "Стратегия, influencer marketing, интеграции, СМИ, контроль публикаций и аналитика в Казахстане. Привлечение семейных, lifestyle-, food-, tech- и TikTok-авторов.",
-      "result": "Указан охват 3 148 757; период агрегации метрики не уточнён.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Название, период, модель сопровождения, перечень работ, результат.",
-      "sourceSlide": 28,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-028.png"
-    },
-    {
-      "id": "tag-29",
-      "title": "COMODE 10 лет",
-      "client": "Comode",
-      "category": "Юбилейный ночной open air",
-      "year": "2025",
-      "summary": "Февраль: закрытое ночное катание на Shymbulak, работа со спонсорами, блогерами, партнёрами и медиа.",
-      "result": "500 гостей на высоте более 2200 метров; заявлены спонсорская монетизация и вирусный Instagram-охват без численных значений.",
-      "tags": [
-        "PR",
         "Events"
       ],
-      "layout": "Клиент, дата, формат, масштаб, описание логистики и спонсорской модели.",
-      "sourceSlide": 29,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-029.png"
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 14,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-001/slide-014.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-001/slide-014.webp"
+        }
+      ]
     },
     {
-      "id": "tag-30",
-      "title": "SAP NOW AI Tour",
-      "client": "SAP",
-      "category": "Технологический форум",
-      "year": "2025",
-      "summary": "Июнь: форум в Ritz-Carlton Almaty, два параллельных зала, динамическое освещение, облачная регистрация и интерактивные партнёрские зоны. В тексте указан Оскар Конюхов.",
-      "result": "500 лидеров IT и бизнеса; заявлена бесперебойная работа регистрации, залов и тайминга.",
-      "tags": [
-        "PR",
-        "Events",
-        "Creative"
-      ],
-      "layout": "Название, дата, формат, перечень производственных решений, итоговый абзац.",
-      "sourceSlide": 30,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-030.png"
-    },
-    {
-      "id": "tag-31",
+      "id": "lib-002",
       "title": "TIGER SUMMER SHOW",
       "client": "Tiger",
-      "category": "Иммерсивный бренд-ивент",
+      "category": "Events",
       "year": "2024",
-      "summary": "Август: двухдневное шоу в Алматы с экспозицией, AR/VR, гастрономией и музыкой. Приглашения, продажа билетов, застройка, контент и программа.",
-      "result": "800+ гостей; подготовка под ключ за четыре недели.",
+      "summary": "Tiger Summer Show Дата: 9-10 августа 2024, г. Алматы. Гости: блогеры, СМИ, гости по билетам, всего более 800 человек. Uncage YOUR TIGER – «освободи своего Тигра из клетки». Именно под таким слоганом 9 и 10 августа в Алматы состоялось шоу нового формата Tiger Summer Show. Уникальная иммерсивная экспозиция с экскурсией по улочкам Сингапура и заводу – это лишь малая часть того, что предложил гостям Tiger. Что было: Путешествие по аутентичной сингапурской улочке 50-х годов прошлого века. AR/VR зоны и инновационные инсталляции и цифровые спецэффекты. Выставка инсталляций Tiger Can Create. Большой неоновый бар с гастрономическими сетами закусок. Хэдлайнерами шоу стали крутые казахстанские исполнители: abdr., dudeontheguitar, SAMRATTAMA и группа menindenimsaw, а за танцевальное настроение на протяжении обоих вечеров отвечали DJ Abramovich и DJ Katrin. Агентство за 4 недели организовало мероприятие под ключ: приглашение гостей, продажа билетов, застройка, создание контента, развлекательная программа. TIGER --- Организация 2-дневной иммерсионной экспозиции Tiger Summer Show. В закрытый день мероприятие были приглашены блогеры, представители медиа и партнеры. Дата: 9-10 августа 2024 Клиент: Tiger Локация: Г. Алматы, FORUM Event Space. Количество гостей: 700+ человек, ТОП медиа ЗАДАЧИ: Приглашение гостей: блогеры, медиа, инфлюенсеры Освещение в медиа до и после ивента TIGER SUMMER SHOW PR VALUE: 35.4MLN KZT TOTAL REACH: 8.6MLN 8 ОРГАНИЧЕСКИХ ПУБЛИКАЦИЙ В ТОП СМИ, 13 ОРГАНИЧЕСКИХ ПУБЛИКАЦИЙ В НОВОСТНЫХ ПАБЛИКАХ, БЛОГЕРЫ",
+      "result": "",
       "tags": [
-        "PR",
         "Events",
-        "Creative"
+        "PR"
       ],
-      "layout": "Дата, категория, название, краткое описание масштаба и зоны ответственности.",
+      "layout": "Оригинальный слайд",
       "sourceSlide": 31,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-031.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-002/main-031.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-002/main-031.webp"
+        }
+      ]
     },
     {
-      "id": "tag-32",
-      "title": "Everlasting Elegance",
-      "client": "VILED / Посольство Италии",
-      "category": "Дипломатическое и культурное событие",
-      "year": "2024",
-      "summary": "Июль: закрытый вечер в резиденции Посла Италии в Астане, посвящённый привозу «Прекрасной принцессы» Леонардо да Винчи и запуску прямых рейсов Астана — Милан. Объединены протокол, искусство, дефиле и коктейль.",
-      "result": "85 VIP-гостей; реализовано событие с дипломатическим протоколом.",
-      "tags": [
-        "Events",
-        "PR"
-      ],
-      "layout": "Клиенты, дата, тема выставки, описание поводов и сложности организации.",
-      "sourceSlide": 32,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-032.png"
-    },
-    {
-      "id": "tag-33",
-      "title": "VILED и 60-я Венецианская биеннале",
-      "client": "VILED Group",
-      "category": "Культурная PR-кампания",
-      "year": "2024",
-      "summary": "Июль: PR и закрытая пресс-конференция об участии Казахстана в Венецианской биеннале. В подзаголовке указан Алматы, в основном тексте — Talan Gallery Astana; место требует сверки.",
-      "result": "Более 2 000 000 охватов в СМИ и соцсетях; упомянуты публикации в Esquire и Forbes.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Название, дата, формат, описание инфоповода, результат и упоминания СМИ.",
-      "sourceSlide": 33,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-033.png"
-    },
-    {
-      "id": "tag-34",
-      "title": "IQOS × STEVE AOKI",
-      "client": "IQOS",
-      "category": "Международная influencer-кампания",
-      "year": "2024",
-      "summary": "Адаптация глобального партнёрства со Стивом Аоки для Казахстана и Кыргызстана: соцсети артиста, музыкальные платформы, локальные блогеры и СМИ.",
-      "result": "1 000 000+ целевых охватов. 34,5 млн подписчиков, 15 млн слушателей Spotify и 538 тыс.+ слушателей Яндекс Музыки описывают аудитории артиста, а не достигнутый охват кампании.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Название, год, задача, описание каналов, итоговая метрика.",
-      "sourceSlide": 34,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-034.png"
-    },
-    {
-      "id": "tag-35",
-      "title": "IQOS Together X Sensorium: пресс-тур в Японию",
-      "client": "IQOS",
-      "category": "Международный пресс-тур",
-      "year": "2024",
-      "summary": "Июль: сопровождение победителей проекта, международная логистика и документация, контент-стратегия, контроль фото и видео в реальном времени, постмедийное сопровождение.",
-      "result": "13 участников. Заявлен значительный органический охват без численной оценки.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Название тура, дата, место, описание сопровождения и качественный результат.",
-      "sourceSlide": 35,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-035.png"
-    },
-    {
-      "id": "tag-36",
-      "title": "idocs DIGITAL SUPPORT",
-      "client": "idocs",
-      "category": "Digital-маркетинг и лидогенерация",
-      "year": "2024–2026",
-      "summary": "Digital-стратегия, performance-кампании, сегментация аудиторий, ремаркетинг, look-alike и прямая интеграция рекламных кабинетов с CRM.",
-      "result": "Заявлены снижение CPL, отсечение нерелевантных каналов и предсказуемая окупаемая B2B-воронка; численные значения отсутствуют.",
-      "tags": [
-        "Digital",
-        "Creative"
-      ],
-      "layout": "Клиент и направление, период, описание инструментов, абзацы об оптимизации и результате.",
-      "sourceSlide": 36,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-036.png"
-    },
-    {
-      "id": "tag-37",
-      "title": "UNESCO: коридоры наследия Шёлкового пути",
+      "id": "lib-003",
+      "title": "UNESCO — Коридоры наследия Шёлкового пути",
       "client": "UNESCO",
-      "category": "Региональная итоговая конференция",
+      "category": "Events",
       "year": "2024",
-      "summary": "Июль: подведение итогов проекта, финансируемого ЕС. Гости из Казахстана, Узбекистана, Кыргызстана и Таджикистана; официальная программа, выступления, виртуальная выставка и пресс-конференция.",
-      "result": "Под ключ реализованы концепция, дизайн, выставка, материалы, координация и техническое сопровождение; количественные результаты не указаны.",
+      "summary": "Клиент: UNESCO Дата: 9 июля 2024, г. Астана. Мероприятие посвящено подведению итогов и результатам масштабного регионального проекта «Коридоры наследия Шелкового пути в Центральной Азии – международные аспекты Европейского года культурного наследия», финансируемого Европейским Союзом и реализуемого Региональным Офисом ЮНЕСКО в Алматы с 2018 года. Формат: конференция, официальная часть, выступление спикеров, виртуальная выставка, пресс конференция . Локация: Rixos Astana Спикеры: Г-н Кестутис ЯНКАУСКАС, Посол Европейского Союза в Казахстане Г-н Амир ПИРИЧ, Директор Регионального Офиса ЮНЕСКО в Алматы Гости: из Казахстана, Узбекистана, Кыргызстана, Таджикистана. Задачи Агентства: разработка концепции, дизайна, производство выставки и всех материалов, координация, техническое обеспечение. UNESCO",
+      "result": "",
       "tags": [
         "Events"
       ],
-      "layout": "Клиент, дата, задача, контекст регионального проекта и перечень работ.",
+      "layout": "Оригинальный слайд",
       "sourceSlide": 37,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-037.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-003/main-037.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-003/main-037.webp"
+        }
+      ]
     },
     {
-      "id": "tag-38",
-      "title": "BEELINE: медиаклуб The Pen",
-      "client": "Beeline",
-      "category": "Индустриальная медиаплатформа",
-      "year": "2023",
-      "summary": "Октябрь: серия гибридных экспертных встреч на казахском и русском языках для представителей медиарынка Казахстана и Центральной Азии.",
-      "result": "8 встреч, 350+ участников, более 200 000 целевых охватов, PR Value 6,4+ млн тенге. Упоминание 5000 профессионалов относится к охвату партнёрского фонда.",
+      "id": "lib-004",
+      "title": "VILED и Посольство Италии в Казахстане",
+      "client": "VILED",
+      "category": "Events",
+      "year": "2024",
+      "summary": "Дата: 10 июля 2024, г. Астана. Гости: друзья компании VILED и приглашенные гости от Посольства Италии в Казахстане, всего 85 человек. Локация: резиденция Посла Италии в Казахстане Повод: впервые в истории, в Казахстане выставлен оригинал работы Леонардо да Винчи. \"La Bella Principessa\", \"Прекрасная принцесса\": так называется шедевр, портрет принцессы из миланского рода Сфорца, созданный Леонардо в конце XV века. Мероприятие совпало с датой запуска прямых рейсов Астана-Милан от Итальянской авиакомпании Neos, среди гостей были разыграны 2 билеты в Милан. Название мероприятия: Everlasting elegance Формат: официальная часть, коктейль, дефиле. Агентство организовало мероприятие под ключ: техническое оборудование и звук, организация профессионального показа моделей итальянских дизайнеров, диджей, зона барбекю, зона коктейлей, оформление резиденции, сценарий мероприятия, ведущий, фото и видео сьемка, проведение лотереи. VILED и Посольство Италии в Казахстане",
+      "result": "",
       "tags": [
-        "PR"
+        "Events"
       ],
-      "layout": "Название, дата, формат, описание участников, итоговый абзац с метриками.",
-      "sourceSlide": 38,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-038.png"
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 32,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-004/main-032.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-004/main-032.webp"
+        }
+      ]
     },
     {
-      "id": "tag-39",
-      "title": "Первый магазин LG в Монголии",
-      "client": "LG Electronics",
-      "category": "PR открытия и CSR",
-      "year": "2023",
-      "summary": "Октябрь: мероприятие в Улан-Баторе, PR открытия магазина, фото- и видеосъёмка, пресс-релиз на монгольском языке и отчёт. CSR включал восстановление школы и строительство спортивной площадки; создан ролик у статуи Чингисхана.",
-      "result": "Перечислены выполненные работы; показатели охвата не приведены.",
-      "tags": [
-        "PR"
-      ],
-      "layout": "Название, дата, формат, вводный абзац и список задач.",
-      "sourceSlide": 39,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-039.png"
-    },
-    {
-      "id": "tag-40",
-      "title": "OPENING KAZAKHSTAN",
-      "client": "KIA",
-      "category": "Экспедиционный тест-драйв",
-      "year": "2021",
-      "summary": "Сентябрь: тест-драйв в Алтын-Эмеле в формате иммерсивной экспедиции с luxury-глэмпингом для инфлюенсеров.",
-      "result": "Заявлены сильные впечатления участников и поток органического контента; количественных показателей нет.",
-      "tags": [
-        "Events",
-        "Creative"
-      ],
-      "layout": "Название, дата, подзаголовок и эмоциональное описание опыта.",
-      "sourceSlide": 40,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-040.png"
-    },
-    {
-      "id": "tag-41",
-      "title": "Olimpbet zone",
-      "client": "Olimpbet",
-      "category": "Фестивальная бренд-интеграция",
-      "year": "2023",
-      "summary": "Май: сопровождение генерального партнёра фестиваля — концепция и застройка лаунж-зоны, интерактивы, промоперсонал, мерч, фотосъёмка и отчётность.",
-      "result": "Зона работала на двухдневном фестивале для более чем 5000 гостей; отдельная посещаемость бренд-зоны не указана.",
-      "tags": [
-        "Events",
-        "Creative"
-      ],
-      "layout": "Название, дата, задача, список направлений работы, итоговый абзац.",
-      "sourceSlide": 41,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-041.png"
-    },
-    {
-      "id": "tag-42",
-      "title": "PM «Плагин»: IQOS Special Room",
-      "client": "Philip Morris / IQOS",
-      "category": "Интеграция на VISA Fashion Week",
+      "id": "lib-005",
+      "title": "HITTER — презентация музыкального сервиса",
+      "client": "Hitter Kazakhstan",
+      "category": "Events",
       "year": "2022",
-      "summary": "Ноябрь: цифровая зона в Almaty Theatre, конструкция для 3D-проекций на стены и потолок, дизайн, сценарий и адаптированный видеоконтент.",
-      "result": "Создано иммерсивное пространство IQOS; количественные метрики отсутствуют.",
+      "summary": "Презентация отечественного музыкального стримингового сервиса, позволяющего скачивать и слушать музыку в высоком качестве на всей территории Казахстана. Дата: 17 июня 2022 Алматы Клиент: Hitter Kazakhstan Локация: Алматы, Хазбин Количество гостей: 120 человек ЗАДАЧИ: Разработка концепции с нуля Сценарий мероприятия и все активности для гостей Меню закусок и авторских фирменных коктейлей. Оформление зала, дизайн и производство Выступление артистов Приглашение гостей: блогеры, медиа, инфлюенсеры Художница и создание картины бренда Подбор ведущего и разработка интерактива для гостей Охрана, хостес, уборка и др. HITTER",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 18,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-005/slide-018.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-005/slide-018.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-006",
+      "title": "Запуск тестовой зоны 5G от Beeline",
+      "client": "Beeline",
+      "category": "Events",
+      "year": "2019",
+      "summary": "Дата: 18 ноября 2019 Клиент: Beeline Локация: Шымкент, площадь рядом с Shymkent Plaza Количество гостей: 80 человек ЗАДАЧИ: Пресс-тур для республиканской и региональной прессы, посвященный тестовому запуску. Организация всего ивента по ключ (разработки концепции дизайна, монтаж-демонтаж, логистика, решение всех вопросов с городскими службами, организация работы службы охраны и промоутеров, кейтеринг, ведущий, переводчики и пр.) Подбор и приглашение пула релевантных СМИ, организация авиаперелетов, проживания, питания и PR для журналистов, контроль выхода материалов, медиа-мониторинг, Отчёт (пресс-клиппинг) ЗАПУСК «ТЕСТОВОЙ ЗОНЫ 5G ОТ BEELINE»",
+      "result": "",
+      "tags": [
+        "Events",
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 19,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-006/slide-019.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-006/slide-019.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-007",
+      "title": "IQOS ILUMA — презентация в Бишкеке",
+      "client": "Филип Моррис Казахстан / IQOS",
+      "category": "Events",
+      "year": "2024",
+      "summary": "Дата: 23 апреля 2024 год Клиент: Филип Моррис Казахстан Локация: Кыргызстан, Бишкек, «Suizie Wong» Количество гостей: 300 человек, СМИ, блогеры, селебрити ЗАДАЧИ: Подбор локации в г. Бишкек Разработка меню Разработка дизайна всех материалов и декораций Разработка фирменных коктейлей (алкогольные/безалкогольные) в цветах линейки Разработка программы мероприятия (артисты) Производство и монтаж декораций: фотозона; научная зона; дисплей зона/зона продаж; оформление бара; оформление сцены; коктейльная карта. Техническое оснащение. Приглашение гостей IQOS ILUMA",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 20,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-007/slide-020.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-007/slide-020.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-008",
+      "title": "SAP Discovery Day Almaty 2024",
+      "client": "SAP",
+      "category": "Events",
+      "year": "2024",
+      "summary": "SAP DISCOVERY DAY ALMATY 2024 SAP - лидер в области корпоративного программного обеспечения, в разных отраслях экономики, включа­я нефтегазовую промышленность, металлургию и горную промышленность, производство потребительских товаров и торговлю Дата: 22 мая 2024 год Локация: отель«Ritz-Carlton Almaty» Мероприятие: ежегодный IT форум Количество гостей: 500 человек Реализованные задачи: организация пленарной и параллельных сессий на 2 зала настройка и отладка оборудования форума координация выступления международных музыкантов кейтеринг на весь день оперативный процесс регистрации гостей брендирование форума",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 21,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-008/slide-021.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-008/slide-021.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-009",
+      "title": "SAP Forum Almaty",
+      "client": "SAP",
+      "category": "Events",
+      "year": "2022",
+      "summary": "Дата: 2-3 июня 2022 Клиент: SAP Локация: Алматы, Swissotel Wellness Resort Alatau Количество гостей: 400 человек ПРОВЕДЕННАЯ РАБОТА: Работа со спонсорами Организация конференций и параллельных сессий на 6 конф. залов Организация VIP встреч и переговоров Логистика технического оборудования выставки Регистрация участников Команда хостес из 15 человек Офорлмение зала, производство фото зон, стоек регситарции и др. Звуковое и световое оборудование Итоговый фотоотчет SAP FORUM ALMATY",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 22,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-009/slide-022.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-009/slide-022.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-010",
+      "title": "JAC Motors — дилерская конференция",
+      "client": "JAC Motors",
+      "category": "Events",
+      "year": "2023",
+      "summary": "Дата: 4 апреля 2023 Клиент: JAC Motors Локация: Астана, Боровое, отель WYNDHAM Количество гостей: 70 человек ЗАДАЧИ: Разработка концепции и сценария мероприятия. Дизайн и вёрстка презентаций спикеров. Оформление мероприятия, включая разработку дизайна и производство. Сцена, фото зона, бейджи, таблички гостей. Техническое обеспечение. Организация выездного обеда в ресторане ZINA на территории гольф-клуба. Фото и видеосъемка. Подбор ведущего и разработка развлекательной программы гала ужина. Организация выступления LiveBand и стендап команды. Работа хостес. Ведущий и развлекательная программа JAC MOTORS",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 23,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-010/slide-023.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-010/slide-023.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-011",
+      "title": "«Opening Kazakhstan» — тест-драйв KIA",
+      "client": "Allur Avto, KIA",
+      "category": "Events",
+      "year": "2021",
+      "summary": "Дата: 24-25 сентября 2021 Клиент: Allur Avto, KIA Локация: Национальный парк «Алтын Эмель» Количество гостей: Автоблогеры и инфлюенсеры, 5 машин ЗАДАЧИ: Разработка концепции автопробега Составление программы тура Составление тайминга Составление маршрута Организация палаточного лагеря Организация кейтеринга Проведение Мастер класса Привлечение гида Приглашение астронома Организация тестового тура «OPENING KAZAKHSTAN»",
+      "result": "",
       "tags": [
         "Events",
         "Creative"
       ],
-      "layout": "Название, дата, формат интеграции, описание среды и три блока реализации.",
-      "sourceSlide": 42,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-042.png"
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 40,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-011/main-040.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-011/main-040.webp"
+        }
+      ]
     },
     {
-      "id": "tag-43",
-      "title": "GLOVO: доставка на коне",
-      "client": "Glovo",
-      "category": "Вирусная юбилейная кампания",
-      "year": "2020",
-      "summary": "Октябрь: пяти активным пользователям в Алматы доставили мини-холодильники необычными способами — на коне, с байкером, альпинистом, подъёмным краном и курьером-фокусником.",
-      "result": "Total Reach 4 873 006; PR Value более 10 млн тенге.",
+      "id": "lib-012",
+      "title": "Borjomi — «А ты с характером»",
+      "client": "Borjomi",
+      "category": "Events",
+      "year": "2019",
+      "summary": "Быть с характером – это быть собой, это идти за своими интересами, умениями, желаниями, особенностями. Быть собой круче, чем быть просто уникальным. Открыть миру лучшую сторону себя, не бояться. Период: 3 месяца, 2019 год Локация: Горный курорт «Шымбулак» Количество гостей: Все посетители курорта ЦЕЛЬ ПРОЕКТА: Расширение аудитории бренда Увеличение потребления продукта на массовых мероприятиях, гастрономия, ХоРеКа, потребление на ходу Донесение эмоционального сообщения «А ты с характером» «Омоложение» бренда, развитие премиальности и современности Идея мероприятия, механика Промо персонал и костюмы Брендинг материалов на локации BORJOMI",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 25,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-012/slide-025.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-012/slide-025.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-013",
+      "title": "«Рахат Fest»",
+      "client": "Olimpbet (ген. партнёр)",
+      "category": "Events",
+      "year": "2023",
+      "summary": "Дата: 20-21 мая 2023 Клиент: Olimpbet - генеральный партнер фестиваля Локация: Первомайские пруды Количество гостей: 5000+ человек ЗАДАЧИ: Разработка дизайна и производство лаундж зоны Организация и проведение активностей с выдачей призов. Привлечение промо персонала Разработка сценария для активностей. Производство мерча. Организация зоны напитков. Отчетность по итогам мероприятия Фотосъемка «РАХАТ FEST»",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 26,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-013/slide-026.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-013/slide-026.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-014",
+      "title": "IQOS Originals",
+      "client": "Филип Моррис Казахстан / IQOS",
+      "category": "Events",
+      "year": "2022",
+      "summary": "Дата: 27 октября 2022 Клиент: Филип Моррис Казахстан Локация: Кыргызстан, Бишкек, «Promzona Space» Количество гостей: 170 человек, СМИ, блогеры, селебрити ЗАДАЧИ: Подбор локации в г. Бишкек Разработка концепции и сценария мероприятия Разработка дизайна Разработка фирменных коктейлей (алкогольные/безалкогольные) в цветах линейки Подбор артистов и переговоры Производство и монтаж декораций: фотозона; научная зона; дисплей зона/зона продаж; оформление бара; оформление сцены; Коктейльная карта. Брендированные подарки для гостей. Техническое оснащение. Приглашение гостей Ведущий IQOS ORIGINALS",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 27,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-014/slide-027.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-014/slide-027.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-015",
+      "title": "IQOS Originals Purple",
+      "client": "Филип Моррис Казахстан / IQOS",
+      "category": "Events",
+      "year": "2023",
+      "summary": "Дата: 19 июня 2023 год Клиент: Филип Моррис Казахстан Локация: Кыргызстан, Бишкек, «Hills» Количество гостей: 120 человек, СМИ, блогеры, селебрити ЗАДАЧИ: Подбор локации в г. Бишкек Разработка меню Разработка дизайна всех материалов и декораций Разработка фирменных коктейлей (алкогольные/безалкогольные) в цветах линейки Разработка программы мероприятия (артисты) Подбор артистов Производство и монтаж декораций: фотозона; научная зона; дисплей зона/зона продаж; оформление бара; оформление сцены; коктейльная карта. Техническое оснащение. Приглашение гостей IQOS ORIGINALS PURPLE",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 28,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-015/slide-028.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-015/slide-028.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-016",
+      "title": "Плагин для PMK на Visa Fashion Week",
+      "client": "Филип Моррис Казахстан / IQOS",
+      "category": "Events",
+      "year": "2022",
+      "summary": "Дата: 2 -3 ноября 2022 год Клиент: Филип Моррис Казахстан Локация: «Almaty Theatre» Формат мероприятия: fashion показ ЗАДАЧИ: Разработка концепции отдельной зоны IQOS, special room с 3D проекцией на стенах и потолке. Производство и оформление конструкции для реализации 3D проекции. Разработка видео контента. ПЛАГИН ДЛЯ PMK НА VISA FASHION WEEK",
+      "result": "",
+      "tags": [
+        "Events",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 42,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-016/main-042.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-016/main-042.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-017",
+      "title": "Организация медиа-завтрака (новый упр. директор ЦА)",
+      "client": "Филип Моррис Казахстан",
+      "category": "Events",
+      "year": "2023",
+      "summary": "Дата: 5 октября 2023 год Клиент: Филип Моррис Казахстан Место: г. Алматы, ресторан Leos Количество гостей: 50 человек, СМИ, блогеры Организация под ключ медиа завтрака по поводу представления нового Управляющего директора по Центральной Азии. Включая, подбор локации, приглашение представителей СМИ, организация перелета и проживания гостей, разработка дизайна и производство брендированного оформления (пресс стена, продуктовая и ресепшен стойка), организация фото/видео съемки, техническое и звуковое оснащение. ОРГАНИЗАЦИЯ МЕДИА ЗАВТРАКА",
+      "result": "",
+      "tags": [
+        "Events",
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 30,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-017/slide-030.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-017/slide-030.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-018",
+      "title": "«Достигай вершин одним ударом»",
+      "client": "A'SU",
+      "category": "Events",
+      "year": "2017",
+      "summary": "Дата: September 20, 2017 Клиент: A'SU Локация: Горнолыжный курорт «Шымбулак», Алматы Количество гостей: 40 представителей СМИ СУТЬ ПРОЕКТА: Проактивное создание имиджевого проекта для бренда A'SU с освещением на международных каналах. В рамках турнира по гольфу Kazakhstan Open 2017 пригласить лучших игроков в гольф и выбрать самый дальний удар (Longest shot) с самой высокой точки Шымбулака перед открытием Kazakhstan Open 2017. Идея и реализация от Агентства. Полученный охват: 5,000,000 человек ДОСТИГАЙ ВЕРШИН ОДНИМ УДАРОМ",
+      "result": "",
+      "tags": [
+        "Events",
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 31,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-018/slide-031.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-018/slide-031.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-019",
+      "title": "Пресс-ланч The Ritz-Carlton («Lady Chef's»)",
+      "client": "The Ritz-Carlton Astana",
+      "category": "Events",
+      "year": "2023",
+      "summary": "The Ritz-Carlton, Astana собрал лучших шеф-поваров из Вьетнама, Дубая, Турции, Канады и Индонезии для серии мероприятий, объединённых девизом «Lady Chef’s - Flavors of the World». Закрытый пресс-бранч, посвященный теме развития женского лидерства, расширения прав и возможностей женщин. Дата: 26 января 2023 Клиент: The Ritz Carlton Astana Локация: Г. Алматы, Кок-Тобе, ресторан «Abay Restaurant» Количество гостей: 45 человек, ТОП медиа ЗАДАЧИ: Подбор локации и организация Приглашение гостей Подготовка пресс-релиза на трех языках рассылка пресс-релиза по базе СМИ агентства Техническое оборудование Подарки участницам ПРЕСС-ЛАНЧ THE RITZ-CARLTON --- ПРЕСС-ЛАНЧ THE RITZ-CARLTON, ASTANA The Ritz-Carlton, Astana собрал лучших шеф-поваров из Вьетнама, Дубая, Турции, Канады и Индонезии для серии мероприятий, объединённых девизом «Lady Chef’s - Flavors of the World», закрытый пресс-бранч, посвященный теме развития женского лидерства, расширения прав и возможностей женщин. Дата: 26 января, 2023 год Место проведения: Кок-Тобе, ресторан «Abay Restaurant» Задачи: сопровождение на протяжении всего ивента составление списка ТОП медиа 45 человек подготовка пресс-релиза на трех языках рассылка пресс-релиза по базе СМИ агентства предоставление отчетности PR VALUE: 5.5MLN KZT TOTAL REACH: 1.7MLN 6 ОРГАНИЧЕСКИХ ПУБЛИКАЦИЙ В ТОП СМИ, БЛОГЕРЫ",
+      "result": "",
+      "tags": [
+        "Events",
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 22,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-019/alt-022.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-019/alt-022.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-020",
+      "title": "Круглый стол Лиги потребителей Казахстана",
+      "client": "Лига потребителей Казахстана",
+      "category": "Events",
+      "year": "2022",
+      "summary": "Круглый стол с участием Ассоциации «Лиги потребителей Казахстана», представителями государственных подразделений и бизнеса для обсуждения запрета на ввоз и реализацию вейпов в Казахстане, а также проблем, которые могут последовать за запретом. ПРОБЛЕМАТИКА: Летом 2022 года появился национальный стандарт жидкости для вейпов. Согласно стандарту, теперь эта продукция считается никотиносодержащей и подпадает под акцизы. Появилась необходимость создания быстрого и эффективного механизма работы по контролю над одноразовыми вейпами. КРУГЛЫЙ СТОЛ ЛИГИ ПОТРЕБИТЕЛЕЙ КАЗАХСТАНА В АСТАНЕ",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 33,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-020/slide-033.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-020/slide-033.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-021",
+      "title": "Организация и проведение промо-акции",
+      "client": "Samsung",
+      "category": "Events",
+      "year": "2023",
+      "summary": "Клиент: Samsung Цель: презентация мобильных телефонов Galaxy s23 Series, а также популяризация онлайн помощника Сэм. Предзаказ продукта. Период: 1-28 февраля 2023 года. Место: г. Алматы и Астана, Мега, Достык плаза. Промоутеры: 25 промо моделей ЗАДАЧИ: Кастинг моделей, инструктаж Организация производства и брендирования промо формы. Организация тренинга по продукту Самсунг. Образ Сэм (стиль, прическа, мейк-ап, цветные контактные линзы). Контроль проекта с ежедневным фото-отчетом. ОРГАНИЗАЦИЯ И ПРОВЕДЕНИЕ ПРОМО АКЦИИ",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 34,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-021/slide-034.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-021/slide-034.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-022",
+      "title": "День рождения ТРЦ «MEGA Alma-Ata», «K-beauty day»",
+      "client": "Mega Center",
+      "category": "Events",
+      "year": "2023",
+      "summary": "Дата: 30 сентября 2023 год Клиент: Mega Center Локация: ТРЦ «MEGA Alma-Ata» на Розыбакиева Партнеры: Nature Republic, Thai Foot SPA, NYX professional makeup ЗАДАЧИ: Печатная продукция для розыгрыша призов. Организация и проведение активностей с выдачей призов от партнеров. Программа развлечений для гостей ТРЦ (аниматоры в нац костюмах, бьюти-блогер, мастер массажа Гуаша, эксперт китайской метафизики в Академии Фэн-Шуй, танцевальный коллектив «The Soul») Организация и оформления зоны бьюти-бара ДЕНЬ РОЖДЕНИЯ ТРЦ «MEGA ALMA-ATA», «K-BEAUTY DAY».",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 35,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-022/slide-035.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-022/slide-035.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-023",
+      "title": "Корпоративные мероприятия для inDrive",
+      "client": "inDrive",
+      "category": "Events",
+      "year": "2022-2024",
+      "summary": "Дата: 2022-2024 Мы проводим корпоративные и внутренние мероприятия для компании inDrive. От больших итоговых конференций, по микро тимбилдингов. За 3 года мы провели около ста различных мероприятий для клиента: поход в горы, в караоке, тематические ужины, квизы, бизнес мероприятия, конференции, детские праздники и другие. ЗАДАЧИ: Разработка идеи и концепций Производство материалов и печатной продукции Производство мерча и подарочных боксов Организации и координация всех подрядчиков мероприятия (отели, техническое оборудование, кейтеринг, хостес и др.). Привлечение персонала (ведущий, хостес, модератор, фото, видеограф). Составление программы. Логистика. КОРПОРАТИВНЫЕ МЕРОПРИЯТИЯ для inDrive",
+      "result": "",
+      "tags": [
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 36,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-023/slide-036.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-023/slide-036.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-024",
+      "title": "Kazakhstan Global Investment Roundtable (KGIR)",
+      "client": "KGIR / Правительство РК",
+      "category": "Events",
+      "year": "2018",
+      "summary": "Дата: 3 июля 2018 года Место проведения: Talan Towers, Астана Событие: под председательством Премьер-министра Республики Казахстан Багытжана Сагинтаева состоялся круглый стол «Астана - Глобальный инвестиционный 2018» (KGIR-2018). Количество участников: 550 ЗАДАЧИ: Разработка и внедрение медиа-плана, включая этапы объявления, события и после внедрения Привлечение ведущих казахстанских СМИ в качестве информационных партнеров, Контроль организации пресс-центра за работой журналистов Организация эксклюзивных интервью Цифровая поддержка (ведение страниц на Facebook, Instagram, реклама) Организовано пресс-конференций - 14 KAZAKHSTAN GLOBAL INVESTMENT ROUNDTABLE (KGIR)",
+      "result": "",
+      "tags": [
+        "Events",
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 37,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-024/slide-037.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-024/slide-037.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-025",
+      "title": "Медиаклуб «The Pen»",
+      "client": "Beeline",
+      "category": "PR",
+      "year": "2023-2024",
+      "summary": "The Pen – нетворкинг площадка для общения журналистов, медиаменеджеров, пресс-секретарей, PR-менеджеров, аналитиков, блогеров, лидеров общественного мнения и создателей цифрового контента с привлечением международных спикеров. Задействованные инструменты: Zoom, YouTube, Landing page, Telegram-бот Кол-во проведенных встреч: 7 (онлайн, офлайн, гибридный формат) на казахском и русском языках Задача: Дискуссии традиционных и digital-медиа; Встречи с экспертами в области медиа; Изучение кейсов и трендов индустрии в Казахстане и мире; Участники: 350+, из них: Общественный фонд тюркоязычных журналистов, который представляет более 5 000 журналистов Казахстана и стран ЦА Региональные, ведущие деловые, информационнные и финансовые сми Лига судебных журналистов Казахстана Представители традиционных и digital медиа МЕДИАКЛУБ 7 EVENTS TOTAL REACH: 2500+ TOTAL PR VALUE: 5.4MLN KZT",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 38,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-025/main-038.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-025/main-038.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-026",
+      "title": "VILED — медиа-поддержка (Венецианская биеннале)",
+      "client": "VILED",
+      "category": "PR",
+      "year": "2024",
+      "summary": "В марте 2024 году была осуществлена медиа-поддержка новости об участии Казахстана в 60-ой Венецианской биеннале при поддержке VILED Group в СМИ Новость была размещена в таких крупных СМИ и пабликах, как: Esquire, Давай Сходим, Forbes VILED – МЕДИА-ПОДДЕРЖКА TOTAL REACH: 313 703 ВСЕГО ПУБЛИКАЦИЙ: 12 --- Дата: март, 2024 г.",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 33,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-026/main-033.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-026/main-033.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-027",
+      "title": "SEB Group (Tefal | Moulinex | Rowenta)",
+      "client": "SEB Group",
+      "category": "PR",
+      "year": "2021-2026",
+      "summary": "Работа с брендом Moulinex c 2021 года. Задачи: Проведение и реализация съемок рекламного ролика с фуд-блогером Алией Орман в главной роли Создание креативной кампании по мелкой бытовой технике Moulinex в рамках тематики “Made in France” Организация кулинарных мастер-классов Сотрудничество с шеф-поваром Савелием Ильиных в качестве бренд-амбассадора бренда Moulinex Реализация проекта по раздаче гифт-боксов фуд-блогерам Казахстана Сотрудничество с блогерами в рамках рекламных активностей Работа с брендом Tefal c 2021 года. Задачи: Проведение и реализация съемок рекламного ролика с блогерами: Инди Едильбаева, Айжан Асемова, Алишер Еликбаев с семьей Сотрудничество с блогерами в рамках рекламных активностей SEB GROUP (TEFAL|MOULINEX)",
+      "result": "",
       "tags": [
         "PR",
         "Creative"
       ],
-      "layout": "Название, дата, задача, описание механики, строка крупных итоговых метрик.",
-      "sourceSlide": 43,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-043.png"
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 27,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-027/main-027.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-027/main-027.webp"
+        }
+      ]
     },
     {
-      "id": "tag-44-1",
-      "title": "Glovo: SMM-сопровождение",
-      "client": "Glovo",
-      "category": "SMM",
-      "year": "Не указан",
-      "summary": "SMM-стратегия, авторский контент, обработка обратной связи, таргетированная реклама и активации.",
-      "result": "Более 10 000 взаимодействий в неделю.",
+      "id": "lib-028",
+      "title": "Казахстан на Венецианской биеннале — пресс-конференция",
+      "client": "VILED Group",
+      "category": "PR",
+      "year": "2024",
+      "summary": "Организация пресс-конференции в рамках участия VILED Group на 60-й Венецианской биеннале. На мероприятие были приглашены представители различных творческих сфер Казахстана: ведущие дизайнеры, актеры и модельеры страны. Дата: 30 мая, 2024 г. Место проведения: Talan Gallery Astana Задачи: Организация мероприятия; Приглашение гостей - представителей творческих сфер Казахстана; Приглашение представителей СМИ; Инициация публикаций в СМИ; Результаты по PR: инициирован выход около 10 публикаций в СМИ; инициирован выход более 10 публикаций в соцсетях; KPI - 2 миллиона охватов в СМИ и соцсетях; КАЗАХСТАН НА ВЕНЕЦИАНСКОЙ БИЕННАЛЕ",
+      "result": "",
       "tags": [
-        "SMM",
-        "Digital"
+        "PR",
+        "Events"
       ],
-      "layout": "Отдельный клиентский блок на сводном слайде SMM-клиентов.",
+      "layout": "Оригинальный слайд",
       "sourceSlide": 44,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-044.png"
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-028/slide-044.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-028/slide-044.webp"
+        }
+      ]
     },
     {
-      "id": "tag-44-2",
-      "title": "Pari Match: SMM-сопровождение",
-      "client": "Pari Match",
-      "category": "SMM",
-      "year": "Не указан",
-      "summary": "Стратегия бренд-платформы в соцсетях, активности и рекламные кампании.",
-      "result": "Более 1500 участников одной активации; 392 136 аккаунтов за месяц; +1839 подписчиков за месяц. Заявлено перевыполнение охвата на 118% и вовлечённости почти на 276%; базы сравнения не указаны.",
+      "id": "lib-029",
+      "title": "Pepero Day",
+      "client": "Lotte / Pepero",
+      "category": "PR",
+      "year": "2023",
+      "summary": "Привлечение блогеров и освещение мероприятия Pepero Day в медиа Дата: 11 ноября, 2023 г. Место проведения: ТРЦ Mega Center Alma-Ata и Mega Park Задачи: Приглашение блогеров и инфлюенсеров; Инициация постов и Stories у блогеров и инфлюенсеров; Приглашение медиа; Инициация публикаций в СМИ; Результаты по PR: инициирован выход около 8 публикаций в СМИ; KPI - 1,5 миллиона охватов в СМИ и соцсетях; PEPERO DAY",
+      "result": "",
       "tags": [
-        "SMM",
-        "Digital"
+        "PR"
       ],
-      "layout": "Клиентский блок с описанием и перечнем метрик на сводном слайде.",
-      "sourceSlide": 44,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-044.png"
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 26,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-029/main-026.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-029/main-026.webp"
+        }
+      ]
     },
     {
-      "id": "tag-44-3",
-      "title": "LG Electronics: региональное SMM-сопровождение",
+      "id": "lib-030",
+      "title": "LG Electronics — открытие магазина в Улан-Баторе",
       "client": "LG Electronics",
-      "category": "SMM",
-      "year": "Не указан",
-      "summary": "Копирайтинг, дизайн, публикации, community management и стратегии для Казахстана, Узбекистана, Монголии, Таджикистана, Туркменистана и Кыргызстана.",
-      "result": "За год: Казахстан Instagram — +14 660 целевых подписчиков, рост ER на 0,88%, ERReach на 67,57%, комментариев на 786%; Узбекистан — +46 640 подписчиков; Кыргызстан — +2716. Для ER не уточнено, идёт ли речь о процентах или процентных пунктах.",
+      "category": "PR",
+      "year": "2023",
+      "summary": "Организация мероприятия LG в Улан-Батор, Монголия. CSR проект, в котором сотрудники LG Electronics, реставрировали школу и строили спортивную площадку. Дополнительно был организован вирусный ролик с сотрудниками у статуи Чингизхана в Улан-Баторе. Дата: Октябрь, 2023 г. Задачи: - организация фото/видео съемки -PR поддержка открытия первого официального магазина LG - подготовка пресс-релиза и перевод на монгольский язык - подготовка PR отчета LG Electronics - Улан Батор",
+      "result": "",
       "tags": [
-        "SMM",
-        "Digital"
+        "PR"
       ],
-      "layout": "Клиентский блок с географией и годовыми метриками по рынкам.",
-      "sourceSlide": 44,
-      "slideImage": "/api/pdf/asset?path=profiles%2Ftag-credentials-2026%2Fpreviews%2Fpage-044.png"
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 39,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-030/main-039.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-030/main-039.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-031",
+      "title": "Открытие магазинов Dreame",
+      "client": "Dreame",
+      "category": "PR",
+      "year": "2024",
+      "summary": "Медиа-поддержка открытия 2 фирменных магазинов Dreame в Алматы Дата: 5,12 октября 2024 Клиент: Dreame Локация: Г. Алматы, ТРЦ MEGA Park, ТРЦ «MEGA Alma-Ata» Количество гостей: 100+ человек, ТОП медиа ЗАДАЧИ: Приглашение гостей: блогеры, медиа, инфлюенсеры Публикации по итогам мероприятий ОТКРЫТИЕ МАГАЗИНОВ DREAME",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 28,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-031/main-028.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-031/main-028.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-032",
+      "title": "Glovo — вирусная кампания к 1 году",
+      "client": "Glovo",
+      "category": "PR",
+      "year": "2020",
+      "summary": "TOTAL REACH: 4 873 006 PR VALUE: 10MLN+ KZT В связи с пандемией в 2020 году произошел резкий рост сервисов доставки. Задача агентства — громко рассказать, что Glovo в Казахстане празднует свою первую годовщину. Идея: Мы выбрали 5 пользователей сервиса Glovo в Алматы, которые за 1 год сделали наибольшее число заказов, и подготовили для них подарки - мини холодильники. Доставка подарков осуществлялась необычным образом: всадник на коне, байкер, промышленный альпинист, доставка с помощью подъемного крана, гловер-фокусник. Кампания получила органический вирусный эффект. Приблизительные результаты по PR (органический охват): IG: 2 837 670 пользователей FB: 1 781 947 пользователей Mass Media: 100 000 пользователей Тwitter: 94 336 пользователей ТG: 44 148 пользователей ОК: 14 905 пользователей . GLOVO 1 ГОД. ВИРУСНАЯ КОМПАНИЯ https://www.youtube.com/watch?v=cxSgrazIGMM",
+      "result": "",
+      "tags": [
+        "PR",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 43,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-032/main-043.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-032/main-043.webp"
+        }
+      ]
     },
     {
       "id": "lib-033",
@@ -660,32 +773,448 @@
         "Production"
       ],
       "layout": "Оригинальный слайд",
-      "sourceSlide": 29,
-      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-033/page-029.webp",
-      "overlays": [
+      "sourceSlide": 28,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-033/alt-028.webp",
+      "slides": [
         {
-          "kind": "embed",
-          "src": "https://drive.google.com/file/d/10dAofz6QVpsXplzWaegiVbAfzRWQ5E-M/preview",
-          "x": 18.67,
-          "y": 9.36,
-          "w": 24.94,
-          "h": 78.64
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-033/alt-028.webp",
+          "overlays": [
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1G9wyok8jCaKjeRi1flNSMmfMzHxwmGOY/preview",
+              "x": 35.92,
+              "y": 8.02,
+              "w": 62.74,
+              "h": 62.71
+            }
+          ]
         },
         {
-          "kind": "embed",
-          "src": "https://drive.google.com/file/d/1MxIGL-ewGJ40eMokxIgqbPgDPRSwcLOH/preview",
-          "x": 45.49,
-          "y": 9.36,
-          "w": 38.35,
-          "h": 38.32
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-033/alt-029.webp",
+          "overlays": [
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/10dAofz6QVpsXplzWaegiVbAfzRWQ5E-M/preview",
+              "x": 18.67,
+              "y": 9.36,
+              "w": 24.94,
+              "h": 78.64
+            },
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1MxIGL-ewGJ40eMokxIgqbPgDPRSwcLOH/preview",
+              "x": 45.49,
+              "y": 9.36,
+              "w": 38.35,
+              "h": 38.32
+            },
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1oUg60HpEi0cX83XrOTdOD-00deUmoHnm/preview",
+              "x": 45.49,
+              "y": 49.68,
+              "w": 38.35,
+              "h": 38.32
+            }
+          ]
         },
         {
-          "kind": "embed",
-          "src": "https://drive.google.com/file/d/1oUg60HpEi0cX83XrOTdOD-00deUmoHnm/preview",
-          "x": 45.49,
-          "y": 49.68,
-          "w": 38.35,
-          "h": 38.32
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-033/alt-030.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-033/alt-031.webp",
+          "overlays": [
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1CnVWLZRiv3bFHzBVwFtvAJrrAHZTuLUK/preview",
+              "x": 5.55,
+              "y": 9.53,
+              "w": 24.95,
+              "h": 79.05
+            },
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/11PIBohLRY7Rnb9DNRxMbgvyopkagASPS/preview",
+              "x": 37.58,
+              "y": 9.53,
+              "w": 24.95,
+              "h": 78.92
+            },
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1JolOPJ1R9U06HfeTY4_yu73lVibwoh7G/preview",
+              "x": 69.61,
+              "y": 9.53,
+              "w": 24.32,
+              "h": 78.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-034",
+      "title": "IQOS — работа со СМИ (2019-2023)",
+      "client": "Филип Моррис Казахстан / IQOS",
+      "category": "PR",
+      "year": "2019-2023",
+      "summary": "Публикации: 50+ статей Охваты составляют ≈ 10 M IQOS IN KZ MEDIA (2019 - July 2020) IQOS IN KZ MEDIA (July 2020 - 2021) IQOS IN KZ MEDIA (2021 - 2022) IQOS IN KZ MEDIA (2022 - 2023)",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 51,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-034/slide-051.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-034/slide-051.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-035",
+      "title": "Работа с блогерами (видео-кейсы)",
+      "client": "не указан",
+      "category": "PR",
+      "year": "",
+      "summary": "РАБОТА С БЛОГГЕРАМИ *Play video",
+      "result": "",
+      "tags": [
+        "PR",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 52,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-035/slide-052.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-035/slide-052.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-035/s052-media2.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-035/s052-media2.jpg",
+              "x": 31.4,
+              "y": 14.44,
+              "w": 30.91,
+              "h": 31.11,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-035/s052-media5.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-035/s052-media5.jpg",
+              "x": 62.9,
+              "y": 14.84,
+              "w": 20.37,
+              "h": 36.22,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-035/s052-media1.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-035/s052-media1.jpg",
+              "x": 11.32,
+              "y": 48.76,
+              "w": 19.48,
+              "h": 46.17,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-035/s052-media3.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-035/s052-media3.jpg",
+              "x": 31.4,
+              "y": 46.4,
+              "w": 14.91,
+              "h": 48.44,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-035/s052-media4.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-035/s052-media4.jpg",
+              "x": 46.89,
+              "y": 46.4,
+              "w": 15.42,
+              "h": 48.44,
+              "sound": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-036",
+      "title": "«Найди свой путь с Bavaria»",
+      "client": "EFES Kazakhstan / Bavaria",
+      "category": "PR",
+      "year": "",
+      "summary": "EFES Kazakhstan с брендом Bavaria запустили конкурс для тех, кто хочет реализовать потенциал и идти своим уникальным путем. Три героя: Дана, Алина и Александр рассказали свои истории о том, как изменили свою жизнь и мотивировали людей поделиться, как бы они хотели измениться. Приз: сертификат на обучение стоимостью до 800 тыс. тг. TOTAL REACH – 1.5MLN ПЯТЬ ПОБЕДИТЕЛЕЙ ПО ВСЕМУ КАЗАХСТАНУ НАЙДИ СВОЙ ПУТЬ С BAVARIA",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 54,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-036/slide-054.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-036/slide-054.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-037",
+      "title": "XII Астанинский экономический форум",
+      "client": "АЭФ",
+      "category": "PR",
+      "year": "2019",
+      "summary": "АЭФ – ежегодное крупнейшее деловое событие Евразии. В АЭФ-2019 приняли участие более 6 000 делегатов из 74 стран мира, в том числе Главы стран. Осветить событие прибыло 381 журналиста из 30 стран мира. Дата: 16-18 мая, 2019г. Место проведения: Конгресс-Центр, Rixos President Astana Hotel, МФЦА, The St.Regis Astana, The Ritz-Carlton, Astana, Hilton Astana Задачи: Разработка и реализация PR и SMM стратегии (20+ стран); Инициация минимум 700 публикаций в СМИ; Формирование нейтрально-позитивного информационного поля; Привлечение информационных партнеров; Ведение аккаунтов форума Facebook, Instagram, Twitter. Результаты по PR: разработаны и реализованы PR и антикризисная стратегии; инициирован выход около 3 000 публикаций в республиканских СМИ; инициирован выход более 700 публикаций в зарубежных СМИ; Привлечено 13 информационных партнеров. XII АСТАНИНСКИЙ ЭКОНОМИЧЕСКИЙ ФОРУМ",
+      "result": "",
+      "tags": [
+        "PR",
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 56,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-037/slide-056.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-037/slide-056.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-038",
+      "title": "IQOS — промозона (Ray Pool / Первомайские пруды)",
+      "client": "Филип Моррис Казахстан / IQOS",
+      "category": "Production",
+      "year": "2022",
+      "summary": "В июне 2022 года в г. Алмаы бренд IQOS запустил промо акцию на трех зонах отдыха: Ray Pool, Первомайские пруды и Delight Swimming Pool (ЦПКО). Перед агентством стояла задача разработать и произвести фото-зону в соответствии с локациями и тематикой: лето, жара, бассейн. И произвести качественную конструкцию, которая простоит все лето на солнце и у воды. IQOS. ПРОМО ЗОНА",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 59,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-038/slide-059.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-038/slide-059.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-039",
+      "title": "IQOS — фотозона Forbes Woman",
+      "client": "Филип Моррис Казахстан / IQOS",
+      "category": "Production",
+      "year": "2022",
+      "summary": "В cентябре 2022 года в г. Астана прошел форум Forbes Woman. Агентство разработало дизайн фото зоны для партнера мероприятия - бренда IQOS. Агентство произвело конструкцию по утвержденному клиентом дизайну в экстремально короткие сроки. Фото зона привлекала много внимания гостей, а фотографии получились яркие и интересные. IQOS. ФОТО-ЗОНА FORBES WOMAN",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 60,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-039/slide-060.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-039/slide-060.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-040",
+      "title": "Moulinex — подарочные боксы",
+      "client": "Moulinex",
+      "category": "Production",
+      "year": "2022",
+      "summary": "В декабре 2022 года мы разработали идею для новогодних подарков для блогеров от бренда Moulinex В бокс входили: блендер брендированный фартук открытка с рецептом продукты для приготовления по рецепту Мы разработали дизайн, произвели боксы и лично развезли их. MOULINEX. ПОДАРОЧНЫЕ БОКСЫ",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 61,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-040/slide-061.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-040/slide-061.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-041",
+      "title": "Подарочные боксы EFES, «Bremen»",
+      "client": "EFES Kazakhstan",
+      "category": "Production",
+      "year": "",
+      "summary": "Подарочные боксы EFES, «BREMEN» Разработка дизайна и производство брендированного бокса с елочными игрушками (с пожеланиями на разных языках на обратной стороне).",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 62,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-041/slide-062.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-041/slide-062.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-042",
+      "title": "Borjomi — POSM, мерч",
+      "client": "Borjomi",
+      "category": "Production",
+      "year": "",
+      "summary": "Разработка дизайна и производство лимитрированных подарочных боксов для друзей бренда. Уникальные маски, умные колонки., блокноты . BORJOMI. POSM. MERCH",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 63,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-042/slide-063.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-042/slide-063.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-043",
+      "title": "BTL «Dizzy JT Auto Fest» (Olimpbet)",
+      "client": "Olimpbet",
+      "category": "Production",
+      "year": "2023",
+      "summary": "BTL «Dizzy JT AUTO FEST» (OLIMPBET) Апрель 2023 г. Активации на автошоу нового формата. Разработка идей для конкурсов и дизайна пресстены, топперов и стикерпаков. Производство: - пресс-стены - магнитного брендирования авто - производство и брендирование мерча - производство стикеров",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 64,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-043/slide-064.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-043/slide-064.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-044",
+      "title": "Подарочные боксы IQOS (ПМК)",
+      "client": "Филип Моррис Казахстан / IQOS",
+      "category": "Production",
+      "year": "",
+      "summary": "ПОДАРОЧНЫЕ БОКСЫ Разработка дизайна и производство лимитрированных подарочных боксов для Филип Моррис Казахстан, бренда IQOS. Работа под ключ, от эскиза, закупа подарков, до готовых наборов.",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 65,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-044/slide-065.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-044/slide-065.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-045",
+      "title": "Подарочные боксы «Bavaria»",
+      "client": "EFES Kazakhstan",
+      "category": "Production",
+      "year": "",
+      "summary": "ПОДАРОЧНЫЕ БОКСЫ «BAVARIA» Разработка дизайна и производство гифт-боксов c наполнением для компании EFES",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 66,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-045/slide-066.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-045/slide-066.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-046",
+      "title": "Корпоративные подарки OLX",
+      "client": "OLX",
+      "category": "Production",
+      "year": "2023",
+      "summary": "Дата декабрь 2023 год Количество подарков: 200+ Формат подарков: новогодний Разработка идей подарков для трех групп получателей, реализация, сборка и доставка. КОРПОРАТИВНЫЕ ПОДАРКИ OLX",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 67,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-046/slide-067.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-046/slide-067.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-047",
+      "title": "Подарки для блогеров JAC Motors",
+      "client": "JAC Motors Kazakhstan",
+      "category": "Production",
+      "year": "",
+      "summary": "Подарки для блогеров должны быть современными, практичными и максимально необычными. Реализованные задачи: идея, разработка дизайна и реализация. Наполнение подарка: - Практичная сумка в современном дизайне идеально подходит для активной жизни блогера. - Книга известного автора с интригующим названием и не менее интересным содержанием прекрасно подходит творческому человеку. - Дизайнерская открытка. ПОДАРКИ ДЛЯ БЛОГЕРОВ JAC MOTORS KAZAKHSTAN",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 68,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-047/slide-068.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-047/slide-068.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-048",
+      "title": "Торговое оборудование и POSM (портфолио)",
+      "client": "разные бренды",
+      "category": "Production",
+      "year": "",
+      "summary": "ТОРГОВОЕ ОБОРУДОВАНИЕ --- POSM / MERCH --- ТОРГОВОЕ ОБОРУДОВАНИЕ --- ТОРГОВОЕ ОБОРУДОВАНИЕ --- ТОРГОВОЕ ОБОРУДОВАНИЕ",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 69,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-048/slide-069.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-048/slide-069.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-048/slide-070.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-048/slide-083.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-048/slide-084.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-048/slide-085.webp"
         }
       ]
     },
@@ -704,56 +1233,1012 @@
       "layout": "Оригинальный слайд",
       "sourceSlide": 72,
       "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-049/slide-072.webp",
-      "overlays": [
+      "slides": [
         {
-          "kind": "video",
-          "src": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media6.mp4",
-          "poster": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media6.jpg",
-          "x": 39.99,
-          "y": 5.11,
-          "w": 28.86,
-          "h": 28.86,
-          "sound": true
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-049/slide-072.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media6.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media6.jpg",
+              "x": 39.99,
+              "y": 5.11,
+              "w": 28.86,
+              "h": 28.86,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media7.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media7.jpg",
+              "x": 69.44,
+              "y": 4.76,
+              "w": 28.86,
+              "h": 29.3,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media8.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media8.jpg",
+              "x": 39.95,
+              "y": 34.99,
+              "w": 28.86,
+              "h": 28.86,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media10.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media10.jpg",
+              "x": 69.44,
+              "y": 34.99,
+              "w": 28.86,
+              "h": 28.86,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media9.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media9.jpg",
+              "x": 69.44,
+              "y": 65.01,
+              "w": 28.86,
+              "h": 28.86,
+              "sound": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-050",
+      "title": "Мираторг — видео, KV, анимации",
+      "client": "Мираторг",
+      "category": "Creative",
+      "year": "2024",
+      "summary": "МИРАТОРГ Клиент: Мираторг ЗАДАЧИ: Разработка KV, видео роликов, анимаций. --- МИРАТОРГ / АНИМАЦИИ ДЛЯ SMM",
+      "result": "",
+      "tags": [
+        "Creative",
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 73,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-050/slide-073.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-050/slide-073.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-050/s073-media11.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-050/s073-media11.jpg",
+              "x": 43.93,
+              "y": 50,
+              "w": 48.19,
+              "h": 48.19,
+              "sound": true
+            }
+          ]
         },
         {
-          "kind": "video",
-          "src": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media7.mp4",
-          "poster": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media7.jpg",
-          "x": 69.44,
-          "y": 4.76,
-          "w": 28.86,
-          "h": 29.3,
-          "sound": true
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-050/slide-074.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-050/s074-media12.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-050/s074-media12.jpg",
+              "x": 13.04,
+              "y": 14.66,
+              "w": 25.97,
+              "h": 82.07,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-050/s074-media14.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-050/s074-media14.jpg",
+              "x": 40.32,
+              "y": 14.66,
+              "w": 25.97,
+              "h": 82.07,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-050/s074-media13.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-050/s074-media13.jpg",
+              "x": 67.43,
+              "y": 14.66,
+              "w": 25.97,
+              "h": 82.07,
+              "sound": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-051",
+      "title": "ЖК «Privilegia» — нейминг и айдентика",
+      "client": "RISE Development",
+      "category": "Creative",
+      "year": "",
+      "summary": "ЖК “PRIVILEGIA” Клиент: RISE Development ЗАДАЧИ: Разработка нейминга, слогана, фирменного стиля нового жилого комплекса премиум-класса; Разработка каталога, digital-презентации, буклета.",
+      "result": "",
+      "tags": [
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 26,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-051/alt-026.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-051/alt-026.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-052",
+      "title": "Tefal Ixeo Power — креативная коммуникация",
+      "client": "Tefal",
+      "category": "Creative",
+      "year": "",
+      "summary": "TEFAL IXEO POWER Клиент: Tefal ЗАДАЧИ: Разработка креативной коммуникации для паровой гладильной системы IXEO POWER; Разработка KV, анимаций.",
+      "result": "",
+      "tags": [
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 76,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-052/slide-076.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-052/slide-076.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-052/s076-media15.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-052/s076-media15.jpg",
+              "x": 35,
+              "y": 32.91,
+              "w": 34.33,
+              "h": 61.04,
+              "sound": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-053",
+      "title": "Rakhat — анимированные креативы",
+      "client": "Rakhat",
+      "category": "Creative",
+      "year": "",
+      "summary": "RAKHAT / АНИМИРОВАННЫЕ КРЕАТИВЫ *videos",
+      "result": "",
+      "tags": [
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 77,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-053/slide-077.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-053/slide-077.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media19.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media19.jpg",
+              "x": 10.63,
+              "y": 15.94,
+              "w": 20.24,
+              "h": 34.27,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media18.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media18.jpg",
+              "x": 31.53,
+              "y": 15.97,
+              "w": 15.41,
+              "h": 34.25,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media21.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media21.jpg",
+              "x": 47.59,
+              "y": 15.81,
+              "w": 19.42,
+              "h": 34.53,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media22.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media22.jpg",
+              "x": 67.67,
+              "y": 15.7,
+              "w": 19.47,
+              "h": 34.64,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media20.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media20.jpg",
+              "x": 10.79,
+              "y": 55.7,
+              "w": 20.08,
+              "h": 35.69,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media23.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media23.jpg",
+              "x": 31.53,
+              "y": 55.21,
+              "w": 20.35,
+              "h": 36.19,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media16.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media16.jpg",
+              "x": 52.53,
+              "y": 55.21,
+              "w": 20.08,
+              "h": 35.69,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media17.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-053/s077-media17.jpg",
+              "x": 73.27,
+              "y": 55.21,
+              "w": 20.08,
+              "h": 35.69,
+              "sound": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-054",
+      "title": "EFES Kazakhstan — рекламные модули, лого, календари",
+      "client": "EFES Kazakhstan",
+      "category": "Creative",
+      "year": "",
+      "summary": "EFES KAZAKHSTAN / РЕКЛАМНЫЕ МОДУЛИ --- EFES KAZAKHSTAN / РЕКЛАМНЫЕ МОДУЛИ --- EFES KAZAKHSTAN / РЕКЛАМНЫЕ МОДУЛИ --- РЕКЛАМНЫЕ МОДУЛИ --- EFES KAZAKHSTAN / ДИЗАЙН КАЛЕНДАРЕЙ --- EFES KAZAKHSTAN / ЛОГО И РЕКЛАМНЫЙ МОДУЛЬ",
+      "result": "",
+      "tags": [
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 78,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-054/slide-078.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-054/slide-078.webp"
         },
         {
-          "kind": "video",
-          "src": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media8.mp4",
-          "poster": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media8.jpg",
-          "x": 39.95,
-          "y": 34.99,
-          "w": 28.86,
-          "h": 28.86,
-          "sound": true
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-054/slide-079.webp"
         },
         {
-          "kind": "video",
-          "src": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media10.mp4",
-          "poster": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media10.jpg",
-          "x": 69.44,
-          "y": 34.99,
-          "w": 28.86,
-          "h": 28.86,
-          "sound": true
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-054/slide-080.webp"
         },
         {
-          "kind": "video",
-          "src": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media9.mp4",
-          "poster": "https://media.worldorder.club/tag-credentials-2026/lib-049/s072-media9.jpg",
-          "x": 69.44,
-          "y": 65.01,
-          "w": 28.86,
-          "h": 28.86,
-          "sound": true
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-054/slide-081.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-054/slide-082.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-054/slide-086.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-055",
+      "title": "Ritz-Carlton — печатные модули",
+      "client": "The Ritz-Carlton",
+      "category": "Creative",
+      "year": "",
+      "summary": "RITZ CARLTON / ПЕЧАТНЫЕ МОДУЛИ",
+      "result": "",
+      "tags": [
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 24,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-055/alt-024.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-055/alt-024.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-056",
+      "title": "Renault — рекламные модули",
+      "client": "Renault",
+      "category": "Creative",
+      "year": "",
+      "summary": "RENAULT / РЕКЛАМНЫЕ МОДУЛИ --- RENAULT / РЕКЛАМНЫЕ МОДУЛИ",
+      "result": "",
+      "tags": [
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 88,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-056/slide-088.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-056/slide-088.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-056/slide-089.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-057",
+      "title": "Qolday — брендинг",
+      "client": "Qolday",
+      "category": "Creative",
+      "year": "",
+      "summary": "QOLDAY / БРЕНДИНГ",
+      "result": "",
+      "tags": [
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 90,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-057/slide-090.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-057/slide-090.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-058",
+      "title": "Vitalnan — дизайн упаковки и рекламный модуль",
+      "client": "Vitalnan",
+      "category": "Creative",
+      "year": "",
+      "summary": "VITALNAN / ДИЗАЙН УПАКОВКИ --- VITALNAN / РЕКЛАМНЫЙ МОДУЛЬ И ФОТОСЕССИЯ",
+      "result": "",
+      "tags": [
+        "Creative",
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 91,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-058/slide-091.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-058/slide-091.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-058/slide-092.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-059",
+      "title": "Pro RehaB — рекламные модули",
+      "client": "Pro RehaB",
+      "category": "Creative",
+      "year": "",
+      "summary": "Pro RehaB / РЕКЛАМНЫЕ МОДУЛИ",
+      "result": "",
+      "tags": [
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 93,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-059/slide-093.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-059/slide-093.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-060",
+      "title": "Wash&Go — рекламные модули",
+      "client": "Wash&Go",
+      "category": "Creative",
+      "year": "",
+      "summary": "WASH & GO / РЕКЛАМНЫЕ МОДУЛИ",
+      "result": "",
+      "tags": [
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 94,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-060/slide-094.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-060/slide-094.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-061",
+      "title": "BI Group — печатные материалы",
+      "client": "BI Group",
+      "category": "Creative",
+      "year": "",
+      "summary": "BI GROUP / ПЕЧАТНЫЕ МАТЕРИАЛЫ",
+      "result": "",
+      "tags": [
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 95,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-061/slide-095.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-061/slide-095.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-062",
+      "title": "Samruk Kazyna — POSM, мерч",
+      "client": "Samruk Kazyna",
+      "category": "Production",
+      "year": "",
+      "summary": "SAMRUK KAZYNA. POSM. MERCH",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 96,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-062/slide-096.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-062/slide-096.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-063",
+      "title": "Activ — наружная реклама",
+      "client": "Activ",
+      "category": "Creative",
+      "year": "",
+      "summary": "ACTIV / НАРУЖНАЯ РЕКЛАМА --- ACTIV / НАРУЖНАЯ РЕКЛАМА --- ACTIV / НАРУЖНАЯ РЕКЛАМА",
+      "result": "",
+      "tags": [
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 97,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-063/slide-097.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-063/slide-097.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-063/slide-098.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-063/slide-099.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-064",
+      "title": "Talan Towers — Ritz-Carlton Residences / Executive Hub",
+      "client": "Talan Towers",
+      "category": "Digital",
+      "year": "2019-2023",
+      "summary": "TALAN TOWERS The Ritz-Carlton Residences Продажа резиденций класса люкс в Нур-Султане. RESULTS: Охват в месяц > 700 000 unique users Кликов в месяц > 5 000 CR% вырос с 0,011% до 2%. Executive Hub Аренда премиум-недвижимости в Нур-Султане RESULTS: Охват в месяц > 1 000 000 уник. польз. Кликов в месяц > 7 000 CR% вырос с 0,015% до 3,5%. Ads channels Analytics Web site Проблематика Узкая ЦА Дороговизна Расположение Отсутствие CRM Решение Сегментация ЦА Кросс-платформенность Remarketing Look-a-like Привлечение трафика с других стран для инвестиций Call-tracking Анализ звонков Клиент с 2019 года. Пролонгирован на 2023 год",
+      "result": "",
+      "tags": [
+        "Digital"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 23,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-064/alt-023.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-064/alt-023.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-065",
+      "title": "Rakhat — digital-стратегия (мультибренд)",
+      "client": "Rakhat",
+      "category": "Digital",
+      "year": "2020-2025",
+      "summary": "Creative + Digital + SMM + PR RAKHAT Клиент на годовом обслуживании в 2020 г. Новый контракт с 2023 до 2025 гг. Цель: Рост осведомленности о продуктах «Омолодить» бренд, привлечь новую целевую аудиторию Достижение высокого охвата при условии своей ЦА под каждый продукт Запуск > 10 брендов в трех категориях: шоколад, бисквит и мармелад Анонсирование новых видов всех знакомых продуктов Стратегия: Подбор релевантных интересов и площадок, исходя из ЦА бренда Проработка нескольких концептов и подходов к размещению: разработка креативных идей под каждый бренд Регулярная смена креатива ввиду высокой частоты и широкого охвата Работа с нестандартными форматами размещения (подключение программатиков с интерактивными/игровыми баннерами) Акцент на социальные сети, программатики, стандартная баннерка - как дополнительный элемент для расширения охватной сетки сайтов-партнеров Снижение кросс-охвата за счет внутренних оптимизаций кампаний, использования двух языков и ежемесячного пересмотра рекламных интересов Результаты в месяц: > 120 млн показов суммарно по брендам Частота в среднем 4 показа баннера на 1 уникального пользователя Средний охват по ЦА бренда около 3 млн пользователей 12 брендов + 2 спец. промо 3 категории продуктов Разная ЦА и разная стратегия для каждого бренда",
+      "result": "",
+      "tags": [
+        "Digital",
+        "Creative",
+        "SMM",
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 103,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-065/slide-103.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-065/slide-103.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-066",
+      "title": "Мираторг — digital-кампания",
+      "client": "Мираторг",
+      "category": "Digital",
+      "year": "2024",
+      "summary": "Creative + Digital + SMM + PR MIRATORG Клиент на годовом обслуживании в 2024 Цель: Привлечь внимание и повысить осведомленность целевой аудитории о бренде \"Мираторг\" Стратегия: Задача: подготовить тактику размещения и подобрать рекламные платформы, которые имеют в своем арсенале обширные рекламные инструменты и охватывают основную интернет-аудиторию Казахстана. Запуск рекламы в двух направлениях: Имиджевая коммуникация: увеличить знание и лояльность к бренду через промоутирование ключевого сообщения «Дастархан на весь Казахстан с Мираторг». Промо конкурс в Instagram: стимулирование целевой аудитории к покупке путем участия в масштабной промо-акции Имиджевая кампания Промо конкурс",
+      "result": "",
+      "tags": [
+        "Digital",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 104,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-066/slide-104.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-066/slide-104.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-067",
+      "title": "Wash&Go — digital-кампания",
+      "client": "Wash&Go",
+      "category": "Digital",
+      "year": "2021-2024",
+      "summary": "+ возможности геолокационного таргетинга Основные цели: Интеграция онлайн + оффлайн размещений для усиления эффекта запоминаемости продукта. Пример креатива TV + Creative + Digital + PR Цель: Увеличить знание о качестве продуктов по невысокой цене и простимулировать рост продаж продуктов. Рассказать о том, что производство продукта находится в Италии, в отличие от производств других конкурентов. Анонсирование новой продуктовой линейки товаров от компании. Стратегия: Работа с двумя разными целевыми аудиториями: молодежью и семейными людьми. Проработка нескольких концептов и подходов к размещению: выбор релевантных мест для показов объявления. Итоговое размещение в OLV, Display и Social Media. Кампании, нацеленные на охват. Результаты в месяц: 7 500 000 млн. показов на ЦА 20-35. Охват > 4 500 000 6 500 000 млн. показов на ЦА 35-55. Охват > 3 000 000 Результаты продаж: Возврат к уровню 2019 года после значительного падения во время пандемии 2020 года. WASH&GO Клиент на годовом обслуживании в 2021 г. Медийное размещение в 2022-2024 г.",
+      "result": "",
+      "tags": [
+        "Digital",
+        "Creative",
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 105,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-067/slide-105.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-067/slide-105.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-068",
+      "title": "Parimatch: Euro 2021",
+      "client": "Parimatch",
+      "category": "Digital",
+      "year": "2021",
+      "summary": "Digital + PR Digital-поддержка промоакций, проводимых в период ЕВРО2021. Цель: Вести на лендинг с промо предложением на каждый футбольный матч. Постоянная замена креативов в зависимости от события. Отключать/Включать объявления каждый день. Digital-стратегия: Разделение каждой кампании на 3 целевых: общая аудитория, игроки в футбол из CRM клиента и самые заядлые игроки в футбол. В зависимости от матча, генерировать свое рекламное сообщение. Работа с аналитикой на сайте. Запуск в социальных сетях и баннерной рекламе. Оптимизация кампаний по лидам. Работа с ремаркетинговой и look-alike аудиториями. Расширение БД, собранных с рекламных кампаний. Работа с целями через Google Analytics и пикселями в Facebook. Оптимизация кампаний по конверсиям. Регулярное создание запасных рекламных кабинетов для быстрого перезапуска рекламных кампаний. Результаты: Снижение плановой стоимости клика на 60% Количество лидов - NDA. Запущено свыше 60 групп объявлений в нескольких рекламных кабинетов. PARIMATCH: EURO 2021 Усиление во время футбольных матчей.",
+      "result": "",
+      "tags": [
+        "Digital",
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 106,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-068/slide-106.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-068/slide-106.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-068/s106-image470.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-068/s106-image470.jpg",
+              "x": 76.29,
+              "y": 22.65,
+              "w": 17.33,
+              "h": 30.81
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-068/s106-image469.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-068/s106-image469.jpg",
+              "x": 58.1,
+              "y": 55.71,
+              "w": 17.34,
+              "h": 30.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-069",
+      "title": "Parimatch: online-хакатон",
+      "client": "Parimatch",
+      "category": "Digital",
+      "year": "2021",
+      "summary": "Digital + PR Ads map Kazakhstan Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Оптимизация по конверсиям Дата аналитика Путь пользователя Digital-поддержка онлайн хакатона среди IT-менеджеров, project менеджеров, дизайнеров и тестировщиков. Цель: Собрать 500 заявок на участие из стран: Казахстан, Киргизстан, Узбекистан, Таджикистан, Армения, Азербайджан, Туркменистан. Digital-стратегия: Продвижение в социальных сетях, баннерная поддержка. Работа с ремаркетинговой аудиторией Работа с целями через Google Analytics и пикселями в Facebook. Оптимизация кампаний по конверсиям. Результаты: 609 заявок на участие (KPI был перевыполнен). 1 050 702 показов рекламы на все страны. 7 906 кликов на сайт. CTR% - 0,75%. CR% - 3,11%. Период кампании: 02.04 – 18.04.2021 PARIMATCH: ONLINE-HACKHATON Дополнительное промо спецпроекта к основному digital размещению.",
+      "result": "",
+      "tags": [
+        "Digital",
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 107,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-069/slide-107.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-069/slide-107.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-070",
+      "title": "idocs — digital-продвижение",
+      "client": "idocs",
+      "category": "Creative",
+      "year": "2024",
+      "summary": "Creative + Digital + PR + SMM Цель: Повысить brand awareness. Увеличить количество лидов на сайт. Привлечение потенциальных клиентов. Работа с B2B сектором. Стратегия: Работа с наиболее конверсионными каналами. Оптимизация конечной стоимости лида. Прямая связка рекламных кабинетов и CRM системы для лучшего отслеживания качества заявок. Тестирование гипотез: разделение на кампании с разными месседжами, с разными аудиториями, работа с БД. Ремаркетинговые, look-alike кампании. Деление на группы кампаний в поисковой системе. Использование автоматических Результаты в месяц: NDA idocs Клиент в 2024 г. Старт запуска в августе 2024 г.",
+      "result": "",
+      "tags": [
+        "Creative",
+        "Digital",
+        "PR",
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 36,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-070/main-036.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-070/main-036.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-071",
+      "title": "Estate Co — Belgravia & Country Club",
+      "client": "Estate Co",
+      "category": "Digital",
+      "year": "2021-2022",
+      "summary": "Цель: Запуск лидогенерации для привлечения потенциальных покупателей. Повышение знания и укрепление имиджа проектов. Стратегия: Работа с разными целевыми аудиториями в зависимости от типа объекта. Несколько концепций и подходов к размещению: выбор релевантных мест для показа рекламы. Окончательное размещение в olv, дисплее и социальных сетях. Запуск кампаний на базе аудиторий. Кампании, направленные на лидогенерацию. Результаты с ноября 2021 г. к августу 2022 года: > В рамках тестирования и оптимизации запущено 50 рекламных групп. Снижение в 2 раза средней стоимости лида по всем платформам. Рост количества заявок в 2 раза при равном бюджете с ноября 2021 года. Сайт оптимизирован, что стабильно приносит лиды в 3 раза дешевле по сравнению с началом года, а также является самым качественным исходным трафиком на всех площадках. Доля качественных лидов достигла 66% от общего числа конверсий. ESTATE CO Продвижение двух проектов в сфере недвижимости: Belgravia & Country Club ноябрь 2021 г. – август 2022",
+      "result": "",
+      "tags": [
+        "Digital"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 25,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-071/alt-025.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-071/alt-025.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-072",
+      "title": "Renault — digital-кампания",
+      "client": "Renault",
+      "category": "Creative",
+      "year": "",
+      "summary": "Creative + Digital + SMM + PR Цель: Повышение узнаваемости бренда и стимулирование роста продаж автомобилей Renault: Duster, Arkana и Kaptur. Привлечение аудитории для прохождения бесплатного тест-драйва и оформление заявок на автокредит. Стратегия: Использование двух видов продвижения: охватные кампании и сбор конверсий. Лидогенерация заявок на кредитование, запись на тест-драйв. Работа с ремаркетинговой аудиторией. Работа с подбором целевой аудиторию под каждую модель отдельно. Дополнительно: + Также проработка медийной поддержки – размещение в OOH, телевидении и радио. Результаты: Impressions > 5 000 000 в месяц Reach > 2 500 000 в месяц CR% - 2,7% RENAULT Клиент на годовом обслуживании.",
+      "result": "",
+      "tags": [
+        "Creative",
+        "Digital",
+        "SMM",
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 110,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-072/slide-110.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-072/slide-110.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-073",
+      "title": "Lotte Rakhat — визуалы/SMM",
+      "client": "Lotte Rakhat",
+      "category": "SMM",
+      "year": "",
+      "summary": "VISUALS / SMM / LOTTE RAKHAT --- VISUALS / SMM / LOTTE RAKHAT --- VISUALS / SMM / LOTTE RAKHAT --- VISUALS / SMM / LOTTE RAKHAT",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 112,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-073/slide-112.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-073/slide-112.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-073/s112-media24.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-073/s112-media24.jpg",
+              "x": 14.83,
+              "y": 16.38,
+              "w": 25.62,
+              "h": 80.96,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-073/s112-media25.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-073/s112-media25.jpg",
+              "x": 43.36,
+              "y": 16.38,
+              "w": 25.62,
+              "h": 80.96,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-073/s112-media26.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-073/s112-media26.jpg",
+              "x": 71.88,
+              "y": 16.38,
+              "w": 25.62,
+              "h": 80.96,
+              "sound": true
+            }
+          ]
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-073/slide-113.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-073/s113-media27.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-073/s113-media27.jpg",
+              "x": 13.58,
+              "y": 16.38,
+              "w": 25.62,
+              "h": 80.96,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-073/s113-media28.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-073/s113-media28.jpg",
+              "x": 42.73,
+              "y": 16.38,
+              "w": 25.62,
+              "h": 80.96,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-073/s113-media29.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-073/s113-media29.jpg",
+              "x": 71.12,
+              "y": 16.38,
+              "w": 25.62,
+              "h": 80.96,
+              "sound": true
+            }
+          ]
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-073/slide-114.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-073/slide-115.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-074",
+      "title": "Snatch — визуалы/SMM",
+      "client": "Snatch",
+      "category": "SMM",
+      "year": "",
+      "summary": "VISUALS / SMM / SNATCH",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 116,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-074/slide-116.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-074/slide-116.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-074/s116-media30.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-074/s116-media30.jpg",
+              "x": 13.35,
+              "y": 16.34,
+              "w": 25.62,
+              "h": 80.96,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-074/s116-media31.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-074/s116-media31.jpg",
+              "x": 40.81,
+              "y": 16.34,
+              "w": 25.62,
+              "h": 80.96,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-074/s116-media32.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-074/s116-media32.jpg",
+              "x": 68.27,
+              "y": 16.34,
+              "w": 25.62,
+              "h": 80.96,
+              "sound": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-075",
+      "title": "LG — SMM",
+      "client": "LG",
+      "category": "SMM",
+      "year": "",
+      "summary": "LG SMM *videos --- *videos LG SMM",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 117,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-075/slide-117.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-075/slide-117.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-075/s117-media33.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-075/s117-media33.jpg",
+              "x": 11.32,
+              "y": 19.56,
+              "w": 39.68,
+              "h": 75.29,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-075/s117-media34.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-075/s117-media34.jpg",
+              "x": 51.92,
+              "y": 19.56,
+              "w": 39.68,
+              "h": 75.29,
+              "sound": true
+            }
+          ]
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-075/slide-118.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-075/s118-media35.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-075/s118-media35.jpg",
+              "x": 11.32,
+              "y": 19.56,
+              "w": 28.92,
+              "h": 51.41,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-075/s118-media37.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-075/s118-media37.jpg",
+              "x": 41.22,
+              "y": 19.56,
+              "w": 28.92,
+              "h": 51.41,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-075/s118-media36.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-075/s118-media36.jpg",
+              "x": 71.08,
+              "y": 19.56,
+              "w": 28.92,
+              "h": 51.41,
+              "sound": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-076",
+      "title": "idocs — SMM",
+      "client": "idocs",
+      "category": "SMM",
+      "year": "",
+      "summary": "*videos idocs SMM",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 119,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-076/slide-119.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-076/slide-119.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-076/s119-media38.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-076/s119-media38.jpg",
+              "x": 13.93,
+              "y": 17.28,
+              "w": 24.67,
+              "h": 77.97,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-076/s119-media39.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-076/s119-media39.jpg",
+              "x": 40.6,
+              "y": 16.77,
+              "w": 24.83,
+              "h": 78.47,
+              "sound": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-077",
+      "title": "Beefeater Kazakhstan — SMM",
+      "client": "Beefeater Kazakhstan",
+      "category": "SMM",
+      "year": "",
+      "summary": "OUR CLIENTS / SMM Разработка стратегии продвижения в социальных медиа. Создание и оформление страниц Ведение сообществ (копирайтинг, дизайн постов, публикация контента, ответы на вопросы пользователей соцсетей) Beefeater Kazakhstan --- OUR CLIENTS / SMM Разработка стратегии продвижения в социальных медиа. Создание и оформление страниц Ведение сообществ (копирайтинг, дизайн постов, публикация контента, ответы на вопросы пользователей соцсетей) Beefeater Kazakhstan",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 120,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-077/slide-120.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-077/slide-120.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-077/slide-133.webp"
         }
       ]
     },
@@ -771,57 +2256,1163 @@
       "layout": "Оригинальный слайд",
       "sourceSlide": 128,
       "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-078/slide-128.webp",
-      "overlays": [
+      "slides": [
         {
-          "kind": "video",
-          "src": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image558.mp4",
-          "poster": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image558.jpg",
-          "x": 11.83,
-          "y": 25.42,
-          "w": 17.62,
-          "h": 38.23
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-078/slide-128.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image558.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image558.jpg",
+              "x": 11.83,
+              "y": 25.42,
+              "w": 17.62,
+              "h": 38.23
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image559.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image559.jpg",
+              "x": 32.85,
+              "y": 25.42,
+              "w": 17.62,
+              "h": 38.23
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image561.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image561.jpg",
+              "x": 53.37,
+              "y": 24.73,
+              "w": 17.62,
+              "h": 38.18
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image562.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image562.jpg",
+              "x": 74.87,
+              "y": 25.47,
+              "w": 17.44,
+              "h": 38.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-079",
+      "title": "SMM — портфолио клиентов (LG, Talan Towers, Dostyq Market, Pari Match)",
+      "client": "несколько клиентов",
+      "category": "SMM",
+      "year": "",
+      "summary": "Ведение сообществ в соцсетях (копирайтинг, дизайн постов, публикация контента, комьюнити менеджмент, разработка стратегий) KZ/IG - Результаты за год: • +14.660 целевых подписчиков • ER вырос на +0.88% • ERReach вырос на +67.57% • На +786% больше комментариев UZ/IG - Прирост подписчиков за год: • +46,640 KG/IG - Прирост подписчиков за год: • +2,716 Разработка стратегии продвижения в социальных медиа. Создание и оформление страниц Ведение сообществ (копирайтинг, дизайн постов, публикация контента, ответы на вопросы пользователей соцсетей) Количество взаимодействий с публикациями Talan Towers превысило 10 000 раз, а охват составил порядка 25000 человек в сутки. LG Electronics Kz/Uz/Mn/Tj/Tm/Kg TALAN TOWERS DOSTYQ MARKET Разработка стратегии создания бренд-платформы в соцсетях. Проведение активностей и больших рекламных кампаний с привлечением более 1 500 участников за 1 раз Охват публикаций перевыполненн на 118% Привлекли 392 136 аккаунтов за 1 месяц Вовлеченность – показатели перевыполнены почти на 276%, Подписчиков +1 839 за 1 месяц БУКМЕКЕРСКАЯ КОНТОРА PARI MATCH OUR CLIENTS / SMM",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 129,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-079/slide-129.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-079/slide-129.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-079/s129-image566.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-079/s129-image566.jpg",
+              "x": 54.01,
+              "y": 25.27,
+              "w": 17.4,
+              "h": 38.19
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-079/s129-image565.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-079/s129-image565.jpg",
+              "x": 74.07,
+              "y": 20.94,
+              "w": 16.71,
+              "h": 42.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-080",
+      "title": "SMM — портфолио клиентов (Prostokvashino, Actimel, Renault, RBK bank)",
+      "client": "несколько клиентов",
+      "category": "SMM",
+      "year": "2021",
+      "summary": "PROSTOKVASHINO Разработана SMM стратегия для Instagram. Были проведены активации с целью привлечь аудиторию и повысить узнаваемость бренда. Благодаря контент плану ведется постоянная коммуникация с подписчиками. ER за период = 4,46. SMM-активность для бренда Actimel Долгосрочная кампания для поддержки запуска новых продуктов -Разработка SMM стратегия -Проработка вижуалов -Модерация активаций Январь-февраль 2021: еженедельные конкурсы с ценными призами, по результатам 4 недели выполнение KPI на 197% по количеству лайков и выполнение KPI на 101% по охватам ACTIMEL RENAULT Была разработана SMM-стратегия для присутствия в Instagram и Facebook. Разработка, модерация и публикация контента, в том числе motion-design роликов, ведение таргетированной рекламы на все публикации, ежедневный постинг. RBK bank Разработана стратегия присутствия в социальных сетях: Instagram, Facebook, Вконтакте. Сделали упор на креативные и вирусные вижуалы. Благодаря чему вырос органический охват без платного продвижения. Рубрикатор позволил показать основной фокус на продукт в аккаунте и выстроил гармоничный грид. https://www.instagram.com/actimel_kz/ https://www.instagram.com/prostokvashino.kz/ https://www.instagram.com/bankrbk/ https://vk.com/renault_kaz https://www.facebook.com/BankRBK/ https://www.facebook.com/renaultkaz https://www.instagram.com/renault_kaz/ OUR CLIENTS / SMM",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 130,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-080/slide-130.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-080/slide-130.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-080/s130-image578.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-080/s130-image578.jpg",
+              "x": 11.99,
+              "y": 25.28,
+              "w": 17.22,
+              "h": 36.99
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-080/s130-image577.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-080/s130-image577.jpg",
+              "x": 33.14,
+              "y": 25.28,
+              "w": 17.22,
+              "h": 36.99
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-080/s130-image579.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-080/s130-image579.jpg",
+              "x": 54.06,
+              "y": 25.28,
+              "w": 17.22,
+              "h": 36.99
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-080/s130-image580.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-080/s130-image580.jpg",
+              "x": 75.07,
+              "y": 25.49,
+              "w": 17.22,
+              "h": 36.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-081",
+      "title": "SMM — портфолио клиентов (Comode.kz, Vitalnan, Glovo, Kazmunaygas)",
+      "client": "несколько клиентов",
+      "category": "SMM",
+      "year": "",
+      "summary": "COMODE.KZ Ведение Instagram страницы собственного цифрового издания. Разработка контента для женской целевой аудитории Охват 1 поста без промо до 12 тыс. уникальных пользователей До 800 вовлечений без подключения таргетированной рекламы 30+ тыс. активных и лояльных подписчиков Разработка SMM-стратегии для первого бренда цельнозернового хлеба в Казахстане. Создание контента, проведение фотосессии, ведение социальных сетей Vitalnan - Instagram, Facebook. Охват постов за 1 месяц работы - более 500 000. Прирост подписчиков в соцсетях +500 за первый месяц работы. ER = 3,8%. VITALNAN GLOVO Разработана SMM стратегия для Instagram, Facebook и Telegram. Разработан новый подход в дизайне и обработке фото. Четкий рубрикатор позволяет донести миссию и ценности компании, а также специфику ее деятельности. KAZMUNAYGAS Разработана SMM стратегия по присутствию бренда в социальных сетях. На данный момент идет успешная реализация, создание крафтового контента, отработка всей входящей обратной связи, запуск таргетированной рекламы и реализация активаций. В результате — более 10 000 взаимодействий в неделю. OUR CLIENTS / SMM",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 131,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-081/slide-131.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-081/slide-131.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-081/s131-image590.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-081/s131-image590.jpg",
+              "x": 11.85,
+              "y": 26.28,
+              "w": 17.69,
+              "h": 38
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-081/s131-image589.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-081/s131-image589.jpg",
+              "x": 32.77,
+              "y": 25.39,
+              "w": 17.69,
+              "h": 38
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-081/s131-image591.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-081/s131-image591.jpg",
+              "x": 53.89,
+              "y": 25.39,
+              "w": 17.69,
+              "h": 38
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-081/s131-image588.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-081/s131-image588.jpg",
+              "x": 74.8,
+              "y": 25.39,
+              "w": 17.69,
+              "h": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-082",
+      "title": "SMM — портфолио клиентов (Danissimo, Beauty Peak, АЭФ-2019, Eurasia Films, Activia)",
+      "client": "несколько клиентов",
+      "category": "SMM",
+      "year": "2019",
+      "summary": "BEAUTY PEAK https://www.instagram.com/polytechhealth.kz/ DANISSIMO SMM для бренда Danissimo. Была разработана контент-стратегия, которая включает в себя разработку крафтового контента, написание сопроводительных текстов и проведение SMM-активностей. Модерация аккаунта 24/7. Разработка стратегии продвижения в социальных медиа. Ведение сообществ в соцсетях (копирайтинг, дизайн постов, публикация контента, ответы на вопросы пользователей соцсетей, вовлечение подписчиков в дискуссии) Провели онлайн марафон с целью привлечения аудитории и увеличения вовлеченности пользователей https://www.instagram.com/danissimo_kz https://www.instagram.com/activia_kz/ Создание первой киноплатформы в Казахстане. Разработка новой концепции. Разработка стратегии продвижения в социальных медиа . Ведение сообщества (копирайтинг, дизайн постов, публикация контента, ответы на вопросы пользователей соцсетей, вовлечение подписчиков в дискуссии). Привлечение аудитории: + 3 7 960 подписчиков XII АСТАНИНСКИЙ ЭКОНОМИЧЕСКИЙ ФОРУМ 2019 КАСТИНГОВОЕ АГЕНТСТВО ОТ КИНОКОМПАНИИ EURASIA FILMS Разработана и реализована SMM стратегия под проект. Настройки таргетированной рекламы на 19 ключевых стран. Результаты: Охват : 6 000 000 Показов: 8 300 000 Переходов на сайт форума: 36 200 ER 1,8 % Подписок на Facebook : 3 107 372 комментария 321 репост ACTIVIA Разработка стратегии продвижения в социальных медиа. Создание и оформление страниц Ведение сообществ (копирайтинг, дизайн постов, публикация контента, ответы на вопросы пользователей соцсетей) OUR CLIENTS / SMM",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 132,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-082/slide-132.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-082/slide-132.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-082/s132-image600.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-082/s132-image600.jpg",
+              "x": 11.86,
+              "y": 25.33,
+              "w": 16,
+              "h": 34.35
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-082/s132-image601.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-082/s132-image601.jpg",
+              "x": 29.63,
+              "y": 25.33,
+              "w": 16,
+              "h": 34.35
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-082/s132-image599.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-082/s132-image599.jpg",
+              "x": 47.33,
+              "y": 25.33,
+              "w": 16,
+              "h": 34.35
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-082/s132-image596.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-082/s132-image596.jpg",
+              "x": 64.99,
+              "y": 25.49,
+              "w": 15.95,
+              "h": 34.92
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-082/s132-image595.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-082/s132-image595.jpg",
+              "x": 82.54,
+              "y": 25.51,
+              "w": 15.96,
+              "h": 34.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-083",
+      "title": "SMM Video Production (портфолио роликов)",
+      "client": "разные бренды",
+      "category": "SMM",
+      "year": "",
+      "summary": "SMM VIDEO PRODUCTION --- SMM VIDEO PRODUCTION",
+      "result": "",
+      "tags": [
+        "SMM",
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 121,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-083/slide-121.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-083/slide-121.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-083/s121-media40.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-083/s121-media40.jpg",
+              "x": 11.47,
+              "y": 16.57,
+              "w": 25.85,
+              "h": 81.7,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-083/s121-media41.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-083/s121-media41.jpg",
+              "x": 38.2,
+              "y": 16.57,
+              "w": 25.85,
+              "h": 81.7,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-083/s121-media42.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-083/s121-media42.jpg",
+              "x": 64.92,
+              "y": 16.57,
+              "w": 25.85,
+              "h": 81.7,
+              "sound": true
+            }
+          ]
         },
         {
-          "kind": "video",
-          "src": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image559.mp4",
-          "poster": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image559.jpg",
-          "x": 32.85,
-          "y": 25.42,
-          "w": 17.62,
-          "h": 38.23
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-083/slide-122.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-083/s122-media44.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-083/s122-media44.jpg",
+              "x": 11.47,
+              "y": 16.57,
+              "w": 25.85,
+              "h": 81.7,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-083/s122-media43.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-083/s122-media43.jpg",
+              "x": 40.01,
+              "y": 16.57,
+              "w": 25.85,
+              "h": 81.7,
+              "sound": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-084",
+      "title": "Comode.kz — образовательный контент и статьи",
+      "client": "Comode.kz",
+      "category": "SMM",
+      "year": "",
+      "summary": "VISUALS / SMM / COMODE.KZ / PREVIEW ARTICLE --- VISUALS / SMM / COMODE.KZ / EDUCATION",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 123,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-084/slide-123.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-084/slide-123.webp"
         },
         {
-          "kind": "video",
-          "src": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image561.mp4",
-          "poster": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image561.jpg",
-          "x": 53.37,
-          "y": 24.73,
-          "w": 17.62,
-          "h": 38.18
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-084/slide-124.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-085",
+      "title": "SMM — визуалы (портфолио)",
+      "client": "разные бренды",
+      "category": "SMM",
+      "year": "",
+      "summary": "VISUALS / SMM --- VISUALS / SMM --- VISUALS / SMM",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 125,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-085/slide-125.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-085/slide-125.webp"
         },
         {
-          "kind": "video",
-          "src": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image562.mp4",
-          "poster": "https://media.worldorder.club/tag-credentials-2026/lib-078/s128-image562.jpg",
-          "x": 74.87,
-          "y": 25.47,
-          "w": 17.44,
-          "h": 38.17
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-085/slide-126.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-085/slide-127.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-086",
+      "title": "Glovo — SMM для TikTok",
+      "client": "Glovo",
+      "category": "SMM",
+      "year": "",
+      "summary": "Аккаунт Glovo Kazakhstan Разработана стратегия присутствия в TikTok. Сделали упор на трендовые и вирусные видео. Благодаря чему вырос органический охват без платного продвижения. Рубрикатор позволил показать основной фокус на продукт в аккаунте и выстроил еженедельное попадание в топ по хештегам TIKTOK SMM",
+      "result": "",
+      "tags": [
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 134,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-086/slide-134.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-086/slide-134.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-087",
+      "title": "Чат-боты SMM (Beeline «The Pen»)",
+      "client": "Beeline",
+      "category": "SMM",
+      "year": "",
+      "summary": "Чат-бот для медиа-клуба Beeline “The PEN” Разработали чат-бот для регистрации участников медиа-клуба. Адаптирован полный сценарий общения с конечной страницей перенаправления на сайт. Чат-бот имеет искусственный интеллект и обучается общению, также напоминает о начале события и собирает базу данных участников Мы разрабатываем чат-боты во всех популярных социальных сетях, даже автоматизируем общение в Instagram. ЧАТ-БОТЫ SMM",
+      "result": "",
+      "tags": [
+        "SMM",
+        "Digital"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 135,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-087/slide-135.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-087/slide-135.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-088",
+      "title": "Фотопродакшн — портфолио (key visuals, photoshooting)",
+      "client": "разные бренды",
+      "category": "Production",
+      "year": "",
+      "summary": "KEY VISUALS. PHOTOSHOOTING --- PHOTO SHOOTING --- KEY VISUALS. PHOTO SHOOTING --- KEY VISUALS. PHOTO SHOOTING --- PHOTO & VIDEO PRODUCTION",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 137,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-088/slide-137.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-088/slide-137.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-088/slide-138.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-088/slide-139.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-088/slide-140.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-088/slide-141.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-089",
+      "title": "Организация прямого эфира Samsung Galaxy S23 Diamond Female",
+      "client": "Samsung",
+      "category": "Production",
+      "year": "2023",
+      "summary": "ОРГАНИЗАЦИЯ ПРЯМОГО ЭФИРА В INSTAGRAM SAMSUNG GALAXY S23 DIAMOND FEMALE Организация и проведение прямого эфира в Instagram на странице Samsung. Презентация нового флагмана Samsung S23. Организация включает в себя скаутинг, художественное оформление, работу стилиста по образам, техническое обслуживание, техническую команду, представление отчетного видео, организации и обслуживание всего процесса под ключ. Ссылка на прямой эфир https://www.instagram.com/reel/Coce7f7oHvw/",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 145,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-089/slide-145.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-089/slide-145.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-090",
+      "title": "Съёмка видеоролика для Samsung (Jet series)",
+      "client": "Samsung",
+      "category": "Production",
+      "year": "",
+      "summary": "СЪЕМКА ВИДЕО РОЛИКА ДЛЯ SAMSUNG Мы подготовили фото и видео о 5 моделях пылесосов Samsung Jet series. 5 героев, 5 созданных интерьеров, 5 сюжетов. Видео ролик снят с учетом размещения в 3 странах (Казахстан, Кыргызстан, Таджикистан), в каждой из которых есть свои национальные традиции и условия для размещения в наружной рекламе. Клиент предпочитает сильных режиссеров, но ему также нравится, когда мы предлагаем молодых с новым видением. На этот раз мы выбрали молодого режиссера Жанну Галиеву и попали в точку.",
+      "result": "",
+      "tags": [
+        "Production",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 146,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-090/slide-146.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-090/slide-146.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-091",
+      "title": "Video Production (портфолио роликов)",
+      "client": "разные бренды",
+      "category": "Production",
+      "year": "",
+      "summary": "VIDEO PRODUCTION *Play video --- VIDEO PRODUCTION *Play video",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 148,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-091/slide-148.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-091/slide-148.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-091/s148-media46.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-091/s148-media46.jpg",
+              "x": 44.64,
+              "y": 19.56,
+              "w": 25.45,
+              "h": 80.44,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-091/s148-media45.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-091/s148-media45.jpg",
+              "x": 70.76,
+              "y": 19.56,
+              "w": 25.45,
+              "h": 80.44,
+              "sound": true
+            }
+          ]
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-091/slide-149.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-091/s149-media48.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-091/s149-media48.jpg",
+              "x": 44.69,
+              "y": 0,
+              "w": 49.36,
+              "h": 49.36,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-091/s149-media47.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-091/s149-media47.jpg",
+              "x": 44.69,
+              "y": 50.64,
+              "w": 49.36,
+              "h": 49.36,
+              "sound": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-092",
+      "title": "Video Production — Americana Food/KFC, Capital/Talan Towers, Pandora, Vitalnan",
+      "client": "несколько клиентов",
+      "category": "Production",
+      "year": "",
+      "summary": "AMERICANA FOOD Бренд: KFC Цель: продуктовый ролик про продукт Боксмастер Канал публикации: ТВ и интернет-порталы Ссылка на видео CAPITAL Бренд: Talan Towers Oﬃces Задача: создание имиджевого ролика. Ссылка на видео PANDORA Цель: покупка продукта в подарок для близких людей Канал публикации: интернет-порталы Ссылка на видео VITALNAN Бренд: Vitalnan Задача: создание рекламного ролика Ссылка на видео VIDEO PRODUCTION",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 150,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-092/slide-150.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-092/slide-150.webp",
+          "overlays": [
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-092/s150-media50.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-092/s150-media50.jpg",
+              "x": 11.46,
+              "y": 19.65,
+              "w": 19.27,
+              "h": 19.27,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-092/s150-media49.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-092/s150-media49.jpg",
+              "x": 33.09,
+              "y": 19.78,
+              "w": 19.1,
+              "h": 19.1,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-092/s150-media51.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-092/s150-media51.jpg",
+              "x": 54.54,
+              "y": 19.67,
+              "w": 19.48,
+              "h": 19.48,
+              "sound": true
+            },
+            {
+              "kind": "video",
+              "src": "https://media.worldorder.club/tag-credentials-2026/lib-092/s150-media52.mp4",
+              "poster": "https://media.worldorder.club/tag-credentials-2026/lib-092/s150-media52.jpg",
+              "x": 76.37,
+              "y": 19.56,
+              "w": 19.59,
+              "h": 19.59,
+              "sound": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-093",
+      "title": "Innotech Launch — открытие университета в Алматы",
+      "client": "Innotech University",
+      "category": "PR",
+      "year": "2026",
+      "summary": "Организовали «под ключ» запуск первого международного вуза нового поколения для 250+ гостей. В один день объединили два формата: строгий официальный протокол с участием Министерства науки и высшего образования РК и Посольства США, а затем интерактивное промо-шоу для инфлюенсеров и абитуриентов. Полностью закрыли технический продакшн, режиссуру, координацию спикеров и работу со СМИ. Обеспечили мощную PR-поддержку событию с нулевым бюджетом на покупку рекламы: сгенерировали 3.2+ млн органических охватов в соцсетях и инициировали 39+ публикаций в ключевых медиа Казахстана (Forbes, Tengrinews, ER10.kz).",
+      "result": "",
+      "tags": [
+        "PR",
+        "Events",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 12,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-093/main-012.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-093/main-012.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-094",
+      "title": "IQOS Minor — открытие бутика в Ташкенте",
+      "client": "Philip Morris / IQOS",
+      "category": "PR",
+      "year": "2026",
+      "summary": "Построили официальное открытие бутика IQOS Minor в Ташкенте для топ-менеджмента и звёздных гостей бренда. За две недели организовали полный креативный и технический продакшн двух мероприятий — официального открытия бутика и вечеринки в его честь. Уникальный дизайн в коллаборации с Monolic Jewelry: на обеих локациях — сочетание бирюзы IQOS с серебром и образами Monolic. Авторские интерактивные зоны с VR-стендами, арт-инсталляцией и уголком для крафта персональных украшений. Хедлайнер события — популярная в Узбекистане группа Doppi Twins.",
+      "result": "",
+      "tags": [
+        "PR",
+        "Events",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 13,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-094/main-013.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-094/main-013.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-095",
+      "title": "Freedom Ticketon Events — фотозона на концерте Канье Уэста",
+      "client": "Freedom Bank",
+      "category": "PR",
+      "year": "2026",
+      "summary": "Концепция и производство фотозоны Freedom Bank на концерте Канье Уэста. Разработали концепцию фотозоны Freedom Bank для концерта YE и произвели её. Задача предполагала настоящий челлендж: кратчайшие сроки на разработку концепции, всего несколько дней на производство и монтаж — агентство справилось. Фотозона была изготовлена, установлена и встречала гостей на входе на концерт, но концерт перенесли, что повлияло и на фотозону: за несколько часов до нового концерта нашли решение и адаптировали фотозону под новую дату, сохранив первоначальную концепцию и внешний вид, символично обыграв сам перенос даты.",
+      "result": "",
+      "tags": [
+        "PR",
+        "Events",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 14,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-095/main-014.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-095/main-014.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-096",
+      "title": "KFC — «Азиатские крылышки», серия рекламных роликов",
+      "client": "KFC",
+      "category": "Creative",
+      "year": "2026",
+      "summary": "Запуск новой позиции в меню — «Азиатские крылышки». Разработали и реализовали комплексную креативную стратегию для запуска нового сезонного продукта: создали концепцию, написали сценарии и провели полный цикл продакшна рекламных роликов для ТВ и OLV-платформ. Разработали ключевой Key Visual для наружной рекламы и точек продаж, а также обеспечили контентную и интерактивную поддержку релиза в SMM-каналах бренда. Каждый этап работ согласовывался с глобальным офисом, а качество работ соответствует международным стандартам KFC.",
+      "result": "",
+      "tags": [
+        "Creative",
+        "Production",
+        "Digital",
+        "SMM"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 15,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-096/main-015.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-096/main-015.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-096/main-016.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-097",
+      "title": "Samsung Life Style — серия рекламных роликов",
+      "client": "Samsung",
+      "category": "Creative",
+      "year": "2021",
+      "summary": "",
+      "result": "",
+      "tags": [
+        "Creative",
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 17,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-097/main-017.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-097/main-017.webp"
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-097/alt-034.webp",
+          "overlays": [
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/15iosUgsrRY_SuN9Tw4XTi7AHQ3SIYpV5/preview",
+              "x": 2.38,
+              "y": 28.22,
+              "w": 44.13,
+              "h": 44.09
+            },
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1AVG3bzZxl2Lm9X1ewGNu1moaaQhz7Acg/preview",
+              "x": 52.97,
+              "y": 28.22,
+              "w": 44.13,
+              "h": 44.09
+            }
+          ]
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-097/alt-035.webp",
+          "overlays": [
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1C1OjfRGzWCCk9sCuq2fgVYhuat8zyeSH/preview",
+              "x": 2.48,
+              "y": 27.93,
+              "w": 44.09,
+              "h": 44.09
+            },
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/16QILdPVLzIe50tPLgWDkr7pLEyRLAC1e/preview",
+              "x": 53,
+              "y": 27.93,
+              "w": 44.09,
+              "h": 44.09
+            }
+          ]
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-097/alt-036.webp",
+          "overlays": [
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1-0DjNAHFwiWKy9LzmlIbe6QdE60rJYla/preview",
+              "x": 19.98,
+              "y": 19.98,
+              "w": 60.04,
+              "h": 60.04
+            }
+          ]
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-097/alt-037.webp",
+          "overlays": [
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1_o-mPW_tN13itksctLbnNI195tRpSAZr/preview",
+              "x": 11.15,
+              "y": 11.15,
+              "w": 77.71,
+              "h": 77.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lib-098",
+      "title": "BI Group — Наурыз, open air корпоратив",
+      "client": "BI Group",
+      "category": "Events",
+      "year": "2026",
+      "summary": "Организовали «под ключ» масштабный летний фестиваль под открытым небом в Swissôtel Almaty для 700+ гостей в честь Наурыза. Бесшовно объединили официальную часть и шоу-программу с интерактивами: построили полноценную этно-деревню с юртами, зоной национальных игр и детским игровым пространством. Совместно с благотворительным фондом «Улдызай» создали инклюзивную арт-зону, где сотрудники творили вместе с подопечными фонда — это превратило стандартный корпоратив в глубокий эмоциональный опыт сопричастности, который сплотил команду вокруг общих ценностей бренда на 100%.",
+      "result": "",
+      "tags": [
+        "Events",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 18,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-098/main-018.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-098/main-018.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-099",
+      "title": "Philip Morris — IQOS LUMA, презентация в Ташкенте",
+      "client": "Philip Morris / IQOS",
+      "category": "Events",
+      "year": "2025",
+      "summary": "Реализовали лонч нового флагмана в InterContinental Tashkent для 350 VIP-гостей и иностранных делегатов. Разработали футуристическую дизайн-концепцию всех зон, спроектировали и изготовили сложные интерактивные стенды, обеспечили технический продакшн шоу-программы с артистами, а также полностью закрыли логистику и размещение зарубежных спикеров. Создали иммерсивный технологичный шоукейс и сервис 360°, превратив презентацию девайса в интерактивный перформанс с зонами кастомизации и пятизвёздочным гостеприимством для международных гостей.",
+      "result": "",
+      "tags": [
+        "Events",
+        "Creative",
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 19,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-099/main-019.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-099/main-019.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-100",
+      "title": "Yandex AdSummer Picnic 2025",
+      "client": "Yandex",
+      "category": "Events",
+      "year": "2025",
+      "summary": "Индустриальный пикник-конференция для креативного сообщества. Спроектировали и провели масштабный open-air для 400 профильных специалистов рекламной индустрии на площадке Red Rhino. Полностью закрыли весь цикл: от разработки айдентики и технического продакшна под уличный формат до логистики. Объединили серьёзный лекторий с геймификацией — зонировали локацию на официальную конференцию, VR-пространство, рекламные воркшопы и интерактивный квест с масштабной игровой зоной. Как результат — максимальная вовлечённость гостей в квест и высокая концентрация целевых tg-контактов на квадратный метр.",
+      "result": "",
+      "tags": [
+        "Events",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 20,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-100/main-020.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-100/main-020.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-101",
+      "title": "TWIX Doppelganger — «Два лучше, чем одна»",
+      "client": "TWIX / Mars",
+      "category": "PR",
+      "year": "2025",
+      "summary": "PR для рекламной кампании TWIX «Две лучше, чем одна». Разработали и реализовали комплексную PR-стратегию для продвижения культового слогана на рынке Казахстана: развернули масштабную медиа-кампанию, охватившую национальные и региональные СМИ, спроектировали и запустили серию нестандартных спецпроектов с ключевыми лайфстайл- и бизнес-медиа страны, обеспечили полный цикл производства брендированного контента и внедрили систему сквозной аналитики. За счёт микса нативной журналистики, интерактивных спецпроектов и точечных медиа-активаций кампания кратно перевыполнила план в 2 000 000 целевых охватов.",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 21,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-101/main-021.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-101/main-021.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-102",
+      "title": "Freken Bok — рекламная кампания бренда",
+      "client": "Freken Bok",
+      "category": "PR",
+      "year": "2025-2026",
+      "summary": "PR для рекламной кампании бренда «Фрекен Бок». Сделали ставку на развлекательный контент, чтобы превратить привычные товары для дома в часть ярких digital-сюжетов, органично расходящихся по соцсетям: выстроили продуктовую коммуникацию через юмор и узнаваемые бытовые ситуации, подобрали авторов для творческих коллабораций. Отказавшись от прямой демонстрации продукта, получили совокупный охват более 6,4 млн и заметно усилили узнаваемость бренда среди широкой digital-аудитории Казахстана.",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 22,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-102/main-022.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-102/main-022.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-103",
+      "title": "VILED × Kaspi Sama",
+      "client": "VILED / Kaspi",
+      "category": "PR",
+      "year": "2024-2025",
+      "summary": "PR для рекламной кампании VILED в период акции Kaspi Sama. Реализовали для VILED масштабную digital-активацию, превратив один из крупнейших shopping-периодов Казахстана в дополнительный драйвер внимания к бренду: построили коммуникацию по принципу «эффекта присутствия» (fashion- и lifestyle-инфлюенсеры показывали ассортимент прямо из точек продаж), охватили сразу несколько категорий — fashion, beauty, jewelry, watches и premium lifestyle. Кампания собрала 1 592 944 охвата.",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 23,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-103/main-023.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-103/main-023.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-104",
+      "title": "VILED × Altyn Bank",
+      "client": "VILED / Altyn Bank",
+      "category": "PR",
+      "year": "2024-2025",
+      "summary": "PR для рекламной кампании VILED × Altyn Bank. Объединили VILED и Altyn Bank в совместной коммуникационной кампании на стыке fashion, lifestyle и финансовых сервисов: перевели банковский продукт из плоскости традиционной финансовой коммуникации в контекст стиля и шопинга, привлекли fashion- и lifestyle-инфлюенсеров. В результате ценности двух брендов органично соединились, а кампания собрала 245 260 охвата.",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 24,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-104/main-024.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-104/main-024.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-105",
+      "title": "Miratorg — предпраздничная digital-кампания (PR)",
+      "client": "Мираторг",
+      "category": "PR",
+      "year": "2024-2025",
+      "summary": "PR для рекламной кампании Miratorg. Разработали и реализовали предпраздничную digital-кампанию, построенную на локальных культурных инсайтах и гастрономическом контенте под идеей «Под ключ»: продукты бренда интегрировали в привычные для казахстанской аудитории рецепты и праздничные сценарии, сформировали пул food- и lifestyle-инфлюенсеров. Итог: заметное присутствие бренда в соцсетях в ключевой сезон и охват 1 014 007.",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 25,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-105/main-025.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-105/main-025.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-106",
+      "title": "SAP NOW AI Tour",
+      "client": "SAP",
+      "category": "PR",
+      "year": "2025",
+      "summary": "Ежегодный IT-форум по искусственному интеллекту. Спроектировали и провели флагманский технологический форум в Ritz-Carlton Almaty для 500 лидеров IT-индустрии и бизнеса: технический продакшн и логистика двух параллельных залов со сложными сценариями динамического освещения, облачная автоматизированная система регистрации гостей, интерактивные партнёрские зоны. Хедлайнер события — Оскар Конюхов. Управление гибридными потоками гостей и полная автоматизация зон подчеркнули высокотехнологичный статус события и компании.",
+      "result": "",
+      "tags": [
+        "PR",
+        "Events",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 30,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-106/main-030.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-106/main-030.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-107",
+      "title": "IQOS × Steve Aoki",
+      "client": "Philip Morris / IQOS",
+      "category": "PR",
+      "year": "2024",
+      "summary": "Масштабная инфлюенс-кампания со Стивом Аоки для IQOS. Адаптировали и реализовали масштабную международную кампанию по продвижению глобального амбассадора IQOS — легендарного диджея Стива Аоки — на рынках Казахстана и Кыргызстана: задействовали экосистему из пяти ключевых соцсетей артиста (суммарный охват более 34.5 млн подписчиков), синхронизировали продвижение на музыкальных стримингах (15 млн слушателей в Spotify и 538k+ в Яндекс.Музыке). Кампания принесла более 1 000 000+ целевых охватов в СМИ и соцсетях Казахстана и Кыргызстана.",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 34,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-107/main-034.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-107/main-034.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-108",
+      "title": "Together X Sensorium — поездка в Японию",
+      "client": "Philip Morris / IQOS",
+      "category": "PR",
+      "year": "2024",
+      "summary": "Together X Sensorium в Японии. Обеспечили комплексное международное сопровождение премиального тура в Японию для 12 победителей проекта IQOS Together X: кросс-культурный менеджмент, координация логистики и ведение документации между Казахстаном и Японией. Разработали контент-стратегию поездки «на опережение», контролировали создание фото- и видеоматериалов участниками в реальном времени, а по возвращении реализовали масштабное пост-медиа сопровождение. Контент создавался органически, без ощущения «рекламы», что зафиксировало проект в инфополе как главное тревел-событие года для комьюнити.",
+      "result": "",
+      "tags": [
+        "PR"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 35,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-108/main-035.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-108/main-035.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-109",
+      "title": "Comode.kz — 10 лет изданию",
+      "client": "Comode.kz",
+      "category": "PR",
+      "year": "2025",
+      "summary": "Ночной open air на Шымбулаке в честь десятилетия издания. Реализовали масштабное юбилейное событие для 500 топ-блогеров, партнёров и медиа на высоте более 2200 метров: закрытое ночное катание на горном курорте зимой как логистический вызов превратили в уникальное торговое предложение для спонсоров. Бренды получили беспрецедентный уровень вовлечения аудитории, а само событие — мощный вирусный охват в Instagram-аккаунтах топовых инфлюенсеров страны прямо со склона.",
+      "result": "",
+      "tags": [
+        "PR",
+        "Events"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 29,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-109/main-029.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-109/main-029.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-110",
+      "title": "Olimpbet zone — интеграция на фестивале",
+      "client": "Olimpbet",
+      "category": "Events",
+      "year": "2023",
+      "summary": "Интеграция бренда Olimpbet на фестивале в статусе генерального партнёра: разработка уникального концепта и производство брендированной лаунж-зоны, создание сценария и проведение активностей с розыгрышем призов, подбор и координация промо-команды, разработка и производство фирменного мерча, профессиональная фотосъёмка и итоговый отчёт. В рамках двухдневного фестиваля возведена точка притяжения для более чем 5000 гостей.",
+      "result": "",
+      "tags": [
+        "Events",
+        "Creative"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 41,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-110/main-041.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-110/main-041.webp"
+        }
+      ]
+    },
+    {
+      "id": "lib-111",
+      "title": "Samsung Galaxy Unpacked — глобальный стрим",
+      "client": "Samsung",
+      "category": "Production",
+      "year": "2024",
+      "summary": "Глобальный стрим на Казахстан и ретрансляция на Центральную Азию. Практически ежегодно, а иногда и 2 раза в год, TAG media проводит глобальную ретрансляцию презентации новых моделей телефонов Samsung. В зависимости от задачи клиента это может быть застройка в павильоне или размещение на природе — как, например, в 2024 году на 3200 м на Шымбулаке. Также агентство проводит и небольшие прямые эфиры на Казахстан в любые каналы коммуникаций: скаутинг локации, художественное оформление, работа стилиста по образам, техническое обслуживание, техническая команда, отчётное видео — организация и обслуживание всего процесса под ключ. Видео (превью на Google Drive, из TAG Credentials'26.pdf): https://docs.google.com/file/d/1k_fVDWyNMtCuhLdjQt-ERNDZxUCgNZOs/preview https://docs.google.com/file/d/1Rr6z4q0EBvFoDBavxNNIYx9chNdDJs8g/preview https://docs.google.com/file/d/1duce5av2JLgftpYGF8oYgJAikOdMHtDU/preview https://docs.google.com/file/d/1jDO65BL4D-CDFHSSUGN07xvdgTQCAxkU/preview",
+      "result": "",
+      "tags": [
+        "Production"
+      ],
+      "layout": "Оригинальный слайд",
+      "sourceSlide": 32,
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-032.webp",
+      "slides": [
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-032.webp",
+          "overlays": [
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1k_fVDWyNMtCuhLdjQt-ERNDZxUCgNZOs/preview",
+              "x": 33.16,
+              "y": 31.62,
+              "w": 20.03,
+              "h": 63.53
+            },
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1Rr6z4q0EBvFoDBavxNNIYx9chNdDJs8g/preview",
+              "x": 55.38,
+              "y": 31.62,
+              "w": 20.03,
+              "h": 63.35
+            },
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1duce5av2JLgftpYGF8oYgJAikOdMHtDU/preview",
+              "x": 77.61,
+              "y": 31.8,
+              "w": 20.03,
+              "h": 63.35
+            }
+          ]
+        },
+        {
+          "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-033.webp",
+          "overlays": [
+            {
+              "kind": "embed",
+              "src": "https://drive.google.com/file/d/1jDO65BL4D-CDFHSSUGN07xvdgTQCAxkU/preview",
+              "x": 16.67,
+              "y": 16.67,
+              "w": 66.67,
+              "h": 66.67
+            }
+          ]
         }
       ]
     }
   ],
-  "updatedAt": "2026-09-21T09:51:11.075Z",
+  "updatedAt": "2026-09-21T10:52:57.715Z",
   "finalSlides": [
     {
       "sourceSlide": 45,
-      "title": "!˜\u0015& ˜ ˚\u0015ˆ\"+",
-      "slideImage": "/api/pdf/asset?path=profiles%2F595514a7-7195-41f0-8c98-46307daf8435%2Fpreviews%2Fpage-045.png"
+      "title": "Спец проекты",
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/outro/slide-45.webp"
     },
     {
       "sourceSlide": 46,
-      "title": "LETˇS S TAG YOUR BRAND",
-      "slideImage": "/api/pdf/asset?path=profiles%2F595514a7-7195-41f0-8c98-46307daf8435%2Fpreviews%2Fpage-046.png"
+      "title": "Контакты",
+      "slideImage": "https://media.worldorder.club/tag-credentials-2026/outro/slide-46.webp"
     }
   ]
 }
