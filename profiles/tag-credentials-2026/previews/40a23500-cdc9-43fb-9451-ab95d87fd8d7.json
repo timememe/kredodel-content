@@ -390,13 +390,8 @@
         ]
       }
     ],
-    "updatedAt": "2026-09-21T12:13:54.466Z",
+    "updatedAt": "2026-09-21T13:07:44.378Z",
     "finalSlides": [
-      {
-        "sourceSlide": 45,
-        "title": "Спец проекты",
-        "slideImage": "https://media.worldorder.club/tag-credentials-2026/outro/slide-45.webp"
-      },
       {
         "sourceSlide": 46,
         "title": "Контакты",
@@ -404,5 +399,5 @@
       }
     ]
   },
-  "updatedAt": 1789992848383
+  "updatedAt": 1789996077138
 }
