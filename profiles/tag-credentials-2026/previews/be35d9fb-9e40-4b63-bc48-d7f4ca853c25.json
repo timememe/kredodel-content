@@ -1,0 +1,710 @@
+{
+  "title": "ntcnj",
+  "deck": {
+    "title": "TAG · ручная версия",
+    "audience": "Версия, собранная вручную",
+    "rationale": "Обязательная вводная, выбранные кейсы в заданном порядке и финальный слайд",
+    "slides": [
+      {
+        "type": "signature",
+        "title": "TAG Media Agency",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-01.webp",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Make your brand a tag in culture",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-02.webp",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "TAG · 10 лет",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-03.webp",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "География проектов",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-04.webp",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Собственные медиа",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-05.webp",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Система присутствия бренда",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-06.webp",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "TAG Toolkit",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-07.webp",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "TAG Heads",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-08.webp",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Подход TAG",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-09.webp",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Brands we tagged",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-10.webp",
+        "locked": true
+      },
+      {
+        "type": "signature",
+        "title": "Избранные проекты",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный обязательный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-11.webp",
+        "locked": true
+      },
+      {
+        "type": "case",
+        "title": "SEB GROUP (TEFAL | MOULINEX | ROWENTA)",
+        "body": "Работа с брендом Moulinex c 2021 года. Задачи: Проведение и реализация съемок рекламного ролика с фуд-блогером Алией Орман в главной роли Создание креативной кампании по мелкой бытовой технике Moulinex в рамках тематики “Made in France” Организация кулинарных мастер-классов Сотрудничество с шеф-поваром Савелием Ильиных в качестве бренд-амбассадора бренда Moulinex Реализация проекта по раздаче гифт-боксов фуд-блогерам…",
+        "caseId": "lib-027",
+        "slideIndex": 0,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "INNOTECH LAUNCH — ОТКРЫТИЕ УНИВЕРСИТЕТА В АЛМАТЫ",
+        "body": "Апрель 2026: Открытие нового университета в Алматы Организовали «под ключ» запуск первого международного вуза нового поколения для 250+ гостей. В один день объединили два формата: строгий официальный протокол с участием Министерства науки РК и Посольства США, а затем – интерактивное промо-шоу для инфлюенсеров и абитуриентов. Полностью закрыли технический продакшн, режиссуру, координацию спикеров и работу со СМИ. Обес…",
+        "caseId": "lib-093",
+        "slideIndex": 0,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "IQOS MINOR — ОТКРЫТИЕ БУТИКА В ТАШКЕНТЕ",
+        "body": "Август 2026: Открытие бутика IQOS MINOR в Ташкенте Устроили официальное открытие бутика IQOS Minor в Ташкенте для топ-менеджмента и звездных гостей бренда. → За две недели организовали полный креативный и технический продакшн двух мероприятий — официального открытия бутика и вечеринки в его честь. → Уникальный дизайн в коллаборации с Monolic Jewerly на обеих локациях — сочетание бирюзы IQOS с серебром и образами Mono…",
+        "caseId": "lib-094",
+        "slideIndex": 0,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "FREEDOM TICKETON EVENTS — ФОТОЗОНА НА КОНЦЕРТЕ КАНЬЕ УЕСТА",
+        "body": "Август 2026: Концепция и производство фотозоны Freedom Bank на концерте Канье Уеста Разработали концепцию фотозоны Freedom Bank для концерта YE — и произвели её. Задача предполагала настоящий челлендж: кратчайшие сроки на разработку концепции, всего несколько дней на производство и монтаж. Мы со всем справились. Фотозона была изготовлена, установлена и встречала гостей на входе на концерт YE, но концерт перенесли, чт…",
+        "caseId": "lib-095",
+        "slideIndex": 0,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "SAP FORUM ASTANA",
+        "body": "Дата: 30 мая 2019 Клиент: SAP Локация: Астана, Hilton Astana Количество гостей: 2000 участников ЗАДАЧИ: Организация мероприятия под ключ: Работа со спонсорами Организация электронной регистрации участников Организация работы выставки, логистика стендов, 28 стендов Проведение шоу-открытия (лазерное\\световое шоу, LED-экран 29*5 метров) Поддержка в организационных вопросах, включая поддержку контроля качества текстовых…",
+        "caseId": "lib-001",
+        "slideIndex": 0,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "SAMSUNG GALAXY UNPACKED — ГЛОБАЛЬНЫЙ СТРИМ",
+        "body": "Глобальный стрим на Казахстан и ретрансляция на Центральную Азию Практически ежегодно, а иногда и 2 раза в год проводим глобальную ретрансляцию презентации новых моделей телефонов Samsung. В зависимости от задачи клиента это может быть застройка в павильоне или размещение на природе, как например было в 2024 году на 3200 Шымбулак. Также проводим и небольшие прямые эфиры на Казахстан в любые каналы коммуникаций. Орган…",
+        "caseId": "lib-111",
+        "slideIndex": 0,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "SAMSUNG GALAXY UNPACKED — ГЛОБАЛЬНЫЙ СТРИМ",
+        "body": "",
+        "caseId": "lib-111",
+        "slideIndex": 1,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "SAMSUNG GALAXY UNPACKED — ГЛОБАЛЬНЫЙ СТРИМ",
+        "body": "",
+        "caseId": "lib-111",
+        "slideIndex": 2,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "SAMSUNG GALAXY UNPACKED — ГЛОБАЛЬНЫЙ СТРИМ",
+        "body": "",
+        "caseId": "lib-111",
+        "slideIndex": 3,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "SAMSUNG GALAXY UNPACKED — ГЛОБАЛЬНЫЙ СТРИМ",
+        "body": "",
+        "caseId": "lib-111",
+        "slideIndex": 4,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "SAMSUNG GALAXY UNPACKED — ГЛОБАЛЬНЫЙ СТРИМ",
+        "body": "",
+        "caseId": "lib-111",
+        "slideIndex": 5,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "SAMSUNG GALAXY UNPACKED — ГЛОБАЛЬНЫЙ СТРИМ",
+        "body": "",
+        "caseId": "lib-111",
+        "slideIndex": 6,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "SAMSUNG GALAXY UNPACKED — ГЛОБАЛЬНЫЙ СТРИМ",
+        "body": "",
+        "caseId": "lib-111",
+        "slideIndex": 7,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "SAMSUNG GALAXY UNPACKED — ГЛОБАЛЬНЫЙ СТРИМ",
+        "body": "",
+        "caseId": "lib-111",
+        "slideIndex": 8,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "case",
+        "title": "SAMSUNG GALAXY UNPACKED — ГЛОБАЛЬНЫЙ СТРИМ",
+        "body": "",
+        "caseId": "lib-111",
+        "slideIndex": 9,
+        "visualDirection": "Оригинальный слайд"
+      },
+      {
+        "type": "signature",
+        "title": "Контакты",
+        "body": "",
+        "caseId": "",
+        "visualDirection": "Оригинальный финальный слайд",
+        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/outro/slide-46.webp",
+        "locked": true
+      }
+    ]
+  },
+  "profileSnapshot": {
+    "id": "tag-credentials-2026",
+    "agencyName": "TAG",
+    "deckName": "TAG CREDENTIALS 2026",
+    "tagline": "Помогаем брендам оставлять свою метку в культуре и сердцах.",
+    "summary": "Credentials коммуникационного агентства TAG: 46 слайдов, позиционирование, география, собственные медиа, услуги, команда и портфолио. Кириллица в извлечении повреждена; значительная часть восстановима по устойчивому смещению символов и контексту. Визуальные данные отсутствуют, поэтому палитру, гарнитуры и точное расположение элементов определить нельзя. Кейсы охватывают 2020–2026 годы; результаты приведены как заявления презентации, без внешней проверки. Слайд 16 продолжает кейс KFC, слайд 44 содержит три отдельных SMM-кейса. Слайды 3 и 6 практически не содержат извлечённого текста; содержимое возможных изображений неизвестно.",
+    "sourceFilename": "TAG CREDENTIALS 26_08.09.pdf",
+    "slideCount": 46,
+    "palette": [
+      "#8A35FF",
+      "#000000",
+      "#FFFFFF",
+      "#E7E5E4"
+    ],
+    "fonts": {
+      "heading": "Bebas Neue",
+      "body": "Montserrat",
+      "accent": "Montaga"
+    },
+    "voice": [
+      "Уверенный агентский тон: «разработали», «реализовали», «обеспечили».",
+      "Культурное позиционирование: бренд как часть жизни людей, культурного контекста и отношений с аудиторией.",
+      "Эмоциональная подача через заметность, впечатления, сопричастность и запоминающийся опыт.",
+      "Акцент на реализации под ключ, сложности производства, сроках и сервисе.",
+      "Доказательность через охваты, число гостей, публикации, PR Value и показатели социальных сетей.",
+      "Русский текст с английскими названиями, профессиональной лексикой и хештегами.",
+      "Игра со словом TAG: TAG TOOLKIT, TAG HEADS, BRANDS WE TAGGED, LET’S TAG YOUR BRAND."
+    ],
+    "layoutPatterns": [
+      "Повторяющаяся подпись TAG CREDENTIALS 2026; положение на странице не определяется.",
+      "Обложка: обозначение коммуникационного агентства и Credentials 2026.",
+      "Манифест: тезис о роли брендов в культуре, обещание агентства и короткие эмоциональные формулировки.",
+      "Разделители портфолио: «Избранные проекты» и «Спецпроекты».",
+      "TAG TOOLKIT: шесть направлений с короткими описаниями.",
+      "TAG HEADS: имена руководителей и обозначения функций.",
+      "BRANDS WE TAGGED: вводный текст клиентского блока; логотипы из извлечения не восстанавливаются.",
+      "Основной кейс: название клиента или проекта, дата, краткое описание задачи, реализация, результат, теги услуг.",
+      "Развёрнутый кейс: вводный абзац, перечень работ и заключительный результат.",
+      "Видеопортфолио: название серии роликов, клиент, дата, теги и счётчик вида 01/03 или 02/03.",
+      "Сводный SMM-слайд: три клиентских блока с описанием работ и метриками.",
+      "Контактный финал: брендовый призыв, together, email, сайт и телефон.",
+      "Перечисленные шаблоны описывают структуру текста; сетка, композиция фотографий, фон и размеры элементов не подтверждены."
+    ],
+    "directions": [
+      "Creative: коммуникационные стратегии, big idea, кампании 360°, креативные концепции и упаковка бренда.",
+      "Digital: стратегии, спецпроекты и продвижение.",
+      "Events: события и бренд-активации от камерных запусков до городских и национальных проектов.",
+      "SMM: стратегия, контент, community management и продвижение.",
+      "PR: продуктовые, корпоративные и антикризисные коммуникации, influencer marketing.",
+      "Production: видео, аудио, фотопроизводство, нейропродакшн, игры, механики и AI-решения.",
+      "Собственные медиа: Comode.kz, Gagarin, Instagloria, Shushа и Posmotri.kz; написание Shushа требует проверки по оригиналу.",
+      "География, указанная на слайде 4: Казахстан, Узбекистан, Таджикистан, Грузия, Кыргызстан и Азербайджан."
+    ],
+    "mandatorySlides": [
+      {
+        "sourceSlide": 1,
+        "title": "TAG Media Agency",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-01.webp"
+      },
+      {
+        "sourceSlide": 2,
+        "title": "Make your brand a tag in culture",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-02.webp"
+      },
+      {
+        "sourceSlide": 3,
+        "title": "TAG · 10 лет",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-03.webp"
+      },
+      {
+        "sourceSlide": 4,
+        "title": "География проектов",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-04.webp"
+      },
+      {
+        "sourceSlide": 5,
+        "title": "Собственные медиа",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-05.webp"
+      },
+      {
+        "sourceSlide": 6,
+        "title": "Система присутствия бренда",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-06.webp"
+      },
+      {
+        "sourceSlide": 7,
+        "title": "TAG Toolkit",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-07.webp"
+      },
+      {
+        "sourceSlide": 8,
+        "title": "TAG Heads",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-08.webp"
+      },
+      {
+        "sourceSlide": 9,
+        "title": "Подход TAG",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-09.webp"
+      },
+      {
+        "sourceSlide": 10,
+        "title": "Brands we tagged",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-10.webp"
+      },
+      {
+        "sourceSlide": 11,
+        "title": "Избранные проекты",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/intro/slide-11.webp"
+      }
+    ],
+    "cases": [
+      {
+        "id": "lib-001",
+        "title": "SAP FORUM ASTANA",
+        "client": "SAP",
+        "category": "Events",
+        "year": "2019",
+        "summary": "Дата: 30 мая 2019 Клиент: SAP Локация: Астана, Hilton Astana Количество гостей: 2000 участников ЗАДАЧИ: Организация мероприятия под ключ: Работа со спонсорами Организация электронной регистрации участников Организация работы выставки, логистика стендов, 28 стендов Проведение шоу-открытия (лазерное\\световое шоу, LED-экран 29*5 метров) Поддержка в организационных вопросах, включая поддержку контроля качества текстовых материалов, презентаций, организационных коммуникаций. Организация проведения 8-ми параллельных сессий. Работа с медиа-партнерами: совместная разработка списка СМИ, приглашение, общение, отчет. Фото-видео освещение мероприятия, создание креативных материалов Помощь в оптимизации бюджетов форума SAP FORUM ASTANA",
+        "result": "",
+        "tags": [
+          "Events"
+        ],
+        "layout": "Оригинальный слайд",
+        "sourceSlide": 14,
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-001/slide-014.webp",
+        "slides": [
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-001/slide-014.webp"
+          }
+        ]
+      },
+      {
+        "id": "lib-027",
+        "title": "SEB Group (Tefal | Moulinex | Rowenta)",
+        "client": "SEB Group",
+        "category": "PR",
+        "year": "2021-2026",
+        "summary": "Работа с брендом Moulinex c 2021 года. Задачи: Проведение и реализация съемок рекламного ролика с фуд-блогером Алией Орман в главной роли Создание креативной кампании по мелкой бытовой технике Moulinex в рамках тематики “Made in France” Организация кулинарных мастер-классов Сотрудничество с шеф-поваром Савелием Ильиных в качестве бренд-амбассадора бренда Moulinex Реализация проекта по раздаче гифт-боксов фуд-блогерам Казахстана Сотрудничество с блогерами в рамках рекламных активностей Работа с брендом Tefal c 2021 года. Задачи: Проведение и реализация съемок рекламного ролика с блогерами: Инди Едильбаева, Айжан Асемова, Алишер Еликбаев с семьей Сотрудничество с блогерами в рамках рекламных активностей SEB GROUP (TEFAL|MOULINEX)",
+        "result": "",
+        "tags": [
+          "PR",
+          "Creative"
+        ],
+        "layout": "Оригинальный слайд",
+        "sourceSlide": 27,
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-027/main-027.webp",
+        "slides": [
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-027/main-027.webp"
+          }
+        ]
+      },
+      {
+        "id": "lib-093",
+        "title": "Innotech Launch — открытие университета в Алматы",
+        "client": "Innotech (Powered by Arizona State University)",
+        "category": "PR",
+        "year": "2026",
+        "summary": "Апрель 2026: Открытие нового университета в Алматы Организовали «под ключ» запуск первого международного вуза нового поколения для 250+ гостей. В один день объединили два формата: строгий официальный протокол с участием Министерства науки РК и Посольства США, а затем – интерактивное промо-шоу для инфлюенсеров и абитуриентов. Полностью закрыли технический продакшн, режиссуру, координацию спикеров и работу со СМИ. Обеспечили мощную PR-поддержку событию с нулевым бюджетом на покупку рекламы. Мы сгенерировали 3.2+ млн органических охватов в соцсетях и инициировали 39+ публикаций в ключевых медиа Казахстана (Forbes, Tengrinews, ER10.kz).",
+        "result": "",
+        "tags": [
+          "PR",
+          "Events",
+          "Creative"
+        ],
+        "layout": "Оригинальный слайд",
+        "sourceSlide": 12,
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-093/alt-012.webp",
+        "slides": [
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-093/alt-012.webp"
+          }
+        ]
+      },
+      {
+        "id": "lib-094",
+        "title": "IQOS Minor — открытие бутика в Ташкенте",
+        "client": "Philip Morris / IQOS",
+        "category": "PR",
+        "year": "2026",
+        "summary": "Август 2026: Открытие бутика IQOS MINOR в Ташкенте Устроили официальное открытие бутика IQOS Minor в Ташкенте для топ-менеджмента и звездных гостей бренда. → За две недели организовали полный креативный и технический продакшн двух мероприятий — официального открытия бутика и вечеринки в его честь. → Уникальный дизайн в коллаборации с Monolic Jewerly на обеих локациях — сочетание бирюзы IQOS с серебром и образами Monolic. → Авторские интерактивные зоны с VR-стендами, арт-инсталляцией и уголком для крафта персональных украшений. → Хедлайнер события – популярная в Узбекистане Doppi Twins.",
+        "result": "",
+        "tags": [
+          "PR",
+          "Events",
+          "Creative"
+        ],
+        "layout": "Оригинальный слайд",
+        "sourceSlide": 13,
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-094/main-013.webp",
+        "slides": [
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-094/main-013.webp"
+          }
+        ]
+      },
+      {
+        "id": "lib-095",
+        "title": "Freedom Ticketon Events — фотозона на концерте Канье Уеста",
+        "client": "Freedom Bank",
+        "category": "PR",
+        "year": "2026",
+        "summary": "Август 2026: Концепция и производство фотозоны Freedom Bank на концерте Канье Уеста Разработали концепцию фотозоны Freedom Bank для концерта YE — и произвели её. Задача предполагала настоящий челлендж: кратчайшие сроки на разработку концепции, всего несколько дней на производство и монтаж. Мы со всем справились. Фотозона была изготовлена, установлена и встречала гостей на входе на концерт YE, но концерт перенесли, что повлияло и на фотозону. За несколько часов до нового концерта мы нашли решение и адаптировали фотозону под новую дату, сохранили её первоначальную концепцию и внешний вид. Ну и символично обыграли сам перенос даты.",
+        "result": "",
+        "tags": [
+          "PR",
+          "Events",
+          "Creative"
+        ],
+        "layout": "Оригинальный слайд",
+        "sourceSlide": 14,
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-095/main-014.webp",
+        "slides": [
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-095/main-014.webp"
+          }
+        ]
+      },
+      {
+        "id": "lib-111",
+        "title": "Samsung Galaxy Unpacked — глобальный стрим",
+        "client": "Samsung",
+        "category": "Production",
+        "year": "2024",
+        "summary": "Глобальный стрим на Казахстан и ретрансляция на Центральную Азию Практически ежегодно, а иногда и 2 раза в год проводим глобальную ретрансляцию презентации новых моделей телефонов Samsung. В зависимости от задачи клиента это может быть застройка в павильоне или размещение на природе, как например было в 2024 году на 3200 Шымбулак. Также проводим и небольшие прямые эфиры на Казахстан в любые каналы коммуникаций. Организация включает в себя скаутинг, художественное оформление, работу стилиста по образам, техническое обслуживание, техническую команду, представление отчетного видео, организацию и обслуживание всего процесса под ключ. Слайды кейса в TAG Credentials'26_new.pdf — стр. 32–41: стр. 32 — титульный слайд кейса (текст выше; 3 видео); стр. 33 — заставка Samsung (1 видео); стр. 34–37 — кадры из видеороликов (2, 2, 1 и 1 видео); стр. 38 — «Backstage videoproduction» (3 видео); стр. 39 — «TAG Backstage»: закулисье проектов, в кадре в т.ч. Innotech и Tiger Summer Show '24 (5 видео); стр. 40 — «Backstage of the event» (2 видео; в кадре флаг Италии, Editions de Parfums Frédéric Malle); стр. 41 — «Backstage of the event» (2 видео; в кадре Leo's Cafe & Restaurant). Видео (превью на Google Drive, TAG Credentials'26_new.pdf), по слайдам: стр. 32: https://docs.google.com/file/d/1k_fVDWyNMtCuhLdjQt-ERNDZxUCgNZOs/preview стр. 32: https://docs.google.com/file/d/1Rr6z4q0EBvFoDBavxNNIYx9chNdDJs8g/preview стр. 32: https://docs.google.com/file/d/1duce5av2JLgftpYGF8oYgJAikOdMHtDU/preview стр. 33: https://docs.google.com/file/d/1jDO65BL4D-CDFHSSUGN07xvdgTQCAxkU/preview стр. 34: https://docs.google.com/file/d/15iosUgsrRY_SuN9Tw4XTi7AHQ3SIYpV5/preview стр. 34: https://docs.google.com/file/d/1AVG3bzZxl2Lm9X1ewGNu1moaaQhz7Acg/preview стр. 35: https://docs.google.com/file/d/1C1OjfRGzWCCk9sCuq2fgVYhuat8zyeSH/preview стр. 35: https://docs.google.com/file/d/16QILdPVLzIe50tPLgWDkr7pLEyRLAC1e/preview стр. 36: https://docs.google.com/file/d/1-0DjNAHFwiWKy9LzmlIbe6QdE60rJYla/preview стр. 37: https://docs.google.com/file/d/1_o-mPW_tN13itksctLbnNI195tRpSAZr/preview стр. 38: https://docs.google.com/file/d/1Z5SaWVyeQC8A3EXA8oRflCAb60v-Yc0n/preview стр. 38: https://docs.google.com/file/d/1GkXMyxFUEEfjDaNTI6CMrFc48oPshVdG/preview стр. 38: https://docs.google.com/file/d/1e3pBqfWubXZhI7AHzLZgAkulS7Ga9_vM/preview стр. 39: https://docs.google.com/file/d/1MplHgInEwCJ2E6t4MJuQjAPaD2-CV8Lk/preview стр. 39: https://docs.google.com/file/d/1pGJLdmK88ajiFeacORLmcDa4x9RRE8wa/preview стр. 39: https://docs.google.com/file/d/1ZYIOn6LF49qvstkL7I6jEiXnRLXIEO1K/preview стр. 39: https://docs.google.com/file/d/1OX4h1P2KKs_FaLQPrRFbS8mdT3dbGAbl/preview стр. 39: https://docs.google.com/file/d/15nCL1X1At4x0ZgNg5_EtZEp4GBaL1I49/preview стр. 40: https://docs.google.com/file/d/1sNp-47rcJpaUxhSpLZu9ebPezhYTGPiE/preview стр. 40: https://docs.google.com/file/d/1hgxan4U5Fvn2B9QNO6pSryH2Wp-uQtSN/preview стр. 41: https://docs.google.com/file/d/1C03xrh2IbeAbYvPgPLxEZ6prrfKgVqlK/preview стр. 41: https://docs.google.com/file/d/1mcvJb4nadmF82bv9i2Q8EH-_fbm2soF3/preview",
+        "result": "",
+        "tags": [
+          "Production"
+        ],
+        "layout": "Оригинальный слайд",
+        "sourceSlide": 32,
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-032.webp",
+        "slides": [
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-032.webp",
+            "overlays": [
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1k_fVDWyNMtCuhLdjQt-ERNDZxUCgNZOs/preview",
+                "x": 33.16,
+                "y": 31.62,
+                "w": 20.03,
+                "h": 63.53
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1Rr6z4q0EBvFoDBavxNNIYx9chNdDJs8g/preview",
+                "x": 55.38,
+                "y": 31.62,
+                "w": 20.03,
+                "h": 63.35
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1duce5av2JLgftpYGF8oYgJAikOdMHtDU/preview",
+                "x": 77.61,
+                "y": 31.8,
+                "w": 20.03,
+                "h": 63.35
+              }
+            ]
+          },
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-033.webp",
+            "overlays": [
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1jDO65BL4D-CDFHSSUGN07xvdgTQCAxkU/preview",
+                "x": 16.67,
+                "y": 16.67,
+                "w": 66.67,
+                "h": 66.67
+              }
+            ]
+          },
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-034.webp",
+            "overlays": [
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/15iosUgsrRY_SuN9Tw4XTi7AHQ3SIYpV5/preview",
+                "x": 2.38,
+                "y": 28.22,
+                "w": 44.13,
+                "h": 44.09
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1AVG3bzZxl2Lm9X1ewGNu1moaaQhz7Acg/preview",
+                "x": 52.97,
+                "y": 28.22,
+                "w": 44.13,
+                "h": 44.09
+              }
+            ]
+          },
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-035.webp",
+            "overlays": [
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1C1OjfRGzWCCk9sCuq2fgVYhuat8zyeSH/preview",
+                "x": 2.48,
+                "y": 27.93,
+                "w": 44.09,
+                "h": 44.09
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/16QILdPVLzIe50tPLgWDkr7pLEyRLAC1e/preview",
+                "x": 53,
+                "y": 27.93,
+                "w": 44.09,
+                "h": 44.09
+              }
+            ]
+          },
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-036.webp",
+            "overlays": [
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1-0DjNAHFwiWKy9LzmlIbe6QdE60rJYla/preview",
+                "x": 19.98,
+                "y": 19.98,
+                "w": 60.04,
+                "h": 60.04
+              }
+            ]
+          },
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-037.webp",
+            "overlays": [
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1_o-mPW_tN13itksctLbnNI195tRpSAZr/preview",
+                "x": 11.15,
+                "y": 11.15,
+                "w": 77.71,
+                "h": 77.71
+              }
+            ]
+          },
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-038.webp",
+            "overlays": [
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1Z5SaWVyeQC8A3EXA8oRflCAb60v-Yc0n/preview",
+                "x": 12.7,
+                "y": 23.23,
+                "w": 21.83,
+                "h": 69.05
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1GkXMyxFUEEfjDaNTI6CMrFc48oPshVdG/preview",
+                "x": 39.08,
+                "y": 22.98,
+                "w": 21.83,
+                "h": 69.59
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1e3pBqfWubXZhI7AHzLZgAkulS7Ga9_vM/preview",
+                "x": 65.47,
+                "y": 23.25,
+                "w": 21.83,
+                "h": 69
+              }
+            ]
+          },
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-039.webp",
+            "overlays": [
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1MplHgInEwCJ2E6t4MJuQjAPaD2-CV8Lk/preview",
+                "x": 4.04,
+                "y": 26.74,
+                "w": 17.28,
+                "h": 54.6
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1pGJLdmK88ajiFeacORLmcDa4x9RRE8wa/preview",
+                "x": 22.52,
+                "y": 26.74,
+                "w": 17.28,
+                "h": 54.6
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1ZYIOn6LF49qvstkL7I6jEiXnRLXIEO1K/preview",
+                "x": 41.01,
+                "y": 26.74,
+                "w": 17.28,
+                "h": 54.6
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1OX4h1P2KKs_FaLQPrRFbS8mdT3dbGAbl/preview",
+                "x": 59.49,
+                "y": 26.74,
+                "w": 17.28,
+                "h": 54.6
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/15nCL1X1At4x0ZgNg5_EtZEp4GBaL1I49/preview",
+                "x": 78.09,
+                "y": 26.74,
+                "w": 17.28,
+                "h": 54.6
+              }
+            ]
+          },
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-040.webp",
+            "overlays": [
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1sNp-47rcJpaUxhSpLZu9ebPezhYTGPiE/preview",
+                "x": 27.34,
+                "y": 22.01,
+                "w": 20.52,
+                "h": 64.91
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1hgxan4U5Fvn2B9QNO6pSryH2Wp-uQtSN/preview",
+                "x": 53.35,
+                "y": 22.01,
+                "w": 20.52,
+                "h": 64.86
+              }
+            ]
+          },
+          {
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-111/alt-041.webp",
+            "overlays": [
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1C03xrh2IbeAbYvPgPLxEZ6prrfKgVqlK/preview",
+                "x": 2.32,
+                "y": 18.89,
+                "w": 22.48,
+                "h": 71.11
+              },
+              {
+                "kind": "embed",
+                "src": "https://drive.google.com/file/d/1mcvJb4nadmF82bv9i2Q8EH-_fbm2soF3/preview",
+                "x": 26.56,
+                "y": 18.89,
+                "w": 71.17,
+                "h": 71.11
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-21T13:07:44.378Z",
+    "finalSlides": [
+      {
+        "sourceSlide": 46,
+        "title": "Контакты",
+        "slideImage": "https://media.worldorder.club/tag-credentials-2026/outro/slide-46.webp"
+      }
+    ]
+  },
+  "updatedAt": 1790058311128
+}
