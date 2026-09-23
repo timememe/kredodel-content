@@ -154,15 +154,6 @@
       },
       {
         "type": "signature",
-        "title": "Спец проекты",
-        "body": "",
-        "caseId": "",
-        "visualDirection": "Оригинальный финальный слайд",
-        "sourceImage": "https://media.worldorder.club/tag-credentials-2026/outro/slide-45.webp",
-        "locked": true
-      },
-      {
-        "type": "signature",
         "title": "Контакты",
         "body": "",
         "caseId": "",
@@ -323,7 +314,15 @@
         "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-094/main-013.webp",
         "slides": [
           {
-            "image": "https://media.worldorder.club/tag-credentials-2026/lib-094/main-013.webp"
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-094/main-013.webp",
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-0.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-1.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-2.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-3.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-4.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-5.webp"
+            ]
           }
         ]
       },
@@ -345,7 +344,10 @@
         "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-095/main-014.webp",
         "slides": [
           {
-            "image": "https://media.worldorder.club/tag-credentials-2026/lib-095/main-014.webp"
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-095/main-014.webp",
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-095/p014-0.webp"
+            ]
           }
         ]
       },
@@ -388,7 +390,13 @@
         "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-099/main-019.webp",
         "slides": [
           {
-            "image": "https://media.worldorder.club/tag-credentials-2026/lib-099/main-019.webp"
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-099/main-019.webp",
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-099/p019-0.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-099/p019-1.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-099/p019-2.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-099/p019-3.webp"
+            ]
           }
         ]
       },
@@ -408,18 +416,16 @@
         "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-102/main-022.webp",
         "slides": [
           {
-            "image": "https://media.worldorder.club/tag-credentials-2026/lib-102/main-022.webp"
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-102/main-022.webp",
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-102/p022-0.webp"
+            ]
           }
         ]
       }
     ],
-    "updatedAt": "2026-09-21T12:13:54.466Z",
+    "updatedAt": "2026-09-23T06:44:20.762Z",
     "finalSlides": [
-      {
-        "sourceSlide": 45,
-        "title": "Спец проекты",
-        "slideImage": "https://media.worldorder.club/tag-credentials-2026/outro/slide-45.webp"
-      },
       {
         "sourceSlide": 46,
         "title": "Контакты",
@@ -427,5 +433,5 @@
       }
     ]
   },
-  "updatedAt": 1789992849756
+  "updatedAt": 1790145868448
 }
