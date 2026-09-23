@@ -383,7 +383,11 @@
         "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-027/main-027.webp",
         "slides": [
           {
-            "image": "https://media.worldorder.club/tag-credentials-2026/lib-027/main-027.webp"
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-027/main-027.webp",
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-027/p027-0.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-027/p027-1.webp"
+            ]
           }
         ]
       },
@@ -427,7 +431,15 @@
         "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-094/main-013.webp",
         "slides": [
           {
-            "image": "https://media.worldorder.club/tag-credentials-2026/lib-094/main-013.webp"
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-094/main-013.webp",
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-0.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-1.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-2.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-3.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-4.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-094/p013-5.webp"
+            ]
           }
         ]
       },
@@ -449,7 +461,10 @@
         "slideImage": "https://media.worldorder.club/tag-credentials-2026/lib-095/main-014.webp",
         "slides": [
           {
-            "image": "https://media.worldorder.club/tag-credentials-2026/lib-095/main-014.webp"
+            "image": "https://media.worldorder.club/tag-credentials-2026/lib-095/main-014.webp",
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-095/p014-0.webp"
+            ]
           }
         ]
       },
@@ -495,6 +510,10 @@
                 "w": 20.03,
                 "h": 63.35
               }
+            ],
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p032-0.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p032-1.webp"
             ]
           },
           {
@@ -508,6 +527,9 @@
                 "w": 66.67,
                 "h": 66.67
               }
+            ],
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p033-0.webp"
             ]
           },
           {
@@ -529,6 +551,10 @@
                 "w": 44.13,
                 "h": 44.09
               }
+            ],
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p034-0.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p034-1.webp"
             ]
           },
           {
@@ -550,6 +576,10 @@
                 "w": 44.09,
                 "h": 44.09
               }
+            ],
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p035-0.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p035-1.webp"
             ]
           },
           {
@@ -563,6 +593,9 @@
                 "w": 60.04,
                 "h": 60.04
               }
+            ],
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p036-0.webp"
             ]
           },
           {
@@ -576,6 +609,9 @@
                 "w": 77.71,
                 "h": 77.71
               }
+            ],
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p037-0.webp"
             ]
           },
           {
@@ -605,6 +641,11 @@
                 "w": 21.83,
                 "h": 69
               }
+            ],
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p038-0.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p038-1.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p038-2.webp"
             ]
           },
           {
@@ -650,6 +691,13 @@
                 "w": 17.28,
                 "h": 54.6
               }
+            ],
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p039-0.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p039-1.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p039-2.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p039-3.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p039-4.webp"
             ]
           },
           {
@@ -671,6 +719,10 @@
                 "w": 20.52,
                 "h": 64.86
               }
+            ],
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p040-0.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p040-1.webp"
             ]
           },
           {
@@ -692,12 +744,16 @@
                 "w": 71.17,
                 "h": 71.11
               }
+            ],
+            "photos": [
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p041-0.webp",
+              "https://media.worldorder.club/tag-credentials-2026/lib-111/p041-1.webp"
             ]
           }
         ]
       }
     ],
-    "updatedAt": "2026-09-21T13:07:44.378Z",
+    "updatedAt": "2026-09-23T06:44:20.762Z",
     "finalSlides": [
       {
         "sourceSlide": 46,
@@ -706,5 +762,5 @@
       }
     ]
   },
-  "updatedAt": 1790058311128
+  "updatedAt": 1790145866693
 }
